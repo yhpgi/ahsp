@@ -1,0 +1,6 @@
+.scraper-cache/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+*.py
+tests/

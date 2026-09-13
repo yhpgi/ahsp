@@ -1,0 +1,500 @@
+{"kode":"La.07.a","nama":"Pengangkatan gulma padat dan/atau sampah padat, tebal 25 cm (manual)","satuan":"m3","sumber_id":"1","sumber_nama":"Permen PUPR SDA Nomor 1 Tahun 2022"}
+{"kode":"La.07.b","nama":"Pengangkatan gulma padat dan/atau sampah padat, tebal 25 cm (mekanis)","satuan":"m3","sumber_id":"1","sumber_nama":"Permen PUPR SDA Nomor 1 Tahun 2022"}
+{"kode":"La.08.a.1)","nama":"Pekerjaan serutan papan atau balok kayu (manual)","satuan":"m2","sumber_id":"1","sumber_nama":"Permen PUPR SDA Nomor 1 Tahun 2022"}
+{"kode":"La.08.a.2)","nama":"Membuat pasangan/konstruksi kayu dari bahan baku papan kayu","satuan":"m2","sumber_id":"1","sumber_nama":"Permen PUPR SDA Nomor 1 Tahun 2022"}
+{"kode":"La.08.a.3)","nama":"Pembuatan profil pada sudut kayu dengan alat serutan profil, takikan/sambungan dengan pahat dan lain-lain","satuan":"m1","sumber_id":"1","sumber_nama":"Permen PUPR SDA Nomor 1 Tahun 2022"}
+{"kode":"La.08.a.3).a","nama":"Membuat pasangan/konstruksi kayu dari bahan baku balok kayu kelas I","satuan":"m3","sumber_id":"1","sumber_nama":"Permen PUPR SDA Nomor 1 Tahun 2022"}
+{"kode":"La.08.a.4)","nama":"Membuat pasangan/konstruksi kayu dari bahan baku balok kayu kelas II dan/atau III","satuan":"m3","sumber_id":"1","sumber_nama":"Permen PUPR SDA Nomor 1 Tahun 2022"}
+{"kode":"La.08.b.1)","nama":"Pekerjaan serutan papan atau balok kayu (semi mekanis)","satuan":"m2","sumber_id":"1","sumber_nama":"Permen PUPR SDA Nomor 1 Tahun 2022"}
+{"kode":"La.08.b.2)","nama":"Membuat pasangan/konstruksi kayu dari bahan baku papan atau balok kayu (semi mekanis)","satuan":"m3","sumber_id":"1","sumber_nama":"Permen PUPR SDA Nomor 1 Tahun 2022"}
+{"kode":"La.09.c","nama":"Pembuatan pintu besi baja tebal 2 mm rangkap, rangka baja siku","satuan":"m2","sumber_id":"1","sumber_nama":"Permen PUPR SDA Nomor 1 Tahun 2022"}
+{"kode":"La.12.a","nama":"Pemasangan besi profil Siku, IWF, INP, UNP","satuan":"kg","sumber_id":"1","sumber_nama":"Permen PUPR Nomor 28/PRT/M/2016"}
+{"kode":"La.12.b","nama":"Pengerjaan 100 kg pekerjaan perakitan konstruksi besi/baja","satuan":"kg","sumber_id":"1","sumber_nama":"Permen PUPR Nomor 28/PRT/M/2016"}
+{"kode":"La.12.c","nama":"Pembuatan pintu besi plat baja tebal 2 mm rangkap, rangka baja siku","satuan":"m2","sumber_id":"1","sumber_nama":"Permen PUPR Nomor 28/PRT/M/2016"}
+{"kode":"La.12.d","nama":"Pengerjaan 10 cm pengelasan dengan las listrik","satuan":"cm","sumber_id":"1","sumber_nama":"Permen PUPR Nomor 28/PRT/M/2016"}
+{"kode":"P.01.a.1)","nama":"Pasangan batu dengan mortar tipe M (setara campuran 1 PC:2 PP) manual","satuan":"m3","sumber_id":"1","sumber_nama":"Permen PUPR Nomor 28/PRT/M/2016"}
+{"kode":"P.01.a.2)","nama":"Pasangan batu dengan mortar tipe M (setara campuran 1 PC:2 PP) menggunakan molen","satuan":"m3","sumber_id":"1","sumber_nama":"Permen PUPR Nomor 28/PRT/M/2016"}
+{"kode":"P.01.b.1)","nama":"Pasangan batu dengan mortar tipe S (setara campuran 1 PC:3 PP) manual","satuan":"m3","sumber_id":"1","sumber_nama":"Permen PUPR Nomor 28/PRT/M/2016"}
+{"kode":"P.01.b.2)","nama":"Pasangan batu dengan mortar tipe S (setara campuran 1 PC:3 PP) menggunakan molen","satuan":"m3","sumber_id":"1","sumber_nama":"Permen PUPR Nomor 28/PRT/M/2016"}
+{"kode":"P.01.c.1)","nama":"Pasangan batu dengan mortar tipe N (setara campuran 1 PC:4 PP) manual","satuan":"m3","sumber_id":"1","sumber_nama":"Permen PUPR Nomor 28/PRT/M/2016"}
+{"kode":"P.01.c.2)","nama":"Pasangan batu dengan mortar tipe N (setara campuran 1 PC:4 PP) menggunakan molen","satuan":"m3","sumber_id":"1","sumber_nama":"Permen PUPR Nomor 28/PRT/M/2016"}
+{"kode":"P.01.d.1)","nama":"Pasangan batu dengan mortar tipe O (setara campuran 1 PC:5 PP) manual","satuan":"m3","sumber_id":"1","sumber_nama":"Permen PUPR Nomor 28/PRT/M/2016"}
+{"kode":"P.01.d.2)","nama":"Pasangan batu dengan mortar tipe O (setara campuran 1 PC:5 PP) menggunakan molen","satuan":"m3","sumber_id":"1","sumber_nama":"Permen PUPR Nomor 28/PRT/M/2016"}
+{"kode":"P.01.e.1)","nama":"Bongkar pasangan batu dan pembersihan batu (manual)","satuan":"m3","sumber_id":"1","sumber_nama":"Permen PUPR Nomor 28/PRT/M/2016"}
+{"kode":"P.01.e.2)","nama":"Bongkar pasangan batu (manual)","satuan":"m3","sumber_id":"1","sumber_nama":"Permen PUPR Nomor 28/PRT/M/2016"}
+{"kode":"P.01.e.3)","nama":"Bongkar pasangan batu dengan jack hammer","satuan":"m3","sumber_id":"1","sumber_nama":"Permen PUPR Nomor 28/PRT/M/2016"}
+{"kode":"P.01.e.4)","nama":"Pembersihan bongkaran pasangan batu untuk pemanfaatan kembali material batu","satuan":"m3","sumber_id":"1","sumber_nama":"Permen PUPR Nomor 28/PRT/M/2016"}
+{"kode":"P.02.a.1)","nama":"Pasangan bata merah dengan mortar tipe M (setara campuran 1 PC:2 PP) manual","satuan":"m3","sumber_id":"1","sumber_nama":"Permen PUPR Nomor 28/PRT/M/2016"}
+{"kode":"P.02.a.2)","nama":"Pasangan bata merah dengan mortar tipe M (setara campuran 1 PC:2 PP) menggunakan molen","satuan":"m3","sumber_id":"1","sumber_nama":"Permen PUPR Nomor 28/PRT/M/2016"}
+{"kode":"P.02.b.1)","nama":"Pasangan bata merah dengan mortar tipe S (setara campuran 1 PC:3 PP) manual","satuan":"m3","sumber_id":"1","sumber_nama":"Permen PUPR Nomor 28/PRT/M/2016"}
+{"kode":"P.02.b.2)","nama":"Pasangan bata merah dengan mortar tipe S (setara campuran 1 PC:3 PP) menggunakan molen","satuan":"m3","sumber_id":"1","sumber_nama":"Permen PUPR Nomor 28/PRT/M/2016"}
+{"kode":"P.02.c.1)","nama":"Pasangan bata merah dengan mortar tipe N (setara campuran 1 PC:4 PP) manual","satuan":"m3","sumber_id":"1","sumber_nama":"Permen PUPR Nomor 28/PRT/M/2016"}
+{"kode":"P.02.c.2)","nama":"Pasangan bata merah dengan mortar tipe N (setara campuran 1 PC:4 PP) menggunakan molen","satuan":"m3","sumber_id":"1","sumber_nama":"Permen PUPR Nomor 28/PRT/M/2016"}
+{"kode":"P.02.d.1)","nama":"Pasangan bata merah dengan mortar tipe O (setara campuran 1 PC:5 PP) manual","satuan":"m3","sumber_id":"1","sumber_nama":"Permen PUPR Nomor 28/PRT/M/2016"}
+{"kode":"P.02.d.2)","nama":"Pasangan bata merah dengan mortar tipe O (setara campuran 1 PC:5 PP) menggunakan molen","satuan":"m3","sumber_id":"1","sumber_nama":"Permen PUPR Nomor 28/PRT/M/2016"}
+{"kode":"P.02.e.1)","nama":"Pasangan bata merah dengan mortar campuran 1 PC:6 PP manual","satuan":"m3","sumber_id":"1","sumber_nama":"Permen PUPR Nomor 28/PRT/M/2016"}
+{"kode":"P.02.e.2)","nama":"Pasangan bata merah dengan mortar campuran 1 PC:6 PP menggunakan molen","satuan":"m3","sumber_id":"1","sumber_nama":"Permen PUPR Nomor 28/PRT/M/2016"}
+{"kode":"P.02.f.1)","nama":"Bongkar pasangan bata merah (manual)","satuan":"m3","sumber_id":"1","sumber_nama":"Permen PUPR Nomor 28/PRT/M/2016"}
+{"kode":"P.02.f.2)","nama":"Bongkar pasangan bata merah dengan jack hammer","satuan":"m3","sumber_id":"1","sumber_nama":"Permen PUPR Nomor 28/PRT/M/2016"}
+{"kode":"P.03.a","nama":"Siaran dengan mortar tipe M (setara campuran 1 PC:2 PP)","satuan":"m2","sumber_id":"1","sumber_nama":"Permen PUPR Nomor 28/PRT/M/2016"}
+{"kode":"P.03.b","nama":"Siaran dengan mortar tipe S (setara campuran 1 PC:3 PP)","satuan":"m2","sumber_id":"1","sumber_nama":"Permen PUPR Nomor 28/PRT/M/2016"}
+{"kode":"P.04.a","nama":"Trasraam tebal 1 cm dengan mortar tipe M (setara campuran 1 PC:2 PP)","satuan":"m2","sumber_id":"1","sumber_nama":"Permen PUPR Nomor 28/PRT/M/2016"}
+{"kode":"P.04.b","nama":"Plesteran tebal 1 cm dengan mortar tipe S (setara campuran 1 PC:3 PP)","satuan":"m2","sumber_id":"1","sumber_nama":"Permen PUPR Nomor 28/PRT/M/2016"}
+{"kode":"P.04.c","nama":"Plesteran tebal 1 cm dengan mortar tipe N (setara campuran 1 PC:4 PP)","satuan":"m2","sumber_id":"1","sumber_nama":"Permen PUPR Nomor 28/PRT/M/2016"}
+{"kode":"P.04.d","nama":"Trasraam tebal 1,5 cm dengan mortar tipe M (setara campuran 1 PC:2 PP)","satuan":"m2","sumber_id":"1","sumber_nama":"Permen PUPR Nomor 28/PRT/M/2016"}
+{"kode":"P.04.e","nama":"Plesteran tebal 1,5 cm dengan mortar tipe S (setara campuran 1 PC:3 PP)","satuan":"m2","sumber_id":"1","sumber_nama":"Permen PUPR Nomor 28/PRT/M/2016"}
+{"kode":"P.04.f","nama":"Plesteran tebal 1,5 cm dengan mortar tipe N (setara campuran 1 PC:4 PP)","satuan":"m2","sumber_id":"1","sumber_nama":"Permen PUPR Nomor 28/PRT/M/2016"}
+{"kode":"P.04.g","nama":"Pekerjaan acian","satuan":"m2","sumber_id":"1","sumber_nama":"Permen PUPR Nomor 28/PRT/M/2016"}
+{"kode":"P.05","nama":"Pasangan batu kosong","satuan":"m3","sumber_id":"1","sumber_nama":"Permen PUPR Nomor 28/PRT/M/2016"}
+{"kode":"P.06.a.1).a)","nama":"Pasangan batu kawat bronjong galvanis kawat anyaman 3 lilitan ø 2,70 mm, kawat sisi ø 3,40 mm dan kawat pengikat ø 2,0 mm, lubang heksagonal 80 x 100 mm (Bentuk I Tipe A)","satuan":"m3","sumber_id":"1","sumber_nama":"Permen PUPR Nomor 28/PRT/M/2016"}
+{"kode":"P.06.a.1).b)","nama":"Pasangan batu kawat bronjong galvanis kawat anyaman 3 lilitan ø 3,0 mm, kawat sisi ø 4,0 mm dan kawat pengikat ø 2,0 mm, lubang heksagonal 100 x 120 mm (Bentuk I Tipe A)","satuan":"m3","sumber_id":"1","sumber_nama":"Permen PUPR Nomor 28/PRT/M/2016"}
+{"kode":"P.06.a.1).c)","nama":"Pasangan batu kawat bronjong wire mesh ø 5 mm ulir, kawat pengikat ø 2,0 mm, lubang kotak 100 x 100 mm (Bentuk I Tipe A)","satuan":"m3","sumber_id":"1","sumber_nama":"Permen PUPR Nomor 28/PRT/M/2016"}
+{"kode":"P.06.a.2).a)","nama":"Pasangan batu kawat bronjong galvanis kawat anyaman 3 lilitan ø 2,70 mm, kawat sisi ø 3,40 mm dan kawat pengikat ø 2,0 mm, lubang heksagonal 80 x 100 mm (Bentuk I, Tipe B)","satuan":"m3","sumber_id":"1","sumber_nama":"Permen PUPR Nomor 28/PRT/M/2016"}
+{"kode":"P.06.a.2).b)","nama":"Pasangan batu kawat bronjong galvanis kawat anyaman 3 lilitan ø 3,0 mm, kawat sisi ø 4,0 mm dan kawat pengikat ø 2,0 mm, lubang heksagonal 100 x 120 mm (Bentuk I, Tipe B)","satuan":"m3","sumber_id":"1","sumber_nama":"Permen PUPR Nomor 28/PRT/M/2016"}
+{"kode":"P.06.a.2).c)","nama":"Pasangan batu kawat bronjong wire mesh ø 5 mm ulir, kawat pengikat ø 2,0 mm, lubang kotak 100 x 100 mm (Bentuk I, Tipe B)","satuan":"m3","sumber_id":"1","sumber_nama":"Permen PUPR Nomor 28/PRT/M/2016"}
+{"kode":"P.06.a.3).a)","nama":"Pasangan batu kawat bronjong galvanis kawat anyaman 3 lilitan ø 2,70 mm, kawat sisi ø 3,40 mm dan kawat pengikat ø 2,0 mm, lubang heksagonal 80 x 100 mm (Bentuk I Tipe C)","satuan":"m3","sumber_id":"1","sumber_nama":"Permen PUPR Nomor 28/PRT/M/2016"}
+{"kode":"P.06.a.3).b)","nama":"Pasangan batu kawat bronjong galvanis kawat anyaman 3 lilitan ø 3,0 mm, kawat sisi ø 4,0 mm dan kawat pengikat ø 2,0 mm, lubang heksagonal 100 x 120 mm (Bentuk I Tipe C)","satuan":"m3","sumber_id":"1","sumber_nama":"Permen PUPR Nomor 28/PRT/M/2016"}
+{"kode":"P.06.a.3).c)","nama":"Pasangan batu kawat bronjong wire mesh ø 5 mm ulir, kawat pengikat ø 2,0 mm, lubang kotak 100 x 100 mm (Bentuk I Tipe C)","satuan":"m3","sumber_id":"1","sumber_nama":"Permen PUPR Nomor 28/PRT/M/2016"}
+{"kode":"P.06.a.4).a)","nama":"Pasangan batu kawat bronjong galvanis kawat anyaman 3 lilitan ø 2,70 mm, kawat sisi ø 3,40 mm dan kawat pengikat ø 2,0 mm, lubang heksagonal 80 x 100 mm (Bentuk I Tipe D)","satuan":"m3","sumber_id":"1","sumber_nama":"Permen PUPR Nomor 28/PRT/M/2016"}
+{"kode":"P.06.a.4).b)","nama":"Pasangan batu kawat bronjong galvanis kawat anyaman 3 lilitan ø 3,0 mm, kawat sisi ø 4,0 mm dan kawat pengikat ø 2,0 mm, lubang heksagonal 100 x 120 mm (Bentuk I Tipe D)","satuan":"m3","sumber_id":"1","sumber_nama":"Permen PUPR Nomor 28/PRT/M/2016"}
+{"kode":"P.06.a.4).c)","nama":"Pasangan batu kawat bronjong wire mesh ø 5 mm ulir, kawat pengikat ø 2,0 mm, lubang kotak 100 x 100 mm (Bentuk I Tipe D)","satuan":"m3","sumber_id":"1","sumber_nama":"Permen PUPR Nomor 28/PRT/M/2016"}
+{"kode":"P.06.a.5).a)","nama":"Pasangan batu kawat bronjong galvanis kawat anyaman 3 lilitan ø 2,70 mm, kawat sisi ø 3,40 mm dan kawat pengikat ø 2,0 mm, lubang heksagonal 80 x 100 mm (Bentuk I,Tipe E)","satuan":"m3","sumber_id":"1","sumber_nama":"Permen PUPR Nomor 28/PRT/M/2016"}
+{"kode":"P.06.a.5).b)","nama":"Pasangan batu kawat bronjong galvanis kawat anyaman 3 lilitan ø 3,0 mm, kawat sisi ø 4,0 mm dan kawat pengikat ø 2,0 mm, lubang heksagonal 100 x 120 mm (Bentuk I,Tipe E)","satuan":"m3","sumber_id":"1","sumber_nama":"Permen PUPR Nomor 28/PRT/M/2016"}
+{"kode":"P.06.a.5).c)","nama":"Pasangan batu kawat bronjong wire mesh ø 5 mm ulir, kawat pengikat ø 2,0 mm, lubang kotak 100 x 100 mm (Bentuk I,Tipe E)","satuan":"m3","sumber_id":"1","sumber_nama":"Permen PUPR Nomor 28/PRT/M/2016"}
+{"kode":"P.06.a.6).a)","nama":"Pasangan batu kawat bronjong galvanis kawat anyaman 3 lilitan ø 2,70 mm, kawat sisi ø 3,40 mm dan kawat pengikat ø 2,0 mm, lubang heksagonal 80 x 100 mm (Bentuk I Tipe F)","satuan":"m3","sumber_id":"1","sumber_nama":"Permen PUPR Nomor 28/PRT/M/2016"}
+{"kode":"P.06.a.6).b)","nama":"Pasangan batu kawat bronjong galvanis kawat anyaman 3 lilitan ø 3,0 mm, kawat sisi ø 4,0 mm dan kawat pengikat ø 2,0 mm, lubang heksagonal 100 x 120 mm (Bentuk I Tipe F)","satuan":"m3","sumber_id":"1","sumber_nama":"Permen PUPR Nomor 28/PRT/M/2016"}
+{"kode":"P.06.a.6).c)","nama":"Pasangan batu kawat bronjong wire mesh ø 5 mm ulir, kawat pengikat ø 2,0 mm, lubang kotak 100 x 100 mm (Bentuk I Tipe F)","satuan":"m3","sumber_id":"1","sumber_nama":"Permen PUPR Nomor 28/PRT/M/2016"}
+{"kode":"P.06.a.7)","nama":"Pasangan bronjong pabrikasi bentuk I","satuan":"m3","sumber_id":"1","sumber_nama":"Permen PUPR Nomor 28/PRT/M/2016"}
+{"kode":"P.06.b.1).a)","nama":"Pasangan batu kawat bronjong galvanis kawat anyaman 3 lilitan ø 2,00 mm, kawat sisi ø 3,40 mm dan kawat pengikat ø 2,0 mm, lubang heksagonal 60 x 80 mm (Bentuk II Tipe G)","satuan":"m3","sumber_id":"1","sumber_nama":"Permen PUPR Nomor 28/PRT/M/2016"}
+{"kode":"P.06.b.1).b)","nama":"Pasangan batu kawat bronjong galvanis kawat anyaman 3 lilitan ø 2,70 mm, kawat sisi ø 4,0 mm dan kawat pengikat ø 2,0 mm, lubang heksagonal 80 x 100 mm (Bentuk II Tipe G)","satuan":"m3","sumber_id":"1","sumber_nama":"Permen PUPR Nomor 28/PRT/M/2016"}
+{"kode":"P.06.b.2).a)","nama":"Pasangan batu kawat bronjong galvanis kawat anyaman 3 lilitan ø 2,00 mm, kawat sisi ø 3,40 mm dan kawat pengikat ø 2,0 mm, lubang heksagonal 60 x 80 mm (Bentuk II Tipe H)","satuan":"m3","sumber_id":"1","sumber_nama":"Permen PUPR Nomor 28/PRT/M/2016"}
+{"kode":"P.06.b.2).b)","nama":"Pasangan batu kawat bronjong galvanis kawat anyaman 3 lilitan ø 2,70 mm, kawat sisi ø 4,0 mm dan kawat pengikat ø 2,0 mm, lubang heksagonal 80 x 100 mm (Bentuk II Tipe H)","satuan":"m3","sumber_id":"1","sumber_nama":"Permen PUPR Nomor 28/PRT/M/2016"}
+{"kode":"P.06.b.3).a)","nama":"Pasangan batu kawat bronjong galvanis kawat anyaman 3 lilitan ø 2,00 mm, kawat sisi ø 3,40 mm dan kawat pengikat ø 2,0 mm, lubang heksagonal 60 x 80 mm (Bentuk II Tipe I)","satuan":"m3","sumber_id":"1","sumber_nama":"Permen PUPR Nomor 28/PRT/M/2016"}
+{"kode":"P.06.b.3).b)","nama":"Pasangan batu kawat bronjong galvanis kawat anyaman 3 lilitan ø 2,70 mm, kawat sisi ø 4,0 mm dan kawat pengikat ø 2,0 mm, lubang heksagonal 80 x 100 mm (Bentuk II Tipe I)","satuan":"m3","sumber_id":"1","sumber_nama":"Permen PUPR Nomor 28/PRT/M/2016"}
+{"kode":"P.06.b.4)","nama":"Pasangan bronjong pabrikasi bentuk II","satuan":"m3","sumber_id":"1","sumber_nama":"Permen PUPR Nomor 28/PRT/M/2016"}
+{"kode":"P.07.a","nama":"Cerucuk kayu atau dolken ø 8 - 10 cm","satuan":"m1","sumber_id":"1","sumber_nama":"Permen PUPR Nomor 28/PRT/M/2016"}
+{"kode":"P.07.b","nama":"Cerucuk bambu ø 8 cm - 10 cm","satuan":"m1","sumber_id":"1","sumber_nama":"Permen PUPR Nomor 28/PRT/M/2016"}
+{"kode":"P.07.c","nama":"Cerucuk tiang beton ø 10 cm - 15 cm","satuan":"m1","sumber_id":"1","sumber_nama":"Permen PUPR Nomor 28/PRT/M/2016"}
+{"kode":"P.07.d","nama":"Pemasangan modul bronjong kawat menjadi struktur krib sungai","satuan":"m3","sumber_id":"1","sumber_nama":"Permen PUPR Nomor 28/PRT/M/2016"}
+{"kode":"P.08.a","nama":"Pasangan batu muka","satuan":"m2","sumber_id":"1","sumber_nama":"Permen PUPR Nomor 28/PRT/M/2016"}
+{"kode":"P.08.b","nama":"Pasangan batu candi","satuan":"m2","sumber_id":"1","sumber_nama":"Permen PUPR Nomor 28/PRT/M/2016"}
+{"kode":"P.08.d.1)","nama":"Pasangan filter 2-lapis karung goni (permeable)","satuan":"m2","sumber_id":"1","sumber_nama":"Permen PUPR SDA Nomor 1 Tahun 2022"}
+{"kode":"P.08.d.2)","nama":"Pasangan lapisan impermeable 2-lapis karung goni dilabur aspa","satuan":"m2","sumber_id":"1","sumber_nama":"Permen PUPR SDA Nomor 1 Tahun 2022"}
+{"kode":"P.09.a","nama":"Pemasangan geotekstil, Tipe-A, tipis","satuan":"m2","sumber_id":"1","sumber_nama":"Permen PUPR Nomor 28/PRT/M/2016"}
+{"kode":"P.09.a1","nama":"Pasangan bar screen (saringan kasar)","satuan":"m2","sumber_id":"1","sumber_nama":"Permen PUPR SDA Nomor 1 Tahun 2022"}
+{"kode":"P.09.b","nama":"Pemasangan geotekstil, Tipe-B, tebal sedang","satuan":"m2","sumber_id":"1","sumber_nama":"Permen PUPR Nomor 28/PRT/M/2016"}
+{"kode":"P.09.b1","nama":"Ambang ukur pada bangunan pengukur dan/atau pengatur","satuan":"bh","sumber_id":"1","sumber_nama":"Permen PUPR SDA Nomor 1 Tahun 2022"}
+{"kode":"P.09.c","nama":"Pemasangan geotekstil, Tipe-C, tebal","satuan":"m2","sumber_id":"1","sumber_nama":"Permen PUPR Nomor 28/PRT/M/2016"}
+{"kode":"P.09.c1","nama":"Peilskaal/mistar duga muka air","satuan":"m1","sumber_id":"1","sumber_nama":"Permen PUPR SDA Nomor 1 Tahun 2022"}
+{"kode":"P.10.a","nama":"Construction Joint Filler (elastis)","satuan":"m3","sumber_id":"1","sumber_nama":"Permen PUPR SDA Nomor 1 Tahun 2022"}
+{"kode":"P.10.b","nama":"Construction Joint Sementasi (Slash grouting)/rigid","satuan":"m3","sumber_id":"1","sumber_nama":"Permen PUPR SDA Nomor 1 Tahun 2022"}
+{"kode":"P.11","nama":"Penanaman pohon bakau","satuan":"pohon","sumber_id":"1","sumber_nama":"Permen PUPR SDA Nomor 1 Tahun 2022"}
+{"kode":"P.12.a","nama":"Pembuatan Rakit Bambu atau sebagai Plaatform BPP","satuan":"m2","sumber_id":"1","sumber_nama":"Permen PUPR SDA Nomor 1 Tahun 2022"}
+{"kode":"P.12.a)","nama":"Penanaman rumput lempengan","satuan":"m2","sumber_id":"1","sumber_nama":"Permen PUPR Nomor 28/PRT/M/2016"}
+{"kode":"P.12.b","nama":"Pasangan Matras Geotekstil sebagai Plaatform BPP","satuan":"m2","sumber_id":"1","sumber_nama":"Permen PUPR SDA Nomor 1 Tahun 2022"}
+{"kode":"P.12.b.1).a)","nama":"Pembabadan rumput perhitungan secara umum (manual)","satuan":"m2","sumber_id":"1","sumber_nama":"Permen PUPR Nomor 28/PRT/M/2016"}
+{"kode":"P.12.b.1).b).(1)","nama":"Pembabadan rumput daerah datar sampai pelandaian naik dengan kemiringan 1v : 10 h (manual)","satuan":"m2","sumber_id":"1","sumber_nama":"Permen PUPR Nomor 28/PRT/M/2016"}
+{"kode":"P.12.b.1).b).(2)","nama":"Pembabadan rumput daerah dengan kemiringan 1v : 10h s.d. 1v : 2,5h (manual)","satuan":"m2","sumber_id":"1","sumber_nama":"Permen PUPR Nomor 28/PRT/M/2016"}
+{"kode":"P.12.b.1).b).(3)","nama":"Pembabadan rumput daerah dengan kemiringan 1v : 2,5h s.d. 1v : 1h (manual)","satuan":"m2","sumber_id":"1","sumber_nama":"Permen PUPR Nomor 28/PRT/M/2016"}
+{"kode":"P.12.b.1).b).(4)","nama":"Pembabadan rumput daerah dengan kemiringan 1v : 1h s.d. 1h : 2,5v (manual)","satuan":"m2","sumber_id":"1","sumber_nama":"Permen PUPR Nomor 28/PRT/M/2016"}
+{"kode":"P.12.b.1).b).(5)","nama":"Pembabadan rumput daerah dengan kemiringan 2,5v : 1h sampai dengan tegak (manual)","satuan":"m2","sumber_id":"1","sumber_nama":"Permen PUPR Nomor 28/PRT/M/2016"}
+{"kode":"P.12.b.2).a)","nama":"Pembabadan rumput perhitungan secara umum (semi mekanis)","satuan":"m2","sumber_id":"1","sumber_nama":"Permen PUPR Nomor 28/PRT/M/2016"}
+{"kode":"P.12.b.2).b).(1)","nama":"Pembabadan rumput daerah datar sampai pelandaian naik dengan kemiringan 1v : 10h (semi mekanis)","satuan":"m2","sumber_id":"1","sumber_nama":"Permen PUPR Nomor 28/PRT/M/2016"}
+{"kode":"P.12.b.2).b).(2)","nama":"Pembabadan rumput daerah dengan kemiringan 1v : 10h s.d. 1v : 2,5h (semi mekanis)","satuan":"m2","sumber_id":"1","sumber_nama":"Permen PUPR Nomor 28/PRT/M/2016"}
+{"kode":"P.12.b.2).b).(3)","nama":"Pembabadan rumput daerah dengan kemiringan 1v : 2,5h s.d. 1v : 1h (semi mekanis)","satuan":"m2","sumber_id":"1","sumber_nama":"Permen PUPR Nomor 28/PRT/M/2016"}
+{"kode":"P.12.b.2).b).(4)","nama":"Pembabadan rumput daerah dengan kemiringan 1v : 1h s.d. 2,5v : 1h (semi mekanis)","satuan":"m2","sumber_id":"1","sumber_nama":"Permen PUPR Nomor 28/PRT/M/2016"}
+{"kode":"P.12.b.2).b).(5)","nama":"Pembabadan rumput daerah dengan kemiringan 2,5v : 1h sampai dengan tegak (semi mekanis)","satuan":"m2","sumber_id":"1","sumber_nama":"Permen PUPR Nomor 28/PRT/M/2016"}
+{"kode":"P.13.a","nama":"Pembuatan kubus beton ukuran 30 cm","satuan":"bh","sumber_id":"1","sumber_nama":"Permen PUPR SDA Nomor 1 Tahun 2022"}
+{"kode":"P.13.b","nama":"Pembuatan kubus beton ukuran 40 cm","satuan":"bh","sumber_id":"1","sumber_nama":"Permen PUPR SDA Nomor 1 Tahun 2022"}
+{"kode":"P.13.c","nama":"Pembuatan kubus beton ukuran 60 cm Masif","satuan":"bh","sumber_id":"1","sumber_nama":"Permen PUPR SDA Nomor 1 Tahun 2022"}
+{"kode":"P.13.d","nama":"Pembuatan kubus beton ukuran 60 cm Berongga","satuan":"bh","sumber_id":"1","sumber_nama":"Permen PUPR SDA Nomor 1 Tahun 2022"}
+{"kode":"P.13.e","nama":"Pembuatan Armor-3B: Berkait, Berongga dan Bertangga","satuan":"bh","sumber_id":"1","sumber_nama":"Permen PUPR SDA Nomor 1 Tahun 2022"}
+{"kode":"P.13.f","nama":"Pembuatan Armor Blok Beton Bergigi","satuan":"bh","sumber_id":"1","sumber_nama":"Permen PUPR SDA Nomor 1 Tahun 2022"}
+{"kode":"P.13.g","nama":"Pembuatan blok beton berat 0,4 ton quadripod, tetrapod, dolos, tribar dan lainnya","satuan":"bh","sumber_id":"1","sumber_nama":"Permen PUPR SDA Nomor 1 Tahun 2022"}
+{"kode":"P.13.h","nama":"Pembuatan blok beton berat 0,5 ton quadripod, tetrapod, dolos, tribar dan lainnya","satuan":"bh","sumber_id":"1","sumber_nama":"Permen PUPR SDA Nomor 1 Tahun 2022"}
+{"kode":"P.13.i","nama":"Pembuatan blok beton berat 0,75 Ton quadripod, tetrapod, dolos, tribar dan lainnya","satuan":"bh","sumber_id":"1","sumber_nama":"Permen PUPR SDA Nomor 1 Tahun 2022"}
+{"kode":"P.13.j","nama":"Pembuatan blok beton berat 1,0 Ton quadripod, tetrapod, dolos, tribar dan lainnya","satuan":"bh","sumber_id":"1","sumber_nama":"Permen PUPR SDA Nomor 1 Tahun 2022"}
+{"kode":"P.13.k","nama":"Pembuatan blok beton berat 1,5 Ton quadripod, tetrapod, dolos, tribar dan lainnya","satuan":"bh","sumber_id":"1","sumber_nama":"Permen PUPR SDA Nomor 1 Tahun 2022"}
+{"kode":"P.13.l","nama":"Pembuatan blok beton berat 2,0 Ton quadripod, tetrapod, dolos, tribar dan lainnya","satuan":"bh","sumber_id":"1","sumber_nama":"Permen PUPR SDA Nomor 1 Tahun 2022"}
+{"kode":"P.13.m","nama":"Pembuatan blok beton berat 2,5 Ton quadripod, tetrapod, dolos, tribar dan lainnya","satuan":"bh","sumber_id":"1","sumber_nama":"Permen PUPR SDA Nomor 1 Tahun 2022"}
+{"kode":"P.14","nama":"Pemasangan berbagai jenis armor (manual)","satuan":"m3","sumber_id":"1","sumber_nama":"Permen PUPR SDA Nomor 1 Tahun 2022"}
+{"kode":"P.14.a","nama":"Pasangan Armor kubus beton 30 cm (manual)","satuan":"m3","sumber_id":"1","sumber_nama":"Permen PUPR SDA Nomor 1 Tahun 2022"}
+{"kode":"P.14.b","nama":"Pasangan Armor kubus beton 40 cm (manual)","satuan":"m3","sumber_id":"1","sumber_nama":"Permen PUPR SDA Nomor 1 Tahun 2022"}
+{"kode":"P.14.c","nama":"Pasangan Armor kubus beton 60 cm Masif (manual)","satuan":"m3","sumber_id":"1","sumber_nama":"Permen PUPR SDA Nomor 1 Tahun 2022"}
+{"kode":"P.14.d","nama":"Pasangan Armor kubus beton 60 cm Berongga (manual)","satuan":"m3","sumber_id":"1","sumber_nama":"Permen PUPR SDA Nomor 1 Tahun 2022"}
+{"kode":"P.14.e","nama":"Pasangan Armor 3B: Berkait, Berongga dan Bertangga (manual)","satuan":"m3","sumber_id":"1","sumber_nama":"Permen PUPR SDA Nomor 1 Tahun 2022"}
+{"kode":"P.14.f","nama":"Pasangan Armor Blok Beton Bergigi (manual)","satuan":"m3","sumber_id":"1","sumber_nama":"Permen PUPR SDA Nomor 1 Tahun 2022"}
+{"kode":"P.14.g","nama":"Pasangan Armor Blok Beton 0,4 Ton (manual)","satuan":"m3","sumber_id":"1","sumber_nama":"Permen PUPR SDA Nomor 1 Tahun 2022"}
+{"kode":"P.14.h","nama":"Pasangan Armor Blok Beton 0,5 Ton (manual)","satuan":"m3","sumber_id":"1","sumber_nama":"Permen PUPR SDA Nomor 1 Tahun 2022"}
+{"kode":"P.14.i","nama":"Pasangan Armor Blok Beton 0,75 Ton (manual)","satuan":"m3","sumber_id":"1","sumber_nama":"Permen PUPR SDA Nomor 1 Tahun 2022"}
+{"kode":"P.14.j","nama":"Pasangan Armor Blok Beton 1,0 Ton (manual)","satuan":"m3","sumber_id":"1","sumber_nama":"Permen PUPR SDA Nomor 1 Tahun 2022"}
+{"kode":"P.14.k","nama":"Pasangan Armor Blok Beton 1,5 Ton (manual)","satuan":"m3","sumber_id":"1","sumber_nama":"Permen PUPR SDA Nomor 1 Tahun 2022"}
+{"kode":"P.14.l","nama":"Pasangan Armor Blok Beton 2,0 Ton (manual)","satuan":"m3","sumber_id":"1","sumber_nama":"Permen PUPR SDA Nomor 1 Tahun 2022"}
+{"kode":"P.14.m","nama":"Pasangan Armor Blok Beton 2,5 Ton (manual)","satuan":"m3","sumber_id":"1","sumber_nama":"Permen PUPR SDA Nomor 1 Tahun 2022"}
+{"kode":"P.14.o","nama":"Pasangan batu 30 kg - 50 kg, void maksimum 25% (semi mekanis)","satuan":"m3","sumber_id":"1","sumber_nama":"Permen PUPR Nomor 28/PRT/M/2016"}
+{"kode":"P.14.p","nama":"Pasangan batu 50 kg - 100 kg, void maksimum 25% (semi mekanis)","satuan":"m3","sumber_id":"1","sumber_nama":"Permen PUPR Nomor 28/PRT/M/2016"}
+{"kode":"P.14.q","nama":"Pasangan batu 100 kg - 200 kg, void maksimum 30% (semi mekanis)","satuan":"m3","sumber_id":"1","sumber_nama":"Permen PUPR Nomor 28/PRT/M/2016"}
+{"kode":"P.14.r","nama":"Pasangan batu 200 kg - 300 kg, void maksimum 30% (semi mekanis)","satuan":"m3","sumber_id":"1","sumber_nama":"Permen PUPR Nomor 28/PRT/M/2016"}
+{"kode":"P.14.s","nama":"Pasangan batu 300 kg - 400 kg, void maksimum 30% (semi mekanis)","satuan":"m3","sumber_id":"1","sumber_nama":"Permen PUPR Nomor 28/PRT/M/2016"}
+{"kode":"P.14.t","nama":"Pasangan batu 400 kg - 500 kg, void maksimum 35% (semi mekanis)","satuan":"m3","sumber_id":"1","sumber_nama":"Permen PUPR Nomor 28/PRT/M/2016"}
+{"kode":"P.14.u","nama":"Pasangan batu 200 kg - 500 kg, void maksimum 32% (semi mekanis)","satuan":"m3","sumber_id":"1","sumber_nama":"Permen PUPR Nomor 28/PRT/M/2016"}
+{"kode":"P.14.v","nama":"Pasangan batu 500 kg - 650 kg, void maksimum 35% (semi mekanis)","satuan":"m3","sumber_id":"1","sumber_nama":"Permen PUPR Nomor 28/PRT/M/2016"}
+{"kode":"P.14.w","nama":"Pasangan batu 650 kg - 800 kg, void maksimum 35% (semi mekanis)","satuan":"m3","sumber_id":"1","sumber_nama":"Permen PUPR Nomor 28/PRT/M/2016"}
+{"kode":"P.15.a","nama":"Buis beton diangkut < 30 m dan dipasang untuk konstruksi pengaman pantai","satuan":"bh","sumber_id":"1","sumber_nama":"Permen PUPR Nomor 28/PRT/M/2016"}
+{"kode":"P.15.a1","nama":"Pasangan batu 1 kg - 3 kg, void maksimum 17,5% (semi mekanis)","satuan":"m3","sumber_id":"1","sumber_nama":"Permen PUPR SDA Nomor 1 Tahun 2022"}
+{"kode":"P.15.b","nama":"Pengecoran buis beton diameter 1 m dengan campuran beton fc = 7,4 MPa (K-100)","satuan":"bh","sumber_id":"1","sumber_nama":"Permen PUPR Nomor 28/PRT/M/2016"}
+{"kode":"P.15.b1","nama":"Pasangan batu 3 kg - 5 kg, void maksimum 17,5% (semi mekanis)","satuan":"m3","sumber_id":"1","sumber_nama":"Permen PUPR SDA Nomor 1 Tahun 2022"}
+{"kode":"P.15.c","nama":"Pasangan batu 5 kg - 10 kg, void maksimum 20% (semi mekanis)","satuan":"m3","sumber_id":"1","sumber_nama":"Permen PUPR SDA Nomor 1 Tahun 2022"}
+{"kode":"P.15.d","nama":"Pasangan batu 10 kg - 30 kg, void maksimum 22,5% (semi mekanis)","satuan":"m3","sumber_id":"1","sumber_nama":"Permen PUPR SDA Nomor 1 Tahun 2022"}
+{"kode":"P.16","nama":"Pasangan pipa suling-suling","satuan":"m1","sumber_id":"1","sumber_nama":"Permen PUPR Nomor 28/PRT/M/2016"}
+{"kode":"P.16.a","nama":"Angkut pipa beton ø 1 m - panjang 1 m setiap jarak 25 m","satuan":"bh","sumber_id":"1","sumber_nama":"Permen PUPR SDA Nomor 1 Tahun 2022"}
+{"kode":"P.16.b","nama":"Pengecoran pipa beton beton ø 1 m - panjang 1 m dengan campuran beton fc’ = 19,3 MPa (K-225)","satuan":"bh","sumber_id":"1","sumber_nama":"Permen PUPR SDA Nomor 1 Tahun 2022"}
+{"kode":"P.17.a","nama":"Pasangan Geotekstil (Land Base)","satuan":"m2","sumber_id":"1","sumber_nama":"Permen PUPR SDA Nomor 1 Tahun 2022"}
+{"kode":"P.17.b","nama":"Pembuatan Pola dan/atau pemotongan Karung Geotekstil","satuan":"m2","sumber_id":"1","sumber_nama":"Permen PUPR SDA Nomor 1 Tahun 2022"}
+{"kode":"P.17.c","nama":"Pembuatan Karung Geotekstil NW untuk Scour Apron ø 50 cm","satuan":"m1","sumber_id":"1","sumber_nama":"Permen PUPR SDA Nomor 1 Tahun 2022"}
+{"kode":"P.17.d","nama":"Pembuatan Karung Geotekstil, berdasarkan luas bahan Geotekstil","satuan":"m2","sumber_id":"1","sumber_nama":"Permen PUPR SDA Nomor 1 Tahun 2022"}
+{"kode":"SDA25.A.1.01.a.1","nama":"Pembersihan dan pengupasan permukaan tanah (striping) s.d. tanaman Ø 2 cm","satuan":"m2","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.01.b1.1","nama":"Penggalian batu sedalam > 0 s.d. 1 m, manual","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.01.b1.2","nama":"Penggalian batu sedalam > 1 m s.d. 2 m, manual","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.01.b1.3","nama":"Penggalian batu sedalam > 2 m s.d. 3 m, manual","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.01.b1.4","nama":"Penggalian batu > 3m untuk setiap penambahan kedalaman 1 m, manual","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.01.b2.1","nama":"Pembabadan rumput Perhitungan secara umum","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.01.b2.2","nama":"Pembabadan rumput, Daerah datar sampai pelandaian naik dengan sudut kemiringan 1v:10h","satuan":"m2","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.01.b2.3","nama":"Pembabadan rumput Daerah dengan sudut kemiringan 1v:10h s.d.1v:2,5h","satuan":"m2","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.01.b2.4","nama":"Pembabadan rumput Daerah dengan sudut kemiringan 1v:2,5h s.d.1v:1h","satuan":"m2","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.01.b2.5","nama":"Pembabadan rumput Daerah dengan sudut kemiringan 1v:1h s.d.1h:2,5v","satuan":"m2","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.01.b2.6","nama":"Pembabadan rumput Daerah dengan sudut kemiringan 2,5v:1h s.d. tegak","satuan":"m2","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.01.c1.1","nama":"Pencampuran Tanah dan Semen PC","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.02.1a.1","nama":"Bongkar pasangan batu dan pembersihan batu (manual)","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.02.1a.2","nama":"Bongkar pasangan batu (manual)","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.02.1a.3","nama":"Bongkar pasangan batu dan pembersihan batu (mekanis)","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.02.1a.4","nama":"Pembersihan bongkaran pasangan batu untuk pemanfaatan kembali material batu","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.02.2a.1","nama":"Bongkar pasangan bata merah cara Manual","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.02.3a.1","nama":"Pekerjaan Siaran dengan mortar jenis PC-PP tipe M (17,2 MPa) pada dinding pasangan","satuan":"m2","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.02.3a.2","nama":"Pekerjaan Siaran dengan mortar jenis PC-PP tipe S (12,5 MPa) pada dinding pasangan","satuan":"m2","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.02.3b.1","nama":"Plesteran trasraam tebal 1 cm, dengan mortar 25 MPa (setara campuran 1 PC:1 PP)","satuan":"m2","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.02.3b.10","nama":"Plesteran tebal 1,5 cm, dengan mortar tipe O (2,4 MPa)","satuan":"m2","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.02.3b.11","nama":"Plesteran trasraam tebal 2,0 cm dengan mortar campuran 1 PC : 1 PP (25 MPa)","satuan":"m2","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.02.3b.12","nama":"Plesteran trasraam tebal 2,0 cm, dengan mortar tipe M (17,2 MPa)","satuan":"m2","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.02.3b.13","nama":"Plesteran tebal 2,0 cm, dengan mortar tipe S (12,5 MPa)","satuan":"m2","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.02.3b.14","nama":"Plesteran tebal 2,0 cm, dengan mortar tipe N (5,2 MPa)","satuan":"m2","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.02.3b.15","nama":"Plesteran tebal 2,0 cm, dengan mortar tipe O (2,4 MPa)","satuan":"m2","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.02.3b.16","nama":"Plesteran trasraam tebal 2,5 cm dengan mortar campuran 1 PC : 1 PP (25 MPa)","satuan":"m2","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.02.3b.17","nama":"Plesteran trasraam tebal 2,5 cm, dengan mortar Tipe M (17,2 MPa), setara 1 PC : 2 PP","satuan":"m2","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.02.3b.18","nama":"Plesteran tebal 2,5 cm, dengan mortar tipe S (12,5 MPa), setara 1 PC : 3 PP","satuan":"m2","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.02.3b.19","nama":"Plesteran tebal 2,5 cm, dengan mortar tipe N (5,2 MPa), setara 1 PC : 4 PP","satuan":"m2","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.02.3b.2","nama":"Plesteran trasraam tebal 1 cm, dengan mortar tipe M (17,2 MPa)","satuan":"m2","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.02.3b.20","nama":"Plesteran tebal 2,5 cm, dengan mortar tipe O (2,4 MPa), setara 1 PC : 5 PP","satuan":"m2","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.02.3b.3","nama":"Plesteran tebal 1 cm, dengan mortar tipe S (12,5Mpa)","satuan":"m2","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.02.3b.4","nama":"Plesteran tebal 1 cm, dengan mortar tipe N (5,2 MPa)","satuan":"m2","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.02.3b.5","nama":"Plesteran tebal 1 cm, dengan mortar tipe O (2,4 MPa)","satuan":"m2","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.02.3b.6","nama":"Plesteran trasraam tebal 1,5 cm dengan mortar campuran 1 PC : 1 PP (25 MPa)","satuan":"m2","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.02.3b.7","nama":"Plesteran trasraam tebal 1,5 cm, dengan mortar tipe M (17,2 MPa)","satuan":"m2","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.02.3b.8","nama":"Plesteran tebal 1,5 cm, dengan mortar tipe S (12,5 MPa)","satuan":"m2","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.02.3b.9","nama":"Plesteran tebal 1,5 cm, dengan mortar tipe N (5,2 MPa)","satuan":"m2","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.02.3c","nama":"Pekerjaan Acian","satuan":"m2","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.02.4a.2.a","nama":"Pasangan batu kosong tidak teratur, kurang padat-banyak rongga, beda tinggi > 0 s.d. 1 m","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.02.4a.2.d","nama":"Pasangan batu kosong tidak teratur, kurang padat-banyak rongga, beda tinggi > 3 s.d. 4 m","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.02.4b.1.a.1","nama":"Bronjong kawat digalvanis, lubang heksagonal 80 x 100mm; Beda tinggi > 0 s.d. 1 m","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.02.4b.1.a.4","nama":"Bronjong kawat digalvanis, lubang heksagonal 80 x 100mm; Beda tinggi > 3 s.d. 4 m","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.02.4b.1.b.1","nama":"Bronjong kawat galvanis, lubang heksagonal 100 x 120mm; Beda Tinggi > 0 s.d. 1 m","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.02.4b.1.b.4","nama":"Bronjong kawat galvanis, lubang heksagonal 100 x 120mm; Beda tinggi > 3 s.d. 4 m","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.02.4b.1.c.1","nama":"Bronjong Wiremesh M6 lubang 100 x 100 mm; beda tinggi > 0 s.d. 1 m","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.02.4b.1.c.4","nama":"Bronjong Wiremesh M6 lubang 100 x 100 mm; beda tinggi > 3 s.d. 4 m","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.02.4b.1.d.1","nama":"Bronjong Tambang Nylon/Rami untuk lubang Hexagonal 80 x 100 mm; beda tinggi > 0 s.d. 1 m","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.02.4b.1.d.4","nama":"Bronjong Tambang Nylon/Rami untuk lubang Hexagonal 80 x 100 mm; beda tinggi > 3 s.d. 4 m","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.02.4b.1.e.1","nama":"Bronjong Tambang Nylon/Rami untuk lubang Hexagonal 100 X 120 mm; beda tinggi > 0 s.d 1 m","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.02.4b.1.e.4","nama":"Bronjong Tambang Nylon/Rami untuk lubang Hexagonal 100 x 120 mm; beda tinggi > 3 s.d. 4 m","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.02.4b.1.f.1","nama":"Bronjong Tambang Nylon/Rami, untuk lubang kotak 100 x 100 mm; beda tinggi > 0 s.d. 1 m","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.02.4b.1.f.4","nama":"Bronjong Tambang Nylon/Rami, untuk lubang kotak 100 x 100 mm; beda tinggi > 3 s.d. 4 m","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.02.4b.2.a","nama":"Bronjong Kawat pabrikasi, Beda Tinggi > 0 s.d 1 m","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.02.4b.2.d","nama":"Bronjong Kawat pabrikasi, Beda Tinggi > 3 s.d 4 m","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.02.4b.3.b","nama":"Pasangan Bronjong Tambang Nylon/Rami di laut 200 m dari tepi pantai","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.02.5a.1","nama":"Pasangan Batu muka","satuan":"m2","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.02.5a.2","nama":"Pasangan Batu candi","satuan":"m2","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.02.5b.1","nama":"Pasangan Geotekstil, Tipis > 100 s.d. < 400 gr/m2), secara Manual","satuan":"m2","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.02.5b.2","nama":"Pasangan Geotekstil, Tebal sedang (> 400 s.d. < 800 gr/m2), secara Manual","satuan":"m2","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.02.5b.3","nama":"Pasangan Geotekstil, Tebal (> 800 gr/m2), secara Manual","satuan":"m2","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.02.5c.1","nama":"Peilskaal/Mistar duga muka air","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.02.5d.1","nama":"Pasangan (Elastis) atau Construction Joint atau Joint Filler atau joint sealant","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.02.5d.2","nama":"Sementasi (Slash grouting) Construction Joint","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.02.5d.3","nama":"Pasangan Pipa Suling-suling","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.03.1a.1","nama":"Beton mutu rendah fc 10 Mpa, Slump (10 ± 2,5) cm, agregat maks 19 mm secara manual","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.03.1a.2","nama":"Beton mutu rendah fc 15 Mpa, Slump (10 ± 2,5) cm, agregat maks 19 mm secara manual","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.03.1b.1","nama":"Beton mutu rendah fc 20 Mpa, Slump (10 ± 2,5) cm, agregat maks 19 mm secara manual","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.03.1b.2","nama":"Beton mutu rendah fc 25 Mpa, Slump (10 ± 2,5) cm, agregat maks 19 mm secara manual","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.03.1c.2","nama":"Pemakaian bahan Admixture atau Aditif untuk beton","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.03.2b.1","nama":"Bekisting biasa lantai beton dengan multiflex 12 mm atau 18 mm (TP)","satuan":"m2","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.03.2b.2","nama":"Bekisting expose pelat lantai beton dengan multiflex 18 mm (TP), JaTm 0,60 m","satuan":"m2","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.03.2b.3","nama":"Bekisting biasa pelat lantai beton dengan papan 3/20 cm (TP)","satuan":"m2","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.03.2b.4","nama":"Perancah bekisting lantai beton dengan kaso 5/7 cm tinggi 4 m, JaTm 0,60 m","satuan":"m2","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.03.2b.5","nama":"Perancah bekisting lantai beton dengan dolken ø 8 cm - <10 cm tinggi 4 m, JaTm 0,80 m","satuan":"m2","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.03.2b.6","nama":"Perancah bekisting pelat beton dengan bambu ø 8 cm - <10 cm tinggi 4 m, JaTm 0,80 m","satuan":"m2","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.03.2c.1","nama":"Bekisting lantai pakai Floordeck baja berprofil tipe pelat (Bm 0,6 m)","satuan":"m2","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.03.2c.2","nama":"Bekisting lantai pakai Floordeck baja berprofil tipe pelat (Bm 0,8 m)","satuan":"m2","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.03.2c.3","nama":"Bekisting lantai pakai Floordeck baja berprofil tipe pelat (Bm 1,2 m)","satuan":"m2","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.03.2c.4","nama":"Bekisting lantai pakai Floordeck baja berprofil tipe pelat (Bm 2,0 m)","satuan":"m2","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.03.2d.1","nama":"Bekisting biasa balok beton dengan multiflex 12 mm atau 18 mm (TP)","satuan":"m2","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.03.2d.2","nama":"Bekisting expose balok beton dengan multiflex 18 mm (TP), JaTm 1,0 m","satuan":"m2","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.03.2d.3","nama":"Bekisting biasa balok beton dengan papan 3/20 cm (TP)","satuan":"m2","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.03.2d.4","nama":"Perancah Bekisting balok beton dengan Kaso 5/7 tinggi 4 m, JaTm 1,0 m","satuan":"m2","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.03.2d.5","nama":"Perancah Bekisting balok beton dengan kayu dolken ø 8 cm tinggi 4 m, JaTm 1,2 m","satuan":"m2","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.03.2d.6","nama":"Perancah Bekisting balok beton dengan Bambu ø 8 cm tinggi 4 m, JaTm 1,0 m","satuan":"m2","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.03.2e.1","nama":"Bekisting biasa kolom beton dengan multiflex 12 mm atau 18 mm","satuan":"m2","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.03.2e.2","nama":"Bekisting expose kolom beton dengan multiflex 18 mm","satuan":"m2","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.03.2e.3","nama":"Bekisting biasa kolom beton dengan papan 3/20 cm","satuan":"m2","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.03.2e.4","nama":"Perancah Bekisting Kolom beton dengan kayu Kaso 5/7 cm tinggi 4 m, JaTm 1,0 m","satuan":"m2","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.03.2e.5","nama":"Perancah Bekisting Kolom beton dengan kayu dolken ø 8 cm tinggi 4 m, JaTm 1,2 m","satuan":"m2","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.03.2e.6","nama":"Perancah Bekisting kolom beton dengan Bambu ø 8 cm tinggi 4 m, JaTm 1,0 m","satuan":"m2","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.03.2f.1","nama":"Bekisting biasa dinding beton dengan multiflex 12 mm atau 18 mm","satuan":"m2","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.03.2f.2","nama":"Bekisting expose dinding beton dengan multiflex 18 mm","satuan":"m2","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.03.2f.3","nama":"Bekisting biasa dinding beton dengan papan 3/20 cm","satuan":"m2","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.03.2f.4","nama":"Perancah/penyokong Bekisting Kaso 5/7 untuk Dinding beton Tm 2,5 m","satuan":"m2","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.03.2f.5","nama":"Perancah/penyokong Bekisting Balok 8/12 untuk Dinding beton Tm 4,5 m","satuan":"m2","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.03.2g.1","nama":"Bekisting biasa untuk fondasi dan sloof beton dengan multiflex 12 mm atau 18 mm","satuan":"m2","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.03.2g.2","nama":"Bekisting biasa untuk fondasi dan sloof beton dengan papan 3/20 cm","satuan":"m2","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.03.2g.3","nama":"Perancah Bekisting Kaso 5/7 untuk Sloof dan Fondasi beton Tm 2,0 m","satuan":"m2","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.03.2h.1","nama":"Pagar kaso 5/7 cm untuk tinggi dan JaT 0,8-1,0 m pada Tangga, Bordes, Esteger dan Pengaman ujung","satuan":"m2","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.03.2h.2","nama":"Anak Tangga (lebar 0,6 -1 m) pakai papan 3/20 cm (TP)","satuan":"m2","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.03.2h.3","nama":"Perancah Anak tangga dengan kaso 5/7 cm tinggi 4 m dan JaTm 0,60 m","satuan":"m2","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.03.2h.4","nama":"Bordes Tangga pakai papan 3/20 cm (TP)","satuan":"m2","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.03.2h.5","nama":"perancah bordes tangga menggunakan kaso 5/7 cm setinggi 4 m dan JaTm 0,60 m","satuan":"m2","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.03.2i.1","nama":"Bongkar bekisting dan perancah secara biasa (dan membereskan puing)","satuan":"m2","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.03.2i.2","nama":"Bongkar bekisting dan perancah secara hati-hati (dan membereskan puing)","satuan":"m2","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.03.2k.1","nama":"Pasangan Modul Tipe T atau Tipe S","satuan":"buah","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.03.2k.2","nama":"Pasangan Modul Capping","satuan":"buah","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.03.2k.3","nama":"Pasangan Modul Pondasi","satuan":"buah","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.03.2k.4","nama":"Pasangan Modul Tipe Siku","satuan":"buah","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.03.2k.5.a","nama":"Pengadaan dan Pemasangan Beton L-Shape 103.30.33.8","satuan":"buah","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.03.2k.5.b","nama":"Pengadaan dan Pemasangan Beton L-Shape 83.30.33.8","satuan":"buah","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.03.2k.5.c","nama":"Pengadaan dan Pemasangan Beton L-Shape 63.30.33.8","satuan":"buah","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.03.2k.6","nama":"Pengadaan dan Pemasangan Cover Beton","satuan":"buah","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.03.2k.7.a","nama":"Pengadaan dan Pemasangan Precast Terowongan Segmen Lantai","satuan":"buah","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.03.2k.7.b","nama":"Pengadaan dan Pemasangan Precast Terowongan Segmen Dinding","satuan":"buah","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.03.2k.7.c","nama":"Pengadaan dan Pemasangan Precast Terowongan Segmen Penutup","satuan":"buah","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.03.2l.1","nama":"Bekisting lantai beton ferosemen dengan multiflex 12 mm atau 18 mm (TP)","satuan":"m2","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.03.2l.2","nama":"Penulangan Ferrocement dengan Wiremess M6 (jaring kawat kotak)","satuan":"m2","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.04.1a","nama":"Kistdam pasir/tanah, karung plastik/bagor/goni (sebesar karung beras 25 kg) 43 x 65 cm","satuan":"buah","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.04.1b","nama":"Kistdam pasir/tanah dibungkus karung plastik/bagor/goni atau terpal 45 x 120 cm","satuan":"buah","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.04.1c","nama":"Membuat geobag ukuran 145 x 240 cm","satuan":"buah","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.04.2","nama":"Kerangka kayu untuk kistdam pasir/tanah 43 cm x 65 cm","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.04.3","nama":"Kerangka baja profil L.50.50 atau L.60.60 atau profil berlubang utk kistdam pasir atau tanah 23 x 65 cm2","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.04.4","nama":"Pengoperasian pompa air per-Jam; kapasitas 5 L/s pada head suction 3 m dan discharge 10 m; Ø out 2,5\"","satuan":"buah","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.04.5","nama":"Pengoperasian pompa air per-Jam kapasitas 10 L/s pada head suction 3 m dan discharge 10 m; Ø out 4\"","satuan":"buah","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.04.6","nama":"Pengoperasian pompa air per-Jam kapasitas 30 L/s pada head suction 3 m dan discharge 10 m; Ø out 5\"","satuan":"buah","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.04.7","nama":"Pengoperasian pompa air per-Jam kapasitas 60 L/s pada head suction 3 m dan discharge 10 m; Ø out 8\"","satuan":"buah","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.04.8","nama":"Pengoperasian pompa air per-Jam kapasitas 100 L/s pada head suction 3 m dan discharge 10 m; Ø out 10\"","satuan":"buah","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.04.9","nama":"Pengoperasian per-jam pompa air (D) dengan daya 30 KW dengan suction head maksimal 3 m dan discharge head maksimal 10 m (kapasitas 100 L/s pada suction head 1m dan discharge head 10 m)","satuan":"buah","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.05.1a.1","nama":"Penjepit bambu/dolken ø 6-8 cm cerucuk ø 8-10 tiap jarak 0,25 m dg 2 lilitan kawat seng","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.05.1a.10","nama":"Penetrasi tiang pancang kayu papan (2-3)/30 cm","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.05.1a.11","nama":"Penetrasi tiang pancang kayu kaso 5/7 cm","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.05.1a.12","nama":"Penetrasi tiang pancang kayu balok 8/12 cm","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.05.1a.2","nama":"Penjepit bambu/dolken ø 6-8 cm cerucuk ø 8-10 tiap jarak 0,25 m dg 3 lilitan kawat seng","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.05.1a.3","nama":"Penetrasi tiang pancang kayu Ø 10 – <15 cm","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.05.1a.4","nama":"Penetrasi tiang pancang kayu Ø 15 – <18 cm","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.05.1a.5","nama":"Penetrasi tiang pancang kayu Ø 18 – <20 cm","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.05.1a.6","nama":"Penetrasi tiang pancang kayu Ø 20 – 30 cm","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.05.1a.7","nama":"Penetrasi tiang pancang kayu papan (2-3)/10 cm","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.05.1a.8","nama":"Penetrasi tiang pancang kayu papan (2-3)/20 cm","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.05.1a.9","nama":"Penetrasi tiang pancang kayu papan (2-3)/25 cm","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.06.1a","nama":"Pelumasan Pintu Angkat Stang Tunggal","satuan":"kali","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.06.1b.1","nama":"Pelumasan Pintu Sorong Kayu Roda Gigi Stang tunggal < 1m","satuan":"kali","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.06.1b.2","nama":"Pelumasan Pintu Sorong Kayu Roda Gigi Stang Double < 1m","satuan":"kali","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.06.1b.3","nama":"Pelumasan Pintu Sorong Kayu Roda Gigi Stang tunggal 1-2m","satuan":"kali","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.06.1b.4","nama":"Pelumasan Pintu Sorong Kayu Roda Gigi Stang Double 1-2m","satuan":"kali","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.06.1b.5","nama":"Pelumasan Pintu Sorong Kayu Roda Gigi Stang tunggal > 2m","satuan":"kali","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.06.1b.6","nama":"Pelumasan Pintu Sorong Kayu Roda Gigi Stang Double > 2m","satuan":"kali","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.06.1c.1","nama":"Pelumasan Pintu Sorong Baja Roda Gigi Stang tunggal < 1m","satuan":"kali","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.06.1c.2","nama":"Pelumasan Pintu Sorong Baja Roda Gigi Stang Double < 1m","satuan":"kali","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.06.1c.3","nama":"Pelumasan Pintu Sorong Baja Roda Gigi Stang tunggal 1-2m","satuan":"kali","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.06.1c.4","nama":"Pelumasan Pintu Sorong Baja Roda Gigi Stang Double 1-2m","satuan":"kali","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.06.1c.5","nama":"Pelumasan Pintu Sorong Baja Roda Gigi Stang tunggal > 2m","satuan":"kali","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.06.1c.6","nama":"Pelumasan Pintu Sorong Baja Roda Gigi Stang Double > 2m","satuan":"kali","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.07.1","nama":"Penanaman Pohon Bakau","satuan":"pohon","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.07.2.a","nama":"Pasangan Rakit Bambu atau sebagai Platform BPP","satuan":"m2","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.07.2.b","nama":"Pasangan Geotekstill sebagai platform BPP","satuan":"m2","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.07.3.a","nama":"Pembuatan Kubus Beton 30 cm","satuan":"buah","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.07.3.b","nama":"Pembuatan Kubus Beton 40 cm","satuan":"buah","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.07.3.c","nama":"Pembuatan Kubus Beton 60 cm Masif","satuan":"buah","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.07.3.d","nama":"Pembuatan Kubus Beton 60 cm Berongga","satuan":"buah","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.07.3.e","nama":"Pembuatan Armor-3B: Berkait, Berongga dan Bertangga","satuan":"buah","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.07.3.f","nama":"Pembuatan Armor Blok Beton Bergigi","satuan":"buah","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.07.3.g","nama":"Pembuatan Blok beton berat 0,4 ton Tetrapod, Quadripod, Dolos, Tribar dll","satuan":"buah","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.07.3.h","nama":"Pembuatan Blok beton berat 0,5 ton Quadripod, tetrapod, dolos, tribar dll","satuan":"buah","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.07.3.j","nama":"Pembuatan Blok beton berat 1,0 ton Quadripod, tetrapod, dolos, tribar dll","satuan":"buah","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.07.3.k","nama":"Pembuatan Blok beton berat 1,5 ton Quadripod, tetrapod, dolos, tribar dll","satuan":"buah","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.07.3.l","nama":"Pembuatan Blok beton berat 2,0 ton Quadripod, tetrapod, dolos, tribar dll","satuan":"buah","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.07.3.m","nama":"Pembuatan Blok beton berat 2,5 ton Quadripod, tetrapod, dolos, tribar dll","satuan":"buah","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.07.4.a","nama":"Pemasangan armor kubus beton 30 cm","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.07.4.b","nama":"Pemasangan armor kubus beton 40 cm","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.07.4.c","nama":"Pemasangan armor kubus beton 60 cm Masif","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.07.4.d","nama":"Pemasangan armor kubus beton 60 cm berongga","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.07.4.e","nama":"Pasangan Blok Beton armor-3B: Berkait, Berongga dan Bertangga","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.07.4.f","nama":"Pasangan armor Blok Beton Bergigi","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.07.4.g","nama":"Pasangan armor Blok Beton 0,4 ton","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.07.4.h","nama":"Pasangan armor Blok Beton 0,5 ton","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.07.4.i","nama":"Pasangan armor Blok Beton 0,75 ton","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.07.4.j","nama":"Pasangan armor Blok Beton 1,0 ton","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.07.4.k","nama":"Pasangan armor Blok Beton 1,5 ton","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.07.4.l","nama":"Pasangan armor Blok Beton 2 ton","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.07.4.m","nama":"Pasangan armor Blok Beton 2,5 ton","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.07.5.a","nama":"Pasangan batu 1 kg - < 3 kg","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.07.5.b","nama":"Pasangan batu 3 kg - < 5 kg","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.07.5.c","nama":"Pasangan batu 5 kg - < 10 kg","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.07.5.d","nama":"Pasangan batu 10 kg - < 30 kg","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.07.6.a","nama":"Buis beton Ø 1 m-pjg 1m diangkut setiap jarak 25 m","satuan":"buah","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.07.6.b","nama":"Pengecoran buis beton Ø 1 m-pjg 1m dengan campuran beton fc 20 MPa","satuan":"buah","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.07.7.a","nama":"Pasangan Geotekstil (Land Base)","satuan":"m2","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.07.7.b","nama":"Pembuatan Pola dan/atau 1 m Pemotongan Karung Geotekstil","satuan":"m2","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.07.7.c","nama":"Pembuatan Karung Geotekstil Non-Woven untuk Scour Apron Ø 50 cm","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.07.7.d","nama":"Pembuatan Karung Geotekstil, Berdasarkan Luas Bahan Geotekstil","satuan":"m2","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.08.1a","nama":"Rangka baja L.40.40.4 dengan tinggi 1,8 m","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.08.1b","nama":"Rangka Kayu dengan tinggi 1,8 m","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.08.3a","nama":"Pengangkatan Gulma dan/atau Sampah Apung Secara Manual","satuan":"m2","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.08.4a","nama":"Pengangkatan Gulma Padat dan/atau Sampah, ketebalan 25cm Secara Manual","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.08.5a.1","nama":"Pekerjaan Serutan Papan atau Balok Kayu (Manual)","satuan":"m2","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.08.5a.2","nama":"Pasangan Papan Kayu","satuan":"m2","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.08.5a.3","nama":"Pembuatan Profil atau takikan pada sudut kayu dengan alat serutan profil dan/atau pahat dll","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.08.5a.4","nama":"Memasang Konstruksi dari Balok Kayu Kelas I","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.08.5a.5","nama":"Memasang Konstruksi dari Balok Kayu Kelas II dan/atau III","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.08.5a.5b.1","nama":"Pekerjaan Serutan Papan atau Balok Kayu (Semi Mekanis)","satuan":"m2","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.1.08.5a.5b.2","nama":"Memasang Konstruksi yang terbuat dari Papan atau Balok Kayu (Semi Mekanis)","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.2.01.b1.1","nama":"Penggalian batu sedalam > 0 s.d. 1 m, Semi-Mekanis","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.2.01.b1.2","nama":"Penggalian batu sedalam > 1 m s.d. 2 m, Semi-Mekanis","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.2.01.b1.3","nama":"Penggalian batu sedalam > 2 m s.d. 3 m, Semi-Mekanis","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.2.01.b1.4","nama":"Penggalian batu > 3m untuk setiap penambahan kedalaman 1 m, Semi-Mekanis","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.2.01.c1.1","nama":"Pemadatan Pasangan campuran Tanah dan Semen PC + Pemadat Timbris","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.2.01.c1.2.a","nama":"Pemadatan Pasangan campuran Tanah dan Semen PC dengan Pemadat tamper VRR; Tebal Pemadatan Material 20 cm per-lapis/4 lintasan","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.2.01.c1.2.b","nama":"Pemadatan Pasangan campuran Tanah dan Semen PC dengan Pemadat Stamper VRR; Tebal Pemadatan Material 30 cm per-lapis/4 lintasan","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.2.02.2a.1","nama":"Bongkar pasangan bata merah dengan Jack Hammer","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.2.02.5b.1","nama":"Pasangan Geotekstil, Tipis (> 100 s.d. < 400 gr/m2), Semi Mekanis","satuan":"m2","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.2.02.5b.2","nama":"Pasangan Geotekstil, Tebal sedang (> 400 s.d. < 800 gr/m2), Semi Mekanis","satuan":"m2","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.2.02.5b.3","nama":"Pasangan Geotekstil, Tebal (> 800 gr/m2), Semi Mekanis","satuan":"m2","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.2.02.5b.4.a","nama":"Penjahitan Geotekstil Tipis (> 100 s.d. < 400 gr/m2), secara semi mekanis","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.2.02.5b.4.b","nama":"Penjahitan Geotekstil Tebal sedang (400 s.d. < 800 gr/m2), secara semi mekanis","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.2.02.5b.4.c","nama":"Penjahitan Geotekstil Tebal (> 800 gr/m2), secara semi mekanis","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.2.02.5b.5.a","nama":"Pengelasan Geotekstil, Tipis (> 100 s.d. < 400 gr/m2), secara semi mekanis","satuan":"m2","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.2.02.5b.5.b","nama":"Pengelasan Geotekstil, Tebal sedang (400 s.d. < 800 gr/m2), secara semi mekanis","satuan":"m2","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.2.02.5b.5.c","nama":"Pengelasan Geotekstil, Tebal (> 800 gr/m2), secara semi mekanis","satuan":"m2","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.2.02.5b.6","nama":"Pasangan Filer 2-lapis Karung Goni (permeable)","satuan":"m2","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.2.02.5b.7","nama":"Pasangan Lapisan impermeable 2-lapis Karung Goni dilabur aspal","satuan":"m2","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.2.02.5c.1","nama":"Bar Screen/saringan kasar","satuan":"m2","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.2.02.5c.2","nama":"ambang ukur pada bangunan pengukur dan/atau pengatur","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.2.03.1b.1","nama":"Beton mutu sedang fc 40 Mpa, Slump (10 ± 2,5) cm, agregat maks 19 mm secara semi mekanis","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.2.03.1c.1","nama":"Beton Ready Mixed dicorkan menggunakan Pompa Beton","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.2.03.2j.1","nama":"Bongkar beton dengan Jack Hammer Drill 2,5 KW+Genset 5 KW","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.2.03.2j.2","nama":"Bongkar beton dengan Jack Hammer Kompressor-75 HP","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.2.03.2l.1","nama":"Campuran beton ferosemen mutu, fc 30 Mpa","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.2.05.1a.1","nama":"Penetrasi tiang pancang bambu/kayu atau dolken Ø 6-< 8 cm","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.2.05.1a.2","nama":"Penetrasi tiang pancang cerucuk dolken/bambu/kayu Ø 8 – 10 cm","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.2.05.1b.1","nama":"Penetrasi tiang pancang pipa baja ø 15 cm atau 15 x 15 cm","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.2.05.1b.2","nama":"Penetrasi tiang pancang pipa baja ø 20 cm atau 20 x 20 cm","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.2.05.1b.3","nama":"Penetrasi tiang pancang pipa baja ø 25 cm atau 25 x 25 cm","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.2.05.1b.4","nama":"Penetrasi tiang pancang pipa baja ø 30 cm atau 30 x 30 cm","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.2.05.1b.5","nama":"Penetrasi tiang pancang pipa baja ø 35 cm atau 35 x 35 cm","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.2.05.1b.6","nama":"Penetrasi tiang pancang pipa baja ø 40 cm atau 40 x 40 cm","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.2.05.1c.1","nama":"Penetrasi tiang pancang beton 15 x 15 cm","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.2.05.1c.2","nama":"Penetrasi tiang pancang beton 20 x 20 cm","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.2.05.1c.3","nama":"Penetrasi tiang pancang beton 25 x 25 cm","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.2.05.1d.1","nama":"Penetrasi untuk turap (12,5 - 16,67 Buah) kayu dolken Ø 6 - 8 cm","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.2.05.1d.10","nama":"Penetrasi untuk turap (3,33 Buah) kayu papan (2-3)/30 cm","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.2.05.1d.11","nama":"Penetrasi untuk turap (14,3 Batang) kayu kaso 5/7 tebal 5 cm","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.2.05.1d.12","nama":"Penetrasi untuk turap (20 buah) kayu kaso 5/7 tebal 7 cm","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.2.05.1d.13","nama":"Penetrasi untuk turap (8,33 Buah) kayu balok 8/12 tebal 8 cm","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.2.05.1d.14","nama":"Penetrasi untuk turap (12,5 Buah) kayu balok 8/12 tebal 12 cm","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.2.05.1d.2","nama":"Penetrasi untuk turap (10 -12,5 Buah) kayu dolken Ø 8 - <10 cm","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.2.05.1d.3","nama":"Penetrasi untuk turap (6,67 - 10 Buah) kayu dolken Ø 10 - < 15 cm","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.2.05.1d.4","nama":"Penetrasi untuk turap (5,56 - 6,67 Buah) kayu dolken Ø 15 - < 18 cm","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.2.05.1d.5","nama":"Penetrasi untuk turap (5,56 - 6,67 Buah) kayu dolken Ø 18 - < 20 cm","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.2.05.1d.6","nama":"Penetrasi untuk turap (3,33 - 5 Buah) kayu dolken Ø 20 - 30 cm","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.2.05.1d.7","nama":"Penetrasi untuk turap (10 Buah) kayu papan (2-3)/10 cm","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.2.05.1d.8","nama":"Penetrasi untuk turap (5 Buah) kayu papan (2-3)/20 cm","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.2.05.1d.9","nama":"Penetrasi untuk turap (4 Buah) kayu papan (2-3)/25 cm","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.2.05.1e.1","nama":"Penetrasi turap baja profil Larsen 400 x 100 x 10,5 mm; 48 kg/m","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.2.05.1e.2","nama":"Penetrasi turap baja profil Larsen 400 x 170 x 15,5 mm; 76,1 kg/m","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.2.05.1f.1","nama":"Penetrasi turap beton tulang pre-cast W-400; pjg - 4 m; berat 350 kg/m","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.2.05.1f.2","nama":"Penetrasi turap beton tulang pre-cast W-600; pjg - 4 m; berat 375 kg/m","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.2.05.1f.3","nama":"Penetrasi turap beton pre-cast 12 x 30 cm","satuan":"buah","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.2.05.1f.4","nama":"Penetrasi turap beton pre-cast 15 x 40 cm","satuan":"buah","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.2.05.1f.5","nama":"Penetrasi turap beton pre-cast 22 x 50 cm","satuan":"buah","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.2.05.1g.1","nama":"Potong Tiang pancang beton Ø 40 cm atau Persegi 40 cm","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.2.05.1g.2","nama":"Potong Tiang pancang pipa baja Ø 40 cm atau 40 x 40 cm2","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.2.05.2a.1","nama":"Pengeboran Lubang Bored Pile Ø 20 cm pada tanah agak lunak","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.2.05.2a.2","nama":"Pengeboran Lubang Bored Pile Ø 20 cm pada tanah sedang (biasa)","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.2.05.2a.3","nama":"Pengeboran Lubang Bored Pile Ø 20 cm pada Tanah berbatu","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.2.05.2a.4","nama":"Pengeboran Lubang Bored Pile Ø 20 cm pada Tanah keras atau Cadas","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.2.05.2a.5","nama":"Penulangan dan pengecoran panjang Lubang Bored Pile Ø 20 cm","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.2.05.2b.1","nama":"Pengeboran Lubang Bored Pile Ø 30 cm pada tanah agak lunak","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.2.05.2b.2","nama":"Pengeboran Lubang Bored Pile Ø 30 cm pada sedang (biasa)","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.2.05.2b.3","nama":"Pengeboran Lubang Bored Pile Ø 30 cm pada tanah keras/Cadas/Batu Lunak","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.2.05.2b.4","nama":"Pengeboran Lubang Bored Pile Ø 30 cm pada tanah berbatu","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.2.05.2b.5","nama":"Penulangan dan pengecoran beton 1 m Lubang Bored Pile Ø 30 cm","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.2.05.2c.1","nama":"Pengeboran Lubang Bored Pile Ø 40 cm pada tanah agak lunak","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.2.05.2c.2","nama":"Pengeboran Lubang Bored Pile Ø 40 cm pada tanah sedang (biasa)","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.2.05.2c.3","nama":"Pengeboran Lubang Bored Pile Ø 40 cm pada tanah keras/Cadas/Batu Lunak","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.2.05.2c.4","nama":"Pengeboran Lubang Bored Pile Ø 40 cm pada tanah berbatu","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.2.05.2c.5","nama":"Penulangan dan pengecoran beton Lubang Bored Pile Ø 40 cm","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.2.05.2d.1","nama":"Pengeboran Lubang Bored Pile Ø 50 cm pada tanah agak lunak","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.2.05.2d.2","nama":"Pengeboran Lubang Bored Pile Ø 50 cm pada tanah sedang (biasa)","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.2.05.2d.3","nama":"Pengeboran Lubang Bored Pile Ø 50 cm pada tanah keras/Cadas/Batu Lunak","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.2.05.2d.4","nama":"Pengeboran Lubang Bored Pile Ø 50 cm pada tanah berbatu","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.2.05.2d.5","nama":"Penulangan dan pengecoran beton Lubang Bored Pile Ø 50 cm","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.2.08.3a","nama":"Pengangkatan Gulma dan/atau Sampah Apung Secara Mekanis","satuan":"m2","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.2.08.4a","nama":"Pengangkatan Gulma Padat dan/atau Sampah, ketebalan 25cm Secara Semi Mekanis","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.2.08.6b","nama":"Pengerjaan 100 kg pekerjaan perakitan Konstruksi besi/baja","satuan":"buah","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.2.08.6c","nama":"Pembuatan pintu besi plat baja tebal 2 mm rangkap, rangka baja siku","satuan":"m2","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.2.08.6e","nama":"Membuat lubang baut Ø 10 mm pada besi tebal 4 mm, secara Manual","satuan":"m2","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.2.08.6f","nama":"Membuat lubang baut Ø 10 mm pada besi tebal 4 mm, secara semi-Mekanis","satuan":"m2","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.2.08.6g","nama":"Membuat lubang baut Ø 10 mm pada besi tebal 4 mm, secara Mekanis","satuan":"m2","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.2.08.6h","nama":"Menggergaji profil untuk luas penampang tergergaji 100 cm2, secara Manual","satuan":"m2","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.2.08.6i","nama":"Menggergaji profil untuk luas penampang tergergaji 100 cm2, secara Semi mekanis","satuan":"m2","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.2.08.6j","nama":"Menggergaji pelat dengan panjang penampang tergergaji 20 cm, tebal 5 mm, secara Manual","satuan":"m2","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.2.08.6k","nama":"Menggergaji pelat dengan panjang penampang tergergaji 20 cm, tebal 5 mm, secara semi-Mekanis","satuan":"m2","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.2.08.6l","nama":"Pasangan Baut Ø 10 mm - 5 cm, secara Manual","satuan":"buah","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.2.08.6m","nama":"Pasangan Bold-nut Ø 10 mm - 5 cm, secara semi-Mekanik","satuan":"buah","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.01.1.a.1","nama":"Striping/kupas 100 m top soil menggunakan Buldozer (tanpa angkutan)","satuan":"m2","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.01.1.a.2","nama":"Pengerukan sampah/lumpur/sedimen di saluran/sungai","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.01.1a.3.a","nama":"Menebang Pohon Ø > 15 s.d. 30 cm menggunakan Chainsaw","satuan":"batang","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.01.1a.3.b","nama":"Menebang Pohon Ø > 30 s.d. 50 cm menggunakan Chainsaw","satuan":"batang","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.01.1a.3.c","nama":"Menebang Pohon Ø > 15 s.d. 30 cm menggunakan Feller Buncher","satuan":"batang","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.01.1a.3.d","nama":"Menebang Pohon Ø > 30 s.d. 50 cm menggunakan Feller Buncher","satuan":"batang","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.01.1a.4.a","nama":"Mencabut/menggali tunggul dan akar Pohon Ø > 30 s.d. 50 cm; Alt.-1","satuan":"batang","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.01.1a.4.b","nama":"Mencabut/menggali tunggul dan akar Pohon Ø > 30 s.d. 50 cm; Alt.-2","satuan":"batang","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.01.1a.4.c","nama":"Mencabut tunggul dan akar Pohon Ø > 15 s.d. 30 cm dengan SRRM, Alt.-3","satuan":"batang","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.01.1a.5","nama":"Memuat dan angkut Hasil Tebang Pohon Ø > 30 s.d. 50 cm","satuan":"km","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.01.1a.6","nama":"Mencabut/menggali tunggul dan akar dari Pohon Ø > 50 s.d. 70 cm, dg SRRM","satuan":"batang","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.01.1a.7","nama":"Mencabut/menggali tunggul dan akar dari Pohon Ø > 70 s.d. 90 cm","satuan":"batang","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.01.1a.8","nama":"Mencabut/menggali tunggul dan akar dari Pohon Ø > 90 s.d. 100 cm","satuan":"batang","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.01.1b.1","nama":"Mengeruk tanah biasa di SP normal dg tinggi > 1,0 m dimuat ke DT dg Exca.Std","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.01.1b.2","nama":"Mengeruk pasir di SP normal dg tinggi > 1,0 m dimuat ke DT dg Exca.Std","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.01.1b.3","nama":"Mengeruk tanah liat/Lempung di SP normal dg tinggi > 1,0 m dimuat ke DT dg Exca.Std","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.01.1b.4","nama":"Mengeruk cadas/tanah keras di SP normal dg tinggi > 1,0 m dimuat ke DT dg Exca.Std","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.01.1b.5","nama":"Mengangkat dan memuat batu belah 12 - 1,0 m dimuat ke DT dg Exca.Std","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.01.1b.6","nama":"Mengangkat dan memuat batu belah 25 - 1,0 m dimuat ke DT dg Exca.Std","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.01.1b.7","nama":"Mengangkat dan memuat batu belah 50 - 100 cm di Stock Pile (SP) normal dg tinggi > 1,0 m dimuat ke DT dg Exca.Std","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.01.1c.1","nama":"Menggali tanah biasa di BA/Saluran sedalam (0 - 40%) Dm atau (0 - <2,64) m dimuat ke DT dg Exca.Std","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.01.1c.2","nama":"Menggali tanah biasa di BA/Saluran sedalam (40-75)% Dm atau (2,64 -<5,0) m dimuat ke DT","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.01.1c.3","nama":"Menggali tanah biasa di BA/Saluran sedalam (75-100)% Dm atau (5,0 - 6,6) m dimuat ke DT dg Exca.Std","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.01.1c.4","nama":"Menggali tanah biasa di BA/Saluran sedalam (0 - 40)% Dm atau (0 - <5,4) m dimuat ke DT dg Exca.LA","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.01.1c.5","nama":"Menggali tanah biasa di BA/Saluran sedalam (40-75)% Dm atau (5,4 - < 10,0) m dimuat ke DT dg Exca.LA","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.01.1c.6","nama":"Menggali tanah biasa di BA/Saluran sedalam (75 - 100)% Dm atau (10,0 - < 13,4) m dimuat ke DT dg Exca.LA","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.01.1c.7","nama":"Menggali tanah biasa di BA/Saluran sedalam (0 - 40)% Dm atau (0 - < 7,0) m dimuat ke DT dg Exca.SLA","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.01.1c.8","nama":"Menggali tanah biasa di BA/Saluran sedalam (40 - 75)% Dm atau (7,0 - < 13,1) m dimuat ke DT dg Exca.SLA","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.01.1c.9","nama":"Menggali tanah biasa di BA/Saluran sedalam (75-100)% Dm atau (13,1 - 17,5) m dimuat ke DT dg Exca.SLA","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.01.1d.1","nama":"Menggali pasir di BA/Saluran sedalam (0 - 40)% Dm atau (0 - < 2,64) m dimuat ke DT dg Exca.Std","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.01.1d.2","nama":"Menggali pasir di BA/Saluran sedalam (40-75)% Dm atau (2,64 - < 5,0) m dimuat ke DT dg Exca.Std","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.01.1d.3","nama":"Menggali pasir di BA/Saluran sedalam (75-100)% Dm atau (5,0 - 6,6) m dimuat ke DT dg Exca.Std","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.01.1d.4","nama":"Menggali pasir di BA/Saluran sedalam (0-40)% Dm atau (0 - < 5,4) m dimuat ke DT dg Exca.LA","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.01.1d.5","nama":"Menggali pasir di BA/Saluran sedalam (40-75)% Dm atau (5,4 - < 10,0) m dimuat ke DT oleh Exca.LA","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.01.1d.6","nama":"Menggali pasir di BA/Saluran sedalam (75-100)% Dm atau (10,0 - < 13,4) m dimuat ke DT oleh Exca.LA","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.01.1d.7","nama":"Menggali pasir di BA/Saluran sedalam (0 - 40)% Dm atau (0 - < 7,0) m dimuat ke DT oleh Exca.SLA","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.01.1d.8","nama":"Menggali pasir di BA/Saluran sedalam (40 - 75)% Dm atau (7,0 - < 13,1) m dimuat ke DT oleh Exca.SLA","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.01.1d.9","nama":"Menggali pasir di BA/Saluran sedalam (75-100)% Dm atau (13,1 - 17,5) m dimuat ke DT dg Exca.SLA","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.01.1e.1","nama":"Menggali tanah liat/lempung di BA/Saluran sedalam (0 - 40%) Dm atau (0 - < 2,64) m dimuat ke DT dg Exca.Std","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.01.1e.2","nama":"Menggali tanah liat/lempung di BA/Saluran sedalam (40-75)% Dm atau (2,64 - < 5,0) m dimuat ke DT dg Exca.Std","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.01.1e.3","nama":"Menggali tanah liat/lempung di BA/Saluran sedalam (75-100)% Dm atau (5,0 - 6,6) m dimuat ke DT dg Exca.Std","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.01.1f.1","nama":"Menggali cadas/tanah keras di BA/Saluran sedalam (0 - 40%) Dm atau (0 - < 2,64) m dimuat ke DT dg Exca.Std","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.01.1f.2","nama":"Menggali cadas/tanah keras di BA/Saluran sedalam (40-75)% Dm atau (2,64 - < 5,0) m dimuat ke DT dg Exca.Std","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.01.1f.3","nama":"Menggali cadas/tanah keras di BA/Saluran sedalam (75-100)% Dm atau (5,0 - 6,6) m dimuat ke DT dg Exca.Std","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.01.1g.1.a","nama":"Memuat tanah biasa dari SP/hasil galian ke DT menggunakan Exca Std. dan angkut 1 km","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.01.1g.1.b","nama":"Menggali dan Memuat tanah biasa dari SP/hasil galian ke DT menggunakan Exca Std. dan angkut 1 km","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}

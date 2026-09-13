@@ -1,0 +1,394 @@
+{
+  "counts": {
+    "bua": 12034,
+    "pekerjaan": 9260,
+    "rincian": 9260,
+    "rincian_items": 53520
+  },
+  "files": [
+    {
+      "bytes": 81830,
+      "path": "catalog/bua/3302/00000.jsonl",
+      "records": 500,
+      "sha256": "3f90be243e003efb2e3badb54e36a7f99a20191cd87d726ae8b8fd8af2bfcc6e"
+    },
+    {
+      "bytes": 83697,
+      "path": "catalog/bua/3302/00001.jsonl",
+      "records": 500,
+      "sha256": "89f77ddfda30218753e6a7462c24574516c3d2df46a333d7b40dca3be628cb34"
+    },
+    {
+      "bytes": 83205,
+      "path": "catalog/bua/3302/00002.jsonl",
+      "records": 500,
+      "sha256": "98a9d2052cc30de0ae555f3813962437c4d8a6358deaa394d0d479a01dfb7384"
+    },
+    {
+      "bytes": 80671,
+      "path": "catalog/bua/3302/00003.jsonl",
+      "records": 500,
+      "sha256": "e71e2bdce6d98fa0e0d743c1e9301af70ee3c2dedafe0617a04914e786fa49e7"
+    },
+    {
+      "bytes": 84274,
+      "path": "catalog/bua/3302/00004.jsonl",
+      "records": 500,
+      "sha256": "b1187d641c1e884168b39b3017d83ab8d88f993e7883220bb2097ae66e18bdf7"
+    },
+    {
+      "bytes": 84121,
+      "path": "catalog/bua/3302/00005.jsonl",
+      "records": 500,
+      "sha256": "60542c532e39101856ba4fdd7624c3a1ee2b5766e54cab9364f0ad5f0a5df4bf"
+    },
+    {
+      "bytes": 83141,
+      "path": "catalog/bua/3302/00006.jsonl",
+      "records": 500,
+      "sha256": "8e2715e8f375d958dd6e4686c814b2bb6105dbb535cc6aa9becbefdcaa0e68bd"
+    },
+    {
+      "bytes": 90811,
+      "path": "catalog/bua/3302/00007.jsonl",
+      "records": 500,
+      "sha256": "27ee99379a402470e41ba3d558bbe894daf145c8e7ed61199b0f6482bdae6576"
+    },
+    {
+      "bytes": 83583,
+      "path": "catalog/bua/3302/00008.jsonl",
+      "records": 500,
+      "sha256": "9a8c2fe42df072a28a3b7a0f4d39f4c18c4af6a3a5e0fe482b4360354f95d8fa"
+    },
+    {
+      "bytes": 82527,
+      "path": "catalog/bua/3302/00009.jsonl",
+      "records": 500,
+      "sha256": "27caa59d1e8350de40cb1fae9bf5bb0b8c71cfaaf668747e7930e9c8d28855fb"
+    },
+    {
+      "bytes": 81391,
+      "path": "catalog/bua/3302/00010.jsonl",
+      "records": 500,
+      "sha256": "f4a44fc9da2aeac1054b9584657c1d03079766df35d325f05349c369397364a8"
+    },
+    {
+      "bytes": 86776,
+      "path": "catalog/bua/3302/00011.jsonl",
+      "records": 500,
+      "sha256": "e4d3c110c5cb7adcc644fbdd3499e3c16f762bee414464fd9f919937bb30f7fe"
+    },
+    {
+      "bytes": 83679,
+      "path": "catalog/bua/3302/00012.jsonl",
+      "records": 500,
+      "sha256": "961ac60e67b80b2887a54656fbe7fa0d0d08a4221ee5d8b41684449fdb49511c"
+    },
+    {
+      "bytes": 85896,
+      "path": "catalog/bua/3302/00013.jsonl",
+      "records": 500,
+      "sha256": "b66c0ff6342f13a0c2c7282efb3b4df53c9fa0511b2e4c3a1b33437244748358"
+    },
+    {
+      "bytes": 82005,
+      "path": "catalog/bua/3302/00014.jsonl",
+      "records": 500,
+      "sha256": "6d3342dc811cbb643fb98bbea6bedb85b4f8eead12016c63c998bee2984cacc1"
+    },
+    {
+      "bytes": 84820,
+      "path": "catalog/bua/3302/00015.jsonl",
+      "records": 500,
+      "sha256": "dcda23c98a66c552f8b488c9c0cdcff8013fc107923cd08070d78e0b116e6092"
+    },
+    {
+      "bytes": 85038,
+      "path": "catalog/bua/3302/00016.jsonl",
+      "records": 500,
+      "sha256": "b401eb5d551dae3d36e78d34ac9119bcd5f57e56978c740df2840129e4fad176"
+    },
+    {
+      "bytes": 81523,
+      "path": "catalog/bua/3302/00017.jsonl",
+      "records": 500,
+      "sha256": "069c55296ac009d7794aebcc6054d2610a0c81e63db969441352d7eb7d4440a1"
+    },
+    {
+      "bytes": 82973,
+      "path": "catalog/bua/3302/00018.jsonl",
+      "records": 500,
+      "sha256": "614cbf69696bf5466a060654750ace08e7a2b951bd37c8f965afce4faea6e721"
+    },
+    {
+      "bytes": 81470,
+      "path": "catalog/bua/3302/00019.jsonl",
+      "records": 500,
+      "sha256": "ca2ff2b26cf2a2c5905e84547f757b0064477f3d7aabb6922c1d83e43fe35a28"
+    },
+    {
+      "bytes": 82512,
+      "path": "catalog/bua/3302/00020.jsonl",
+      "records": 500,
+      "sha256": "4a00427f80e757950c130de3eddbd8c145092f0a1852c30e34720cf1810d19cf"
+    },
+    {
+      "bytes": 83113,
+      "path": "catalog/bua/3302/00021.jsonl",
+      "records": 500,
+      "sha256": "f92b3da3cd2a6ae62b118767d8c41a60300b3542ef6f78a5e49cab9ba7caedc1"
+    },
+    {
+      "bytes": 84291,
+      "path": "catalog/bua/3302/00022.jsonl",
+      "records": 500,
+      "sha256": "3f7c13d1315434a3c8e07a949258528f950e9b1c974585fbbeaf4de0c7dc84e1"
+    },
+    {
+      "bytes": 81347,
+      "path": "catalog/bua/3302/00023.jsonl",
+      "records": 500,
+      "sha256": "c118cb3312153187e04232f1e1ba5997fd7b92619cc9aaeec7a6ead7fcfaab3d"
+    },
+    {
+      "bytes": 5126,
+      "path": "catalog/bua/3302/00024.jsonl",
+      "records": 34,
+      "sha256": "a7e1011a4f5dc83c8c372c85d25bd6c5703b06976ba8835ed5cf92a68123ff54"
+    },
+    {
+      "bytes": 70709,
+      "path": "catalog/pekerjaan/00000.jsonl",
+      "records": 500,
+      "sha256": "dfd7f55007d1790c862798f85c663d174dfd204c0711af412fa58647b5d0e278"
+    },
+    {
+      "bytes": 80574,
+      "path": "catalog/pekerjaan/00001.jsonl",
+      "records": 500,
+      "sha256": "5f05ec81cf2f7089f6ae24bc568acebda12c2822594af3801b3cbaefe86be669"
+    },
+    {
+      "bytes": 75555,
+      "path": "catalog/pekerjaan/00002.jsonl",
+      "records": 500,
+      "sha256": "a3a7400c883b45318a0d60a39691a8f49082ad001c94a54b08c904c041841083"
+    },
+    {
+      "bytes": 85907,
+      "path": "catalog/pekerjaan/00003.jsonl",
+      "records": 500,
+      "sha256": "67cf826ddf53a88c0b912aed7337a119d3593f40d7462f25be330a199088e7f9"
+    },
+    {
+      "bytes": 92288,
+      "path": "catalog/pekerjaan/00004.jsonl",
+      "records": 500,
+      "sha256": "389f0ba31fdcd1f2cfc98760dc403fc0f886c8397e6ad7e0089c3ea7720b05e2"
+    },
+    {
+      "bytes": 95873,
+      "path": "catalog/pekerjaan/00005.jsonl",
+      "records": 500,
+      "sha256": "2a9c080ad7777d41c79c38541403e649753203319add96703fed24e757ffb7ba"
+    },
+    {
+      "bytes": 97119,
+      "path": "catalog/pekerjaan/00006.jsonl",
+      "records": 500,
+      "sha256": "725b7352d0297b54745d8d026641283e8fb3ed4f22e889bd59337187f6cef538"
+    },
+    {
+      "bytes": 84856,
+      "path": "catalog/pekerjaan/00007.jsonl",
+      "records": 500,
+      "sha256": "7268d4ae70b1dc5d845e4872f9cbc170b89b354128cc7601370bb3f1a90acbaa"
+    },
+    {
+      "bytes": 87507,
+      "path": "catalog/pekerjaan/00008.jsonl",
+      "records": 500,
+      "sha256": "847d251da8143a6f057a2085cf003a09e35014bad76e9c168d6077d5c08c28b2"
+    },
+    {
+      "bytes": 95012,
+      "path": "catalog/pekerjaan/00009.jsonl",
+      "records": 500,
+      "sha256": "487e19680bb8faed4539db1ff0feb871f49cca672757103df7570bd78a5c3161"
+    },
+    {
+      "bytes": 99081,
+      "path": "catalog/pekerjaan/00010.jsonl",
+      "records": 500,
+      "sha256": "94a0cc08215705e70df384349cf487b71f51d8d034be8a958af74a007d84dbbd"
+    },
+    {
+      "bytes": 93178,
+      "path": "catalog/pekerjaan/00011.jsonl",
+      "records": 500,
+      "sha256": "a96b754af657fa90f79d96b78b0810eb4f9939bc79c7696c806d100a5aad9ed3"
+    },
+    {
+      "bytes": 84439,
+      "path": "catalog/pekerjaan/00012.jsonl",
+      "records": 500,
+      "sha256": "ca152ebc992ff949174a596aaed60d6b4f5482f95e0f8ac60c12a9f351ceeef5"
+    },
+    {
+      "bytes": 87295,
+      "path": "catalog/pekerjaan/00013.jsonl",
+      "records": 500,
+      "sha256": "adb3b3c5b78a84e09531c87e100c1c60437706c45c3013825948b7d6cf13a76d"
+    },
+    {
+      "bytes": 85800,
+      "path": "catalog/pekerjaan/00014.jsonl",
+      "records": 500,
+      "sha256": "777f0d281138a8bb207b9863338538e7bb6559a68bf7298d9d1348625dc68ac6"
+    },
+    {
+      "bytes": 95716,
+      "path": "catalog/pekerjaan/00015.jsonl",
+      "records": 500,
+      "sha256": "045ba0e8bdfd632017179f2b2e58855b66e89a63441c529660f2437a8b2446df"
+    },
+    {
+      "bytes": 97016,
+      "path": "catalog/pekerjaan/00016.jsonl",
+      "records": 500,
+      "sha256": "c131a88abaf2f7f93fa2cfa2994ce57cfff67283ed75712c5ce74c483708edc8"
+    },
+    {
+      "bytes": 93946,
+      "path": "catalog/pekerjaan/00017.jsonl",
+      "records": 500,
+      "sha256": "6d68b0d1715763228a387ad843fec0ba1273971b8916747ea110c0edcfa49e67"
+    },
+    {
+      "bytes": 44564,
+      "path": "catalog/pekerjaan/00018.jsonl",
+      "records": 260,
+      "sha256": "a8e80308b1156dd819064f1eccbcc7b076389d2579c10796a0195e64ff6c03af"
+    },
+    {
+      "bytes": 465031,
+      "path": "rincian/00000.jsonl",
+      "records": 500,
+      "sha256": "1ddddc4c9351824fa3ecc86411aa6010df8a44ce658bedea507f2e7213d4265e"
+    },
+    {
+      "bytes": 330875,
+      "path": "rincian/00001.jsonl",
+      "records": 500,
+      "sha256": "f4bb653384e73d9fe86332526d1d8c2d797a2fa31c056b5cbbbb94b15d15004a"
+    },
+    {
+      "bytes": 427964,
+      "path": "rincian/00002.jsonl",
+      "records": 500,
+      "sha256": "b0a884f4fb241d041e19f8938e42592b56d2251f26833c8499feeb5398928fa3"
+    },
+    {
+      "bytes": 561505,
+      "path": "rincian/00003.jsonl",
+      "records": 500,
+      "sha256": "6bd58913f6d75618febdbd3b74200ac3b247aa41a30fde15b03db7661737c855"
+    },
+    {
+      "bytes": 436197,
+      "path": "rincian/00004.jsonl",
+      "records": 500,
+      "sha256": "380196ad3531d45f8f0f10c1ab57e1ca24d746c574a5bb1ff999ffcbb82799e0"
+    },
+    {
+      "bytes": 453751,
+      "path": "rincian/00005.jsonl",
+      "records": 500,
+      "sha256": "2416d89fe3e174946040586ccb30dd97ba5079e3ea20d1056dfe22e73c79630c"
+    },
+    {
+      "bytes": 457157,
+      "path": "rincian/00006.jsonl",
+      "records": 500,
+      "sha256": "1fbe79c89373ccbc4d50f692037376c9f4611c601b9b534a0e4cdabe8d116fa0"
+    },
+    {
+      "bytes": 389949,
+      "path": "rincian/00007.jsonl",
+      "records": 500,
+      "sha256": "94ab243105b63eda35714c1b4741c9601bcfc43719a39ddb4cde7938de8ec0fb"
+    },
+    {
+      "bytes": 380209,
+      "path": "rincian/00008.jsonl",
+      "records": 500,
+      "sha256": "2f31a8bdecdcc4e773d9d353593fb2e5639973fa5c6a1151d5a96f04e76bf910"
+    },
+    {
+      "bytes": 361475,
+      "path": "rincian/00009.jsonl",
+      "records": 500,
+      "sha256": "8376019e9b1491759adf78f193573715439ba7a5aecb7f205b38136fd8110637"
+    },
+    {
+      "bytes": 499861,
+      "path": "rincian/00010.jsonl",
+      "records": 500,
+      "sha256": "40f23ccc3adb946338c873802b4512b1f887da30f96af8fc1c853a350a65595a"
+    },
+    {
+      "bytes": 415254,
+      "path": "rincian/00011.jsonl",
+      "records": 500,
+      "sha256": "0bb7b628af96126bdcd2f13ae099041372e5658cc0659099fd13929e529a08ab"
+    },
+    {
+      "bytes": 392188,
+      "path": "rincian/00012.jsonl",
+      "records": 500,
+      "sha256": "9ccc2a6eed76c14592addad7e574dd515bff46bbbf658a9ea87b973428181299"
+    },
+    {
+      "bytes": 356213,
+      "path": "rincian/00013.jsonl",
+      "records": 500,
+      "sha256": "04948b04c6db3221944db785ae2f33391aa6f27f54fa9fc25c9c170da059ce97"
+    },
+    {
+      "bytes": 370516,
+      "path": "rincian/00014.jsonl",
+      "records": 500,
+      "sha256": "c4fbffeaccc458dd807cdee3bf6b6f86292ea63f08345e95acd79889c5f5c31f"
+    },
+    {
+      "bytes": 336382,
+      "path": "rincian/00015.jsonl",
+      "records": 500,
+      "sha256": "306dbe2db2979f16d6d3a4b547d7e5386b37dd0b91b3c098c5679d88879c3962"
+    },
+    {
+      "bytes": 393193,
+      "path": "rincian/00016.jsonl",
+      "records": 500,
+      "sha256": "2b886539794f5f4ae479c40c63dabc4ff8159a209481e5f0280a0de9ce4435e1"
+    },
+    {
+      "bytes": 297094,
+      "path": "rincian/00017.jsonl",
+      "records": 500,
+      "sha256": "ee569e62f3e83357911dd1c570563477f5716de06a27aa3afa2e554059e60801"
+    },
+    {
+      "bytes": 96695,
+      "path": "rincian/00018.jsonl",
+      "records": 260,
+      "sha256": "4acc00a13b5ad8db1fc0d5a17ff46d4e2a1cc4494cfd78d5c0c10620a29a5d2e"
+    }
+  ],
+  "generated_at": "2026-09-13T06:45:45.923215Z",
+  "schema_version": 1,
+  "source": "Arsip",
+  "wilayah": [
+    "3302"
+  ]
+}

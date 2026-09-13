@@ -1,0 +1,500 @@
+{"kode":"SDA25.A.3.01.1g.2.a","nama":"Memuat tanah liat/lempung dari SP/hasil galian ke DT menggunakan Exca Std. dan angkut 1 Km","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.01.1g.2.b","nama":"Menggali dan Memuat tanah liat/lempung dari BA/Saluran ke DT menggunakan Exca Std. dan angkut 1 Km","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.01.1g.3.a","nama":"Memuat tanah cadas/tanah keras dari SP/hasil galian ke DT menggunakan Exca Std. dan angkut 1 Km","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.01.1g.3.b","nama":"Menggali dan memuat cadas/tanah keras dari BA/Saluran ke DT dengan Exca Std. dan angkut 1 Km","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.01.1g.4.a","nama":"Memuat pasir dari SP/hasil galian ke DT menggunakan Exca Std. dan angkut 1 Km","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.01.1g.4.b","nama":"Menggali dan memuat pasir dari SP/hasil galian ke DT menggunakan Exca Std. dan angkut 1 Km","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.01.1g.5.a","nama":"Memuat batu lunak dari SP/hasil galian ke DT menggunakan Exca Std. dan angkut 1 Km","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.01.1g.5.b","nama":"Menggali dan memuat batu lunak dari BA/Saluran ke DT menggunakan Exca Std. dan angkut 1 Km","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.01.1g.6","nama":"Memuat batu pecah/pecah mesin dari SP/hasil galian ke DT menggunakan Exca Std. dan angkut 1 Km","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.01.1h.1.a","nama":"Memuat material berbutir halus (Tanah biasa,lempung+tanah urug) ke DT","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.01.1h.1.b","nama":"Memuat dan mengangkut material berbutir halus (Tanah biasa, lempung+tanah urug) ke DT","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.01.1h.2.a","nama":"Memuat material berbutir halus (Tanah keras, cadas+batuan lunak) ke DT, model V-shape","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.01.1h.2.b","nama":"Memuat dan mengangkut material berbutir halus (Tanah keras, cadas+batuan lunak) ke DT, model V-shape","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.01.1h.3.a","nama":"Memuat material berbutir kasar (pasir kasar/beton, pasang, halus, teras, urug) ke DT, model V-shape","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.01.1h.3.b","nama":"Memuat dan mengangkut material berbutir kasar (pasir kasar/beton, pasang, halus, teras, urug) ke DT, model V-shape","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.01.1h.4.a","nama":"Memuat material kerikil (gravel 0,5-<6cm) s.d. kerakal (coble 6-25 cm) ke DT, model V-shape","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.01.1h.4.b","nama":"Memuat dan mengangkut material kerikil (gravel 0,5-<6cm) s.d. kerakal (coble 6-25 cm) ke DT, model V-shape","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.01.1h.5.a","nama":"Memuat material batu (Ø > 25 - 50 cm) ke DT, model V-shape","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.01.1h.5.b","nama":"Memuat dan mengangkut material batu (Ø > 25 - 50 cm) ke DT, model V-shape","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.01.2a.1","nama":"Memecah Boulder menjadi batu Ø >12-50 cm dg JH+Genset (7,5 KW); dimuat ke DT dan angkut 1 km","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.01.2a.2","nama":"Memecah Boulder menjadi batu Ø >12-50 cm dg JH RD+Kompressor (75HP); dimuat ke DT, angkut 1 km","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.01.2a.3","nama":"Memecah Boulder menjadi batu Ø >12-50 cm dg Excavator+RDB; dimuat ke DT dan angkut 1 km","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.01.2a.4","nama":"Memecah Boulder menjadi batu Ø >12-50 cm dg RDB Mobile; dimuat ke DT dan angkut 1 km","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.01.2b.1","nama":"Memuat dan angkut tanah biasa menggunakan DT","satuan":"km","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.01.2b.2","nama":"Memuat dan angkut tanah keras/cadas menggunakan DT","satuan":"km","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.01.2b.3","nama":"Memuat dan Angkut Batu Pecah menggunakan DT","satuan":"km","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.01.2d.1","nama":"Memuat pakai Kerek dan membuang Limbah pohon/tunggul/akar pakai Dump Truck (DT) dg Jarak 2 km","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.01.2d.2","nama":"Memuat pakai Excavator dan membuang Limbah pohon/tunggul/akar pakai DT dg Jarak 2 km","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.01.2d.3","nama":"Menggali+muat pakai Excavator dan angkut material yang tidak terpakai ke dumpsite pakai DT dg jarak 2 km","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.01.2d.4","nama":"Menggali+muat pakai Excavator dan angkut material yang tidak terpakai ke dumpsite pakai DT dg jarak 3 km","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.01.2e.1","nama":"Gali Pasir di ttk. A (Quarry) dimuat ke DT dan angkut 3 km ke ttk. B","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.01.2e.2","nama":"DT angkut pasir dari A ke B, jarak angkut 3 Km","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.01.2e.3","nama":"Di B (SP-1: stock pile) pasir dimuatkan ke Tongkang","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.01.2e.4","nama":"Tongkang angkut pasir dari B (SP-1) ke C (SP-2), jarak angkut 20 km","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.01.2e.5","nama":"Di C (SP-2) pasir dimuatkan ke perahu","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.01.2e.6.a","nama":"Perahu kecil (tanpa mesin) angkut pasir dari C ke D, jarak angkut 2 Km","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.01.2e.6.b","nama":"Perahu kecil (dg mesin 1@10 HP) angkut pasir dari C ke D, jarak angkut 2 Km","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.01.2f.1","nama":"Stabilisasi Tanah Dasar Dengan Semen","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.01.2f.2","nama":"Stabilisasi Tanah Dasar Dengan Semen dan Kapur Metode Deep Cement Mixing","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.02.1a","nama":"Striping/kupas top soil di BA dengan excavator long Arm dan angkut ke lokasi pekerjaan","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.02.1b","nama":"Pembuangan material yang tidak terpakai dimuat ke DT dan diangkut ke dumpsite","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.02.1c","nama":"Penambahan tanah bahan tanggul dari BA diangkut oleh DT ke lokasi pekerjaan","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.02.1d.1","nama":"Ukuran tanah di tempat sempit, tidak dilakukan dengan Vibro roller","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.02.1d.2","nama":"Penghamparan, perataan dan pemadatan tanah ringan (standar proctor)","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.02.1d.3","nama":"Penghamparan, perataan dan pemadatan tanah berat (modified proctor)","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.02.2a.1","nama":"Pemasangan atau Pengambilan Gambangan secara Semi Mekanis","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.02.2a.2","nama":"Pemasangan atau pengambilan gambangan secara mekanis","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.02.2b.1","nama":"Galian tanah di rawa menggunakan Excavator Long Arm","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.02.2b.2","nama":"Galian Tanah di Rawa menggunakan Excavator Standar","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.02.2b.3","nama":"Angkut Material Hasil Galian di Rawa oleh Dump Truck sejauh 1,5 km","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.02.3a","nama":"Gali dan Urug Posisi dekat","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.02.3b","nama":"Gali dan Urug Posisi Jauh","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.03.2a","nama":"Pengerukan sedimen di waduk/danau dengan kapal keruk kedalaman 10 m","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.03.2b","nama":"Pengerukan sedimen di waduk/danau dengan kapal keruk kedalaman 50 m","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.03.2c","nama":"Tempat penirisan sedimen (TPS)","satuan":"m2","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.03.3a","nama":"Galian Timbulan tanah yang berbentuk Pulau di Situ/Waduk/Danau","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.03.3b","nama":"Angkutan hasil galian dengan ponton-2 (jarak 1 km)","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.03.3c","nama":"Angkutan hasil galian dengan ponton-2 (jarak 3 km)","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.03.3d","nama":"Angkutan hasil galian dengan ponton-2 (jarak 5 km)","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.03.5a","nama":"Pekerjaan Pengoperasian Pompa Air / Booster per-Jam","satuan":"buah","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.04.1a.1","nama":"Pembuatan s.d Pengecoran campuran beton mutu rendah fc 10 MPa; Slump ( 10 ± 2,5 ), agr. Maks 19 mm","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.04.1a.2","nama":"Pembuatan s.d Pengecoran campuran beton mutu rendah fc 15 MPa; Slump ( 10 ± 2,5 ), agr. Maks 19 mm","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.04.1b.1","nama":"Pembuatan s.d Pengecoran campuran beton mutu sedang fc 20 MPa; Slump ( 10 ± 2,5 ), agr. Maks 19 mm","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.04.1b.2","nama":"Pembuatan s.d Pengecoran campuran beton mutu sedang fc 25 MPa; Slump ( 10 ± 2,5 ), agr. Maks 19 mm","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.04.1c.1","nama":"Pembuatan s.d Pengecoran campuran beton mutu sedang fc 30 MPa; Slump ( 10 ± 2,5 ), agr. Maks 19 mm","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.04.1c.2","nama":"Pembuatan s.d Pengecoran campuran beton mutu sedang fc 35 MPa; Slump ( 10 ± 2,5 ), agr. Maks 19 mm","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.04.1c.3","nama":"Pembuatan s.d Pengecoran campuran beton mutu sedang fc 40 MPa; Slump ( 10 ± 2,5 ), agr. Maks 19 mm","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.04.1d.1","nama":"Pembuatan s.d Pengecoran campuran beton mutu tinggi fc 45 MPa; Slump ( 10 ± 2,5 ), agr. Maks 19 mm","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.04.1d.2","nama":"Pembuatan s.d Pengecoran campuran beton mutu tinggi fc 50 MPa; Slump ( 10 ± 2,5 ), agr. Maks 19 mm","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.04.2","nama":"Pembuatan s.d. Pengecoran Campuran Beton Secara Mekanis di BP yang diangkut Truck Mixer ke Lokasi Pekerjaan","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.04.2a","nama":"Pembuatan s.d. Pengecoran campuran beton mutu rendah fc 10 MPa; Slump (10 ± 2,5) cm, agregat maks 19 mm","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.04.2b","nama":"Pembuatan s.d. Pengecoran campuran beton mutu sedang fc 20 MPa; Slump (10 ± 2,5) cm, agregat maks 19 mm","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.04.2c","nama":"Pembuatan s.d. Pengecoran campuran beton mutu sedang fc 40 MPa; Slump (10 ± 2,5) cm, agregat maks 19 mm","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.04.3a","nama":"Pembuatan dan Pengecoran beton dengan Shotcrete Campuran Beton fc 25 MPa, tebal 20 cm","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.04.3b","nama":"Pembuatan dan Pengecoran sampai pada ketinggian 50 m pakai Pompa Beton 90 KW; 130 bar","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.04.3c","nama":"Pembuatan dan Pengecoran beton pada jarak 100 m horizontal pakai Pompa Beton 90 KW; 130 bar","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.04.3d","nama":"Soil Nailing dengan Bor Tangan (Semi-mekanis)","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.04.3e","nama":"Soil Nailing dengan Bor Horizontal (Cara mekanis)","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.04.4a.1","nama":"Pembuatan s.d. Pengecoran Campuran Beton mutu sedang fc 25 MPa; W/C=0,509","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.04.4a.2","nama":"Pembuatan s.d. Pengecoran Campuran Beton mutu tinggi fc 40 MPa; W/C=0,339","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.04.4b","nama":"Pembuatan dan pengecoran Campuran Beton fc 30 MPa pakai Batching Plant Mini","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.04.4c","nama":"Pembuatan dan pengecoran Campuran Beton fc 30 MPa pakai Batching Plant Midi","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.04.4d","nama":"Pembuatan dan pengecoran Campuran Beton fc 30 MPa pakai Batching Plant Besar","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.04.5","nama":"Pemasangan Komponen Pracetak","satuan":"buah","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.05.1a.1.a","nama":"Penetrasi Tiang 5/7 cm Kayu Kelas II (DDH)","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.05.1a.1.b","nama":"Penetrasi Tiang pancang Dolken Ø 6 - 8 cm","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.05.1a.1.c","nama":"Penetrasi Cerucuk bambu Ø 8 - 10 cm atau Kayu 10 x 10 cm","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.05.1a.1.d","nama":"Penetrasi Tiang Kayu 8/12 cm atau kayu 12 x 12 cm (Kelas II)","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.05.1a.1.e","nama":"Penetrasi Tiang Kayu gelondongan Ø 18 - 20 cm atau persegi 20 cm","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.05.1a.2.a","nama":"Penetrasi Turap Kayu 5/7 cm - tebal 7 cm untuk lebar 1 m turap (14,3 Buah)","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.05.1a.2.b","nama":"Penetrasi Turap Kayu 5/7 cm - tebal 5 cm untuk lebar 1 m turap (20 Buah)","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.05.1a.2.c","nama":"Penetrasi Turap Kayu Dolken ø 6 - 8 cm selebar 1 m turap (12,5-16,7 buah)","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.05.1a.2.d","nama":"Penetrasi Turap Kayu 8/12 cm - tebal 8 cm untuk lebar 1 m turap (8,33 Buah)","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.05.1a.2.e","nama":"Penetrasi Turap Kayu 8/12 cm - tebal 12 cm untuk lebar 1 m turap (12,5 Buah) (DDH)","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.05.1b.1.a","nama":"Penetrasi Tiang Beton Ø 28 cm","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.05.1b.1.b","nama":"Penetrasi Tiang Beton Ø 32 cm","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.05.1b.1.c","nama":"Penetrasi Tiang Beton Ø 10-12 cm atau Persegi 12 cm","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.05.1b.1.d","nama":"Penetrasi Tiang Beton Ø 15 cm atau Persegi 15 cm","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.05.1b.1.e","nama":"Penetrasi Tiang Beton ø 20 cm atau Persegi 20 cm","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.05.1b.1.f","nama":"Penetrasi Tiang Beton ø 25 cm atau Persegi 25 cm","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.05.1b.1.g","nama":"Penetrasi Tiang Beton ø 30 cm atau Persegi 30 cm","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.05.1b.1.h","nama":"Penetrasi Tiang Beton ø 50 cm atau Persegi 50 cm","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.05.1b.1.i","nama":"Penetrasi Tiang Beton ø 35cm atau Persegi 35 cm","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.05.1b.2.a","nama":"Penetrasi Tiang Beton Spun ø 30; 6 cm (DDH)","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.05.1b.2.b","nama":"Penetrasi Tiang Beton Spun ø 35; 6,5 cm (DDH)","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.05.1b.2.c","nama":"Penetrasi Tiang Beton Spun ø 40; 7,5 cm (DDH)","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.05.1b.2.d","nama":"Penetrasi Tiang Beton Spun ø 45; 8 cm (DDH)","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.05.1b.2.e","nama":"Penetrasi Tiang Beton Spun ø 50; 9 cm (DDH)","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.05.1b.2.f","nama":"Penetrasi Tiang Beton Spun ø 60; 10 cm (DDH)","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.05.1b.2.g","nama":"Penetrasi Tiang Beton Spun ø 80; 12 cm (DDH)","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.05.1b.2.h","nama":"Penetrasi Tiang Beton Spun ø 100; 14 cm (DDH)","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.05.1b.2.i","nama":"Penetrasi Tiang Beton Spun ø 120; 15 cm (DDH)","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.05.1b.3.a","nama":"Penetrasi Tiang Beton Spun Persegi ø 40; 7,5 cm (DDH)","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.05.1b.3.b","nama":"Penetrasi Tiang Beton Spun Persegi ø 45; 8 cm (DDH)","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.05.1b.4.a","nama":"Penetrasi turap beton pre-cast 12 x 30 cm; pjg - 4 m; berat 100 kg/m","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.05.1b.4.b","nama":"Penetrasi turap beton pre-cast 15 x 40 cm; pjg - 4 m; berat 150 kg/m","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.05.1b.4.c","nama":"Penetrasi turap beton pre-cast 22 x 50 cm; pjg - 4 m; berat 275 kg/m","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.05.1b.4.d","nama":"Penetrasi turap beton pre-cast 32 x 50 cm; pjg - 4 m; berat 400 kg/m","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.05.1b.4.e","nama":"Penetrasi Turap Beton tulang pre-cast W-400; lebar 1,0 m; pjg - 4 m; berat 350 kg/m (DDH)","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.05.1b.4.f","nama":"Penetrasi Turap Beton tulang pre-cast W-600; lebar 1,0 m; pjg - 4 m; berat 375 kg/m (DDH)","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.05.1b.4.g","nama":"Penetrasi Turap Beton pre-cast W-450","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.05.1b.4.h","nama":"Penetrasi beton pre-cast untuk Panjang n m","satuan":"m","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.05.1c.1.a","nama":"Penetrasi Tiang Pancang Pipa Baja ø 15 cm atau persegi 15 cm, t=0,6 cm","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.05.1c.1.b","nama":"Penetrasi Tiang Pancang Baja ø 20 cm atau persegi 20 cm, t=0,9 cm","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.05.1c.1.c","nama":"Penetrasi Tiang Pancang Baja ø 25 cm atau persegi 25 cm, t=1,2 cm","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.05.1c.1.d","nama":"Penetrasi Tiang Pancang Baja ø 30 cm atau persegi 30 cm, t=1,2 cm","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.05.1c.1.e","nama":"Penetrasi Tiang Pancang Baja ø 35 cm atau persegi 35 cm, t=1,6 cm","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.05.1c.1.f","nama":"Penetrasi Tiang Pancang Baja ø 40 cm atau persegi 40 cm, t=2,2 cm","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.05.1c.2.a","nama":"Penetrasi turap baja profil Larsen 400 x 100 x 10,5 mm; 48 kg/m (DDH)","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.05.1c.2.b","nama":"Penetrasi turap baja profil Larsen 400 x 170 x 15,5 mm; 76,1 kg/m (DDH)","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.05.2a.1.a","nama":"Penetrasi Tiang 5/7 cm Kayu Kelas II (VPD)","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.05.2a.1.b","nama":"Penetrasi tiang pancang Dolken Ø 6 - 8 cm","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.05.2a.1.c","nama":"Penetrasi cerucuk bambu Ø 8 - 10 cm atau Kayu 10 x 10 cm","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.05.2a.1.d","nama":"Penetrasi Tiang Kayu 8/12 cm atau Kayu 12 x 12 cm (Kelas II)","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.05.2a.1.e","nama":"Penetrasi tiang pancang kayu gelondongan Ø 18 - 20 cm atau Persegi 20 cm","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.05.2a.2.b","nama":"Penetrasi Turap Kayu 5/7 cm - tebal 5 cm untuk lebar 1 m turap (20 Buah) (VPD)","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.05.2a.2.c","nama":"Penetrasi turap kayu dolken ø 6 - 8 cm selebar 1 m turap (12,5-16,7 buah)","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.05.2a.2.d","nama":"Penetrasi Turap Kayu 8/12 cm - tebal 8 cm untuk lebar 1 m turap (8,33 Buah) (VPD)","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.05.2a.2.e","nama":"Penetrasi Turap Kayu 8/12 cm - tebal 12 cm untuk lebar 1 m turap (12,5 Buah) (VPD)","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.05.2b.1.a","nama":"Penetrasi Tiang beton Segi tiga 28 cm","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.05.2b.1.b","nama":"Penetrasi Tiang beton Segi tiga 32 cm","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.05.2b.1.c","nama":"Penetrasi Tiang beton Ø 10 - 12 cm atau Persegi 12 cm","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.05.2b.1.d","nama":"Penetrasi Tiang beton Ø 15 cm atau Persegi 15 cm","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.05.2b.1.e","nama":"Penetrasi Tiang beton ø 20 cm atau Persegi 20 cm","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.05.2b.1.f","nama":"Penetrasi Tiang beton ø 25 cm atau Persegi 25 cm","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.05.2b.1.g","nama":"Penetrasi tiang pancang Beton ø 30 cm atau Persegi 30 cm","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.05.2b.1.i","nama":"Penetrasi Tiang Pancang Beton ø 50 cm atau Persegi 50 cm","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.05.2b.1h","nama":"Penetrasi tiang pancang Beton ø 35cm atau Persegi 35 cm","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.05.2b.2.a","nama":"Penetrasi Tiang Beton Spun ø 30; 6 cm (VPD)","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.05.2b.2.b","nama":"Penetrasi Tiang Beton Spun ø 35; 6,5 cm (VPD)","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.05.2b.2.c","nama":"Penetrasi Tiang Beton Spun ø 40; 7,5 cm (VPD)","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.05.2b.2.d","nama":"Penetrasi Tiang Beton Spun ø 45; 8 cm (VPD)","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.05.2b.2.e","nama":"Penetrasi Tiang Beton Spun ø 50; 9 cm (VPD)","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.05.2b.2.f","nama":"Penetrasi Tiang Beton Spun ø 60; 10 cm (VPD)","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.05.2b.2.g","nama":"Penetrasi Tiang Beton Spun ø 80; 12 cm (VPD)","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.05.2b.2.h","nama":"Penetrasi Tiang Beton Spun ø 100; 14 cm (VPD)","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.05.2b.2.i","nama":"Penetrasi Tiang Beton Spun ø 120; 15 cm (VPD)","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.05.2b.3.a","nama":"Penetrasi Tiang Beton Spun Persegi ø 40; 7,5 cm (VPD)","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.05.2b.3.b","nama":"Penetrasi Tiang Beton Spun Persegi ø 45; 8 cm (VPD)","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.05.2b.4.a","nama":"Penetrasi turap beton pre-cast 12 x 30 cm; m; berat 100 kg/m","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.05.2b.4.b","nama":"Penetrasi turap beton pre-cast 15 x 40 cm; m; berat 150 kg/m","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.05.2b.4.c","nama":"Penetrasi turap beton pre-cast 22 x 50 cm; m; berat 275 kg/m","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.05.2b.4.d","nama":"Penetrasi turap beton pre-cast 32 x 50 cm; m; berat 400 kg/m","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.05.2b.4.e","nama":"Penetrasi Turap Beton tulang pre-cast W-400; lebar 1,0 m; pjg - 4 m; berat 350 kg/m (VPD)","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.05.2b.4.f","nama":"Penetrasi Turap Beton tulang pre-cast W-600; lebar 1,0 m; pjg - 4 m; berat 375 kg/m (VPD)","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.05.2c.1.a","nama":"Penetrasi tiang pancang Baja ø 15 cm atau persegi 15 cm, t=0,63 cm","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.05.2c.1.b","nama":"Penetrasi tiang pancang Baja ø 20 cm atau persegi 20 cm, t=0,9 cm","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.05.2c.1.c","nama":"Penetrasi tiang pancang Baja ø 25 cm atau persegi 25 cm, t=1,2 cm","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.05.2c.1.d","nama":"Penetrasi tiang pancang Baja ø 30 cm atau persegi 30 cm, t=1,2 cm","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.05.2c.1.e","nama":"Penetrasi tiang pancang Baja ø 35 cm atau persegi 35 cm, t=1,6 cm","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.05.2c.1.f","nama":"Penetrasi tiang pancang Baja ø 40 cm atau persegi 40 cm, t=2,2 cm","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.05.2c.2.a","nama":"Panjang penetrasi turap baja profil Larsen 400 x 100 x 10,5 mm; 48 kg/m (VPD)","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.05.2c.2.b","nama":"Panjang penetrasi turap baja profil Larsen 400 x 170 x 15,5 mm; 76,1 kg/m (VPD)","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.05.3a.1.a","nama":"Penetrasi Tiang pancang kayu 5/7 cm (Kelas II)","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.05.3a.1.b","nama":"Penetrasi Tiang pancang dolken Ø 6 - 8 cm","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.05.3a.1.c","nama":"Penetrasi Cerucuk dolken/bambu Ø 8 -10 cm atau kayu 10 x 10 cm","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.05.3a.1.d","nama":"Penetrasi Tiang pancang kayu 8/12 cm atau 12 x 12 cm (Kelas II)","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.05.3a.1.e","nama":"Penetrasi Tiang Kayu dolken atau kayu Kelas II Ø 18 - 20 cm","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.05.3a.2.a","nama":"Penetrasi Turap kayu 5/7 cm - tebal 7 cm untuk lebar 1 m turap (14,3 Buah)","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.05.3a.2.b","nama":"Penetrasi Turap kayu 5/7 cm - tebal 5 cm untuk lebar 1 m turap (20 Buah)","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.05.3a.2.c","nama":"Penetrasi Turap kayu dolken ø 6-8 cm untuk lebar 1 m turap (12,5-16,7 buah)","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.05.3a.2.d","nama":"Penetrasi Turap kayu 8/12 cm - tebal 8 cm untuk lebar 1 m turap (8,33 Buah)","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.05.3a.2.e","nama":"Penetrasi Turap kayu 8/12 cm - tebal 12 cm untuk lebar 1 m turap (12,5 Buah)","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.05.3b.1.a","nama":"Penetrasi Tiang pancang beton D 28 cm","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.05.3b.1.b","nama":"Penetrasi Tiang pancang beton D 32 cm","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.05.3b.1.c","nama":"Penetrasi Tiang pancang beton Ø 10 - 12 cm atau persegi 12 cm","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.05.3b.1.d","nama":"Penetrasi Tiang pancang beton Ø 15 cm atau persegi 15 cm","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.05.3b.1.e","nama":"Penetrasi Tiang pancang beton Ø 20 cm atau persegi 20 cm","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.05.3b.2.a","nama":"Penetrasi Tiang pancang beton Spun ø 30 cm; 6 cm","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.05.3b.2.b","nama":"Penetrasi Tiang pancang beton Spun ø 35 cm; 6,5 cm","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.05.3b.2.c","nama":"Penetrasi Tiang pancang beton Spun ø 40 cm; 7,5 cm","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.05.3b.3.a","nama":"Penetrasi Tiang pancang beton Spun persegi ø 40 cm; 7,5 cm","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.05.3b.3.b","nama":"Penetrasi Tiang pancang beton Spun persegi ø 45 cm; 8 cm","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.05.3b.4.a","nama":"Penetrasi beton pre-cast 12 x 30 cm; pjg - 4m; berat 100 kg/m","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.05.3b.4.b","nama":"Penetrasi beton pre-cast 15 x 40 cm; pjg - 4m; berat 150 kg/m","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.05.3b.4.c","nama":"Penetrasi beton pre-cast 22 x 50 cm; pjg - 4m; berat 275 kg/m","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.05.3b.4.d","nama":"Penetrasi beton pre-cast 32 x 50 cm; pjg - 4m; berat 400 kg/m","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.05.3b.4.e","nama":"Penetrasi Turap pancang Beton pre-cast W-400; lebar 1,0 m; pjg - 4 m; berat 350 kg/m","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.05.3b.4.f","nama":"Penetrasi Turap pancang Beton tulang pre-cast W 600; lebar 1,0 m; pjg - 4 m; berat 375 kg/m","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.05.3c.1.a","nama":"Penetrasi tiang pancang Pipa Baja ø 15 cm atau persegi 15 cm, t=0,63 cm","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.05.3c.1.b","nama":"Penetrasi tiang pancang Pipa Baja ø 20 cm atau persegi 20 cm, t=0,9 cm","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.05.3c.1.c","nama":"Penetrasi tiang pancang Pipa Baja ø 25 cm atau persegi 25 cm, t=1,2 cm","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.05.3c.1.d","nama":"Penetrasi tiang pancang Pipa Baja ø 30 cm atau persegi 30 cm, t=1,2 cm","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.05.3c.1.e","nama":"Penetrasi tiang pancang Pipa Baja ø 35 cm atau persegi 35 cm, t=1,6 cm","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.05.3c.1.f","nama":"Penetrasi tiang pancang Pipa Baja ø 40 cm atau persegi 40 cm, t=2,2 cm","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.05.3c.2.a","nama":"Penetrasi turap baja profil Larsen 400 x 100 x 10,5 mm; 48 kg/m (Excavator)","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.05.3c.2.b","nama":"Penetrasi turap baja profil Larsen 400 x 170 x 15,5 mm; 76,1 kg/m (Excavator)","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.05.4a.1","nama":"Pengelasan las listrik (semi-mekanis) untuk tebal 5 mm","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.05.4a.2","nama":"Pengelasan las listrik (mekanis) untuk tebal 6 mm","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.05.4a.3","nama":"Pengelasan las listrik (mekanis) untuk tebal 10 mm","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.05.4b.1.a","nama":"Cabut dan muat Turap Baja Profil 400x100x10,5 mm - 48 kg/m ke DT","satuan":"batang","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.05.4b.1.b","nama":"Cabut dan muat tiang pancang Baja Ø 15 cm atau Persegi 15 cm","satuan":"batang","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.05.4b.1.c","nama":"Cabut dan muat Tiang Pancang Baja Ø 20 cm atau Persegi 20 cm","satuan":"batang","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.05.4b.1.d","nama":"Cabut dan muat Tiang kayu 8/12 cm (Kelas I) - pjg 4 m ke DT","satuan":"batang","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.05.4c.1","nama":"Angkut dan turunkan Tiang Pancang dan/atau Balok kayu 8/12 cm (Kelas I), jarak 250 m","satuan":"batang","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.05.4c.2","nama":"Angkut dan turunkan Tiang Pancang dan/atau Balok kayu 8/12 cm (Kelas I), jarak 500 m","satuan":"batang","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.05.5a","nama":"Penertrasi tiang baja via laut","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.05.5b","nama":"Pemasangan Tiang Pipa Beton dengan Metode Innerboring melalui badan air","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.06.1a","nama":"Pengeboran pondasi tiang bor ø 60 cm","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.06.1b","nama":"Penulangan dan Pengecoran Pondasi Tiang Bor Ø 60 cm, campuran beton semi Mekanis","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.06.2a","nama":"Pengeboran pondasi tiang bor ø 80 cm","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.06.2b","nama":"Penulangan dan Pengecoran Pondasi Tiang Bor Ø 80 cm, campuran beton semi Mekanis","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.06.3a","nama":"Pengeboran pondasi tiang bor ø 100 cm","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.06.3b","nama":"Penulangan dan Pengecoran Pondasi Tiang Bor Ø 100 cm, campuran beton semi Mekanis","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.06.3c","nama":"Penulangan dan Pengecoran Pondasi Tiang Bor Ø 100 cm, campuran beton ready mix","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.06.3d","nama":"Penulangan + Pengecoran Pondasi Tiang Bor Ø 100 cm, dari Batching Plant diangkut Truck Mixer Beton","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.06.4a","nama":"Pengeboran Pondasi Tiang Bor Ø 120 cm","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.06.4b","nama":"Penulangan dan Pengecoran Pondasi Tiang Bor Ø 120 cm, campuran beton semi mekanis","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.06.4c","nama":"Penulangan dan Pengecoran Pondasi Tiang Bor Ø 120 cm, campuran beton ready mix","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.06.4d","nama":"Penulangan + Pengecoran Pondasi Tiang Bor Ø 120 cm, dari Batching Plant diangkut Truck Mixer Beton","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.06.5a","nama":"Pengeboran pondasi tiang bor ø 160 cm","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.06.5b","nama":"Penulangan dan Pengecoran Pondasi Tiang Bor Ø 160 cm, campuran beton semi Mekanis","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.06.5c","nama":"Penulangan dan Pengecoran Pondasi Tiang Bor Ø 160 cm, campuran beton ready mix","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.06.5d","nama":"Penulangan + Pengecoran Pondasi Tiang Bor Ø 160 cm, dari Batching Plant diangkut Truck Mixer Beton","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.06.6a","nama":"Pengeboran pondasi tiang bor ø 180 cm","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.06.6b","nama":"Penulangan dan Pengecoran Pondasi Tiang Bor Ø 180 cm, campuran beton semi Mekanis","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.06.6c","nama":"Penulangan dan Pengecoran Pondasi Tiang Bor Ø 180 cm, campuran beton ready mix","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.06.6d","nama":"Penulangan + Pengecoran Pondasi Tiang Bor Ø 180 cm, dari Batching Plant diangkut Truck Mixer Beton","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.06.7a","nama":"Pemasangan Besi Bore Pile dia. 80cm","satuan":"kg","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.06.8a","nama":"Preboring diameter 0,3 m","satuan":"m","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.07.1a","nama":"Memuat, mengangkut dan memasang Armor Kubus Beton 0,3 m atau Armor Kubus Batu Alam ± 60 kg","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.07.1b","nama":"Memuat, mengangkut dan memasang Armor Kubus Beton 0,4 m atau Armor Kubus Batu Alam ± 150 kg","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.07.1c","nama":"Memuat, mengangkut dan memasang Armor Kubus Beton 0,6 m atau Armor Kubus Batu Alam ± 500 kg","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.07.1d","nama":"Memuat, mengangkut dan memasang Armor Kubus Beton Berongga 0,6 m1","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.07.1e","nama":"Memuat, mengangkut dan memasang Armor Kubus Beton Bergigi","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.07.1f","nama":"Memuat, mengangkut dan memasang Armor Blok Beton 3B (Berkait, Berongga dan Bertangga)","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.07.1g","nama":"Memuat, mengangkut dan memasang Armor Blok Beton 0,4 Ton quadripod, tetrapod, dolos, tribar, dll","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.07.1h","nama":"Memuat, mengangkut dan memasang Armor Blok Beton 0,5 Ton quadripod, tetrapod, dolos, tribar, dll","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.07.1i","nama":"Memuat, mengangkut dan memasang Armor Blok Beton 0,75 Ton quadripod, tetrapod, dolos, tribar, dll","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.07.1j","nama":"Memuat, mengangkut dan memasang Armor Blok Beton 1,0 Ton quadripod, tetrapod, dolos, tribar, dll","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.07.1k","nama":"Memuat, mengangkut dan memasang Armor Blok Beton 1,5 Ton quadripod, tetrapod, dolos, tribar, dll","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.07.1l","nama":"Memuat, mengangkut dan memasang Armor Blok Beton 2,0 Ton quadripod, tetrapod, dolos, tribar, dll","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.07.1m","nama":"Memuat, mengangkut dan memasang Armor Blok Beton 2,5 Ton quadripod, tetrapod, dolos, tribar, dll","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.07.2a.1","nama":"Penafisan Batu untuk rentang berat 1 kg - 100 kg per buah","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.07.2a.2","nama":"Penafisan Batu untuk rentang berat 100 kg - 400 kg per buah","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.07.2a.3","nama":"Penafisan Batu untuk rentang berat 400 kg - 800 kg per buah","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.07.2b.1","nama":"Pasangan batu 1 kg - 3 kg","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.07.2b.10","nama":"Pasangan batu 300 kg - 400 kg","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.07.2b.11","nama":"Pasangan batu 400 kg - 500 kg","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.07.2b.12","nama":"Pasangan batu 500 kg - 650 kg","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.07.2b.13","nama":"Pasangan batu 650 kg - 800 kg","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.07.2b.14","nama":"Pasangan batu 800 kg - 1000 kg","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.07.2b.2","nama":"Pasangan batu 3 kg - 5 kg","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.07.2b.3","nama":"Pasangan batu 5 kg - 10 kg","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.07.2b.4","nama":"Pasangan batu 10 kg - 30 kg","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.07.2b.5","nama":"Pasangan batu 30 kg - 50 kg","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.07.2b.6","nama":"Pasangan batu 50 kg - 100 kg","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.07.2b.7","nama":"Pasangan batu 100 kg - 200 kg","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.07.2b.8","nama":"Pasangan batu 200 kg - 300 kg","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.07.2b.9","nama":"Pasangan batu 200 kg - 500 kg","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.07.3a","nama":"Pasangan Bronjong PK pakai Excavator Standar di atas Ponton-1","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.07.3b","nama":"Pasangan Bronjong Pelindung Kaki pakai CT","satuan":"unit","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.07.3c.1","nama":"Pasangan 1,5 Ton Bronjong Pelindung Kaki Tambang Nylon pakai Kapal Kayu","satuan":"unit","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.07.3c.2","nama":"Pasangan Kubus Berongga 60 cm pakai Kapal Kayu","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.07.3c.3","nama":"Pemasangan 1,5 Armor Kubus/Tetrapod/Komponen Bangunan Pantai pakai Kapal (Water Based)","satuan":"ton","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.07.3c.4","nama":"Memuat/menurunkan/pemasangan barang/material ke/dari Sarana Angkutan Land Based","satuan":"ton","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.07.4a.1","nama":"Memotong dan mengobras Karung Geotekstil untuk dijadikan Geotube","satuan":"m2","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.07.4a.2","nama":"Pembuatan Karung Geotekstil untuk Geotube, berdasarkan luas bahan geotekstil","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.07.4a.3","nama":"Pembuatan Karung Geotekstil untuk Geotube, berdasarkan panjang Jahitan per-m @2 x jahit","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.07.4a.4","nama":"Menjahit lintasan Karung Geotekstil menggunakan Mesin jahit portable; bahan sedang/tebal s.d. 3mm; 0,25KW","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.07.4b.1","nama":"Pemasangan Score Apron Ø 50cm @ 20 m","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.07.4b.2","nama":"Pemasangan panjang Geotube L=20 m dan T=1,5m, secara mekanis","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.07.4b.3","nama":"Pengelasan Geotekstil ketebalan sedang dengan pengelasan; secara Semi mekanis","satuan":"m2","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.07.4b.4","nama":"Pengelasan Geosynthetic Clay Liner (GCL); secara Semi mekanis","satuan":"m2","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.07.4b.5","nama":"Pengelasan Geogrid; secara Semi mekanis","satuan":"m2","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.07.4b.6.a","nama":"Pasir hasil sedot dari Lepas Pantai diangkut ke Lokasi Pekerjaan, cara Semi-Mekanis","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.07.4b.6.b","nama":"Pasir hasil sedot dari Lepas Pantai diangkut ke Lokasi Pekerjaan, cara Mekanis","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.07.4b.6.c","nama":"Pasir dari darat (Quarry) diangkut ke Lokasi Pekerjaan, cara Mekanis","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.07.4b.7.a","nama":"Pengisian campuran 80% air + 20% pasir ke dalam Score Apron di lokasi PEGAR","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.07.4b.7.b","nama":"Pengisian campuran 80% air + 20% pasir ke dalam Geotube di lokasi PEGAR","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.07.4b.7.c","nama":"Pengisian campuran 80% air + 20% pasir (Semi Mekanis) PEGAR","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.07.4b.7.d","nama":"Pengisian campuran 80% air + 20% pasir (Mekanis) PEGAR","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.07.5a","nama":"Memuat Tetrapod 2,5 ton dengan TC (beban maksimum 25 ton) ke Trailer/Kapal","satuan":"unit","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.07.5b","nama":"Menurunkan dan memasang Tetrapod 2,5 ton dg TC, Arm 78 m (beban maksimum 35 ton) sebagai Pemecah Gelombang","satuan":"unit","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.07.5c","nama":"Angkut 2 Tetrapod @2,5 Ton dengan Trailer (beban maksimum 20 ton) sejauh 1,6 Km","satuan":"unit","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.07.5d","nama":"Angkut Tetrapod 2,5 Ton dengan Kapal (beban maksimum 100 ton) sejauh 2,6 Km","satuan":"unit","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.07.6.a","nama":"Pemasangan Patok Pelurus PEGAR","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.1a.1","nama":"Pengeboran Sumur Bor Air Tanah Dangkal Ø 1\"- 1,25\" pada tanah sedang (biasa)","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.1a.2","nama":"Pengeboran Sumur Bor Air Tanah Dangkal Ø 1\"- 1,25\" pada Tanah Keras/Cadas sangat padat dan batuan lunak sangat padat dan batuan lunak","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.1a.3","nama":"Pengeboran Sumur Bor Air Tanah Dangkal Ø 1\"- 1,25\" di tanah berbatu","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.1a.4","nama":"Pengeboran Sumur Bor Air Tanah Dangkal Ø 1\"- 1,25\" pada batuan keras (andesit)","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.1a.5","nama":"Pengadaan dan Pemasangan Sumur Bor Air Tanah Dangkal GIP Ø 1\"- 1,25\"","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.1b.1","nama":"Pengeboran Sumur Bor Air Tanah Dangkal Ø 2\" pada tanah sedang (biasa)","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.1b.2","nama":"Pengeboran Sumur Bor Air Tanah Dangkal Ø 2\" pada Tanah Keras/Cadas sangat padat dan batuan lunak sangat padat dan batuan lunak","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.1b.3","nama":"Pengeboran Sumur Bor Air Tanah Dangkal Ø 2\" pada tanah berbatu","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.1b.4","nama":"Pengeboran Sumur Bor Air Tanah Dangkal Ø 2\" pada batuan keras (andesit)","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.1b.5","nama":"Pengadaan dan Pemasangan Sumur Bor Air Tanah Dangkal GIP Ø 2\"; menggunakan GIP","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.1b.6","nama":"Pengadaan dan Pemasangan Sumur Bor Air Tanah Dangkal PVC Ø 2\" menggunakan PVC","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.1c.1","nama":"Pengeboran Sumur Bor Air Tanah Dangkal Ø 4\" pada Tanah Sedang (Biasa)","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.1c.2","nama":"Pengeboran Sumur Bor Air Tanah Dangkal Ø 4\" pada Tanah Keras/Cadas sangat padat dan batuan lunak","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.1c.3","nama":"Pengeboran Sumur Bor Air Tanah Dangkal Ø 4\" pada Tanah berbatu","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.1c.4","nama":"Pengeboran Sumur Bor Air Tanah Dangkal Ø 4\" pada batuan keras/andesit","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.1c.5","nama":"Pengadaan dan Pemasangan Casing Sumur Bor Air Tanah Dangkal GIP Ø 4\"; menggunakan GIP","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.1c.6","nama":"Pengadaan dan Pemasangan Casing Sumur Bor Air Tanah Dangkal PVC Ø 4\"; menggunakan PVC","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.1d.1","nama":"Pengeboran Sumur Bor Air Tanah Dangkal Ø 6\" pada Tanah Sedang (Biasa)","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.1d.2","nama":"Pengeboran Sumur Bor Air Tanah Dangkal Ø 6\" pada Tanah Keras/Cadas sangat padat dan batuan lunak","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.1d.3","nama":"Pengeboran Sumur Bor Air Tanah Dangkal Ø 6\" pada Tanah Berbatu","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.1d.4","nama":"Pengeboran Sumur Bor Air Tanah Dangkal Ø 6\" pada batuan keras/andesit","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.1d.5","nama":"Pengadaan dan Pemasangan Casing Sumur Bor Air Tanah Dangkal GIP Ø 6\"","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.1e.1","nama":"Pengadaan dan Pemasangan Ploksock (Reducer)","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.1e.2","nama":"Pengadaan dan Pemasangan Pompa dan Perpipaan","satuan":"set","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.2a","nama":"Pengambilan dan Deskripsi Sampel Batuan (termasuk laporan)","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.2b","nama":"Pengeboran ø 8 3/4\"","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.2c","nama":"Reaming ø 8 3/4\" - 12\"","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.2d","nama":"Reaming ø 8 3/4\" - 14 3/4\"","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.2e","nama":"Bongkar pasang Temporary Cassing (ID) 12\"","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.2f","nama":"Bongkar pasang Temporary Cassing (ID) 17\"","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.2g","nama":"Pengadaan dan Pemasangan Cassing Pipa Black Steel 6\"","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.2h","nama":"Pengadaan dan Pemasangan LC Screen 6\"","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.2i","nama":"Pengadaan dan Pemasangan Cassing Pipa Black Steel 8\"","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.2j","nama":"Pengadaan dan Pemasangan LC Screen 8\"","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.2k","nama":"Pengadaan dan Pemasangan Pipa Sounding PVC 1\"","satuan":"m1","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.2l","nama":"Pengadaan dan Pemasangan Gravel Pack","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.2m","nama":"Pencucian sumur","satuan":"jam","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.2n","nama":"Uji Pemompaan","satuan":"jam","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.2o","nama":"Pasang dan bongkar Peralatan Uji Pemompaan","satuan":"lokasi","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.2q","nama":"Electric logging","satuan":"titik","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.2r","nama":"Sementasi (Slash grouting) dan pengecoran lantai sumur","satuan":"m3","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.3.1.a","nama":"Pengadaan Pipa Baja DN 300 mm sampai stockpile","satuan":"batang","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.3.1.b","nama":"Pengadaan Pipa Baja DN 400 mm sampai stockpile","satuan":"batang","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.3.1.c","nama":"Pengadaan Pipa Baja DN 500 mm sampai stockpile","satuan":"batang","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.3.1.d","nama":"Pengadaan Pipa Baja DN 600 mm sampai stockpile","satuan":"batang","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.3.1.e","nama":"Pengadaan Pipa Baja DN 800 mm sampai stockpile","satuan":"batang","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.3.1.f","nama":"Pengadaan Pipa Baja DN 900 mm sampai stockpile","satuan":"batang","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.3.1.g","nama":"Pengadaan Pipa Baja DN 1200 mm sampai stockpile","satuan":"batang","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.3.1.h","nama":"Pengadaan Pipa Baja DN 1400 mm sampai stockpile","satuan":"batang","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.3.1.i","nama":"Pengadaan Pipa Baja DN 1600 mm sampai stockpile","satuan":"batang","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.3.1.j","nama":"Pengadaan Pipa Baja DN 1800 mm sampai stockpile","satuan":"batang","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.3.1.k","nama":"Pengadaan Pipa Baja DN 2000 mm sampai stockpile","satuan":"batang","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.3.1.l","nama":"Pengadaan Pipa Baja DN 2400 mm sampai stockpile","satuan":"batang","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.3.1.m","nama":"Pengadaan Pipa Baja DN 2600 mm sampai stockpile","satuan":"batang","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.3.2.a.1","nama":"Pengangkutan dan Pemasangan Pipa Baja DN 300 mm, Jarak 1.0 km","satuan":"m","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.3.2.a.2","nama":"Pengangkutan dan Pemasangan Pipa Baja DN 300 mm, Jarak 2.0 km","satuan":"m","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.3.2.a.3","nama":"Pengangkutan dan Pemasangan Pipa Baja DN 300 mm, Jarak 2,5 km","satuan":"m","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.3.2.a.4","nama":"Pengangkutan dan Pemasangan Pipa Baja DN 300 mm, Jarak 5.0 km","satuan":"m","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.3.2.a.5","nama":"Pengangkutan dan Pemasangan Pipa Baja DN 300 mm, Jarak 7.0 km","satuan":"m","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.3.2.a.6","nama":"Pengangkutan dan Pemasangan Pipa Baja DN 300 mm, Jarak 10 km","satuan":"m","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.3.2.a.7","nama":"Pengangkutan dan Pemasangan Pipa Baja DN 300 mm, Jarak 15 km","satuan":"m","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.3.2.b.1","nama":"Pengangkutan dan Pemasangan Pipa Baja DN 500 mm, Jarak 1.0 km","satuan":"m","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.3.2.b.2","nama":"Pengangkutan dan Pemasangan Pipa Baja DN 500 mm, Jarak 2.0 km","satuan":"m","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.3.2.b.3","nama":"Pengangkutan dan Pemasangan Pipa Baja DN 500 mm, Jarak 2.5 km","satuan":"m","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.3.2.b.4","nama":"Pengangkutan dan Pemasangan Pipa Baja DN 500 mm, Jarak 5.0 km","satuan":"m","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.3.2.b.5","nama":"Pengangkutan dan Pemasangan Pipa Baja DN 500 mm, Jarak 7.0 km","satuan":"m","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.3.2.b.6","nama":"Pengangkutan dan Pemasangan Pipa Baja DN 500 mm, Jarak 10 km","satuan":"m","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.3.2.b.7","nama":"Pengangkutan dan Pemasangan Pipa Baja DN 500 mm, Jarak 15 km","satuan":"m","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.3.2.c.1","nama":"Pengangkutan dan Pemasangan Pipa Baja DN 600 mm, Jarak 1.0 km","satuan":"m","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.3.2.c.2","nama":"Pengangkutan dan Pemasangan Pipa Baja DN 600 mm, Jarak 2.0 km","satuan":"m","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.3.2.c.3","nama":"Pengangkutan dan Pemasangan Pipa Baja DN 600 mm, Jarak 2.5 km","satuan":"m","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.3.2.c.4","nama":"Pengangkutan dan Pemasangan Pipa Baja DN 600 mm, Jarak 5.0 km","satuan":"m","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.3.2.c.5","nama":"Pengangkutan dan Pemasangan Pipa Baja DN 600 mm, Jarak 7.0 km","satuan":"m","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.3.2.c.6","nama":"Pengangkutan dan Pemasangan Pipa Baja DN 600 mm, Jarak 10 km","satuan":"m","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.3.2.c.7","nama":"Pengangkutan dan Pemasangan Pipa Baja DN 600 mm, Jarak 15 km","satuan":"m","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.3.2.d.1","nama":"Pengangkutan dan Pemasangan Pipa Baja DN 800 mm, Jarak 1.0 km","satuan":"m","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.3.2.d.2","nama":"Pengangkutan dan Pemasangan Pipa Baja DN 800 mm, Jarak 2.0 km","satuan":"m","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.3.2.d.3","nama":"Pengangkutan dan Pemasangan Pipa Baja DN 800 mm, Jarak 2.5 km","satuan":"m","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.3.2.d.4","nama":"Pengangkutan dan Pemasangan Pipa Baja DN 800 mm, Jarak 5.0 km","satuan":"m","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.3.2.d.5","nama":"Pengangkutan dan Pemasangan Pipa Baja DN 800 mm, Jarak 10km","satuan":"m","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.3.2.d.6","nama":"Pengangkutan dan Pemasangan Pipa Baja DN 800 mm, Jarak 15 km","satuan":"m","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.3.2.e.1","nama":"Pengangkutan dan Pemasangan Pipa Baja DN 900 mm, Jarak 1.0 km","satuan":"m","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.3.2.e.2","nama":"Pengangkutan dan Pemasangan Pipa Baja DN 900 mm, Jarak 2.0 km","satuan":"m","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.3.2.e.3","nama":"Pengangkutan dan Pemasangan Pipa Baja DN 900 mm, Jarak 2.5 km","satuan":"m","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.3.2.e.4","nama":"Pengangkutan dan Pemasangan Pipa Baja DN 900 mm, Jarak 5.0 km","satuan":"m","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.3.2.e.5","nama":"Pengangkutan dan Pemasangan Pipa Baja DN 900 mm, Jarak 10 km","satuan":"m","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.3.2.e.6","nama":"Pengangkutan dan Pemasangan Pipa Baja DN 900 mm, Jarak 15 km","satuan":"m","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.3.2.f.1","nama":"Pengangkutan dan Pemasangan Pipa Baja DN 1200 mm, Jarak 1.0 km","satuan":"m","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.3.2.f.2","nama":"Pengangkutan dan Pemasangan Pipa Baja DN 1200 mm, Jarak 2.0 km","satuan":"m","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.3.2.f.3","nama":"Pengangkutan dan Pemasangan Pipa Baja DN 1200 mm, Jarak 2.5 km","satuan":"m","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.3.2.f.4","nama":"Pengangkutan dan Pemasangan Pipa Baja DN 1200 mm, Jarak 5.0 km","satuan":"m","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.3.2.f.5","nama":"Pengangkutan dan Pemasangan Pipa Baja DN 1200 mm, Jarak 10 km","satuan":"m","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.3.2.f.6","nama":"Pengangkutan dan Pemasangan Pipa Baja DN 1200 mm, Jarak 15 km","satuan":"m","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.3.2.g.1","nama":"Pengangkutan dan Pemasangan Pipa Baja DN 1400 mm, Jarak 1.0 km","satuan":"m","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.3.2.g.2","nama":"Pengangkutan dan Pemasangan Pipa Baja DN 1400 mm, Jarak 2.0 km","satuan":"m","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.3.2.g.3","nama":"Pengangkutan dan Pemasangan Pipa Baja DN 1400 mm, Jarak 2.5 km","satuan":"m","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.3.2.g.4","nama":"Pengangkutan dan Pemasangan Pipa Baja DN 1400 mm, Jarak 5.0 km","satuan":"m","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.3.2.g.5","nama":"Pengangkutan dan Pemasangan Pipa Baja DN 1400 mm, Jarak 10 km","satuan":"m","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.3.2.g.6","nama":"Pengangkutan dan Pemasangan Pipa Baja DN 1400 mm, Jarak 15 km","satuan":"m","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.3.2.h.1","nama":"Pengangkutan dan Pemasangan Pipa Baja DN 1600 mm, Jarak 1.0 km","satuan":"m","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.3.2.h.2","nama":"Pengangkutan dan Pemasangan Pipa Baja DN 1600 mm, Jarak 2.0 km","satuan":"m","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.3.2.h.3","nama":"Pengangkutan dan Pemasangan Pipa Baja DN 1600 mm, Jarak 2.5 km","satuan":"m","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.3.2.h.4","nama":"Pengangkutan dan Pemasangan Pipa Baja DN 1600 mm, Jarak 5.0 km","satuan":"m","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.3.2.h.5","nama":"Pengangkutan dan Pemasangan Pipa Baja DN 1600 mm, Jarak 10 km","satuan":"m","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.3.2.h.6","nama":"Pengangkutan dan Pemasangan Pipa Baja DN 1600 mm, Jarak 15 km","satuan":"m","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.3.2.i.1","nama":"Pengangkutan dan Pemasangan Pipa Baja DN 1800 mm, Jarak 1.0 km","satuan":"m","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.3.2.i.2","nama":"Pengangkutan dan Pemasangan Pipa Baja DN 1800 mm, Jarak 2.0 km","satuan":"m","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.3.2.i.3","nama":"Pengangkutan dan Pemasangan Pipa Baja DN 1800 mm, Jarak 2.5 km","satuan":"m","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.3.2.i.4","nama":"Pengangkutan dan Pemasangan Pipa Baja DN 1800 mm, Jarak 3.0 km","satuan":"m","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.3.2.i.5","nama":"Pengangkutan dan Pemasangan Pipa Baja DN 1800 mm, Jarak 5.0 km","satuan":"m","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.3.2.i.6","nama":"Pengangkutan dan Pemasangan Pipa Baja DN 1800 mm, Jarak 7.0 km","satuan":"m","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.3.2.i.7","nama":"Pengangkutan dan Pemasangan Pipa Baja DN 1800 mm, Jarak 10 km","satuan":"m","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.3.2.i.8","nama":"Pengangkutan dan Pemasangan Pipa Baja DN 1800 mm, Jarak 11 km","satuan":"m","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.3.2.i.9","nama":"Pengangkutan dan Pemasangan Pipa Baja DN 1800 mm, Jarak 15 km","satuan":"m","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.3.2.j.1","nama":"Pengangkutan dan Pemasangan Pipa Baja DN 2000 mm, Jarak 1.0 km","satuan":"m","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.3.2.j.2","nama":"Pengangkutan dan Pemasangan Pipa Baja DN 2000 mm, Jarak 2.0 km","satuan":"m","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.3.2.j.3","nama":"Pengangkutan dan Pemasangan Pipa Baja DN 2000 mm, Jarak 2.5 km","satuan":"m","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.3.2.j.4","nama":"Pengangkutan dan Pemasangan Pipa Baja DN 2000 mm, Jarak 5.0 km","satuan":"m","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.3.2.j.5","nama":"Pengangkutan dan Pemasangan Pipa Baja DN 2000 mm, Jarak 10 km","satuan":"m","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.3.2.k.1","nama":"Pengangkutan Pipa dan Pemasangan Baja DN 2400 mm, Jarak 1.0 km","satuan":"m","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.3.2.k.2","nama":"Pengangkutan Pipa dan Pemasangan Baja DN 2400 mm, Jarak 2.0 km","satuan":"m","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.3.2.k.3","nama":"Pengangkutan Pipa dan Pemasangan Baja DN 2400 mm, Jarak 2.5 km","satuan":"m","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.3.2.k.4","nama":"Pengangkutan Pipa dan Pemasangan Baja DN 2400 mm, Jarak 5.0 km","satuan":"m","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.3.2.k.5","nama":"Pengangkutan Pipa dan Pemasangan Baja DN 2400 mm, Jarak 10 km","satuan":"m","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.3.2.k.6","nama":"Pengangkutan Pipa dan Pemasangan Baja DN 2400 mm, Jarak 15 km","satuan":"m","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.3.2.l.1","nama":"Pengangkutan Pipa dan Pemasangan Baja DN 2600 mm, Jarak 1.0 km","satuan":"m","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.3.2.l.2","nama":"Pengangkutan Pipa dan Pemasangan Baja DN 2600 mm, Jarak 2.0 km","satuan":"m","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.3.2.l.3","nama":"Pengangkutan Pipa dan Pemasangan Baja DN 2600 mm, Jarak 2.5 km","satuan":"m","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.3.2.l.4","nama":"Pengangkutan Pipa dan Pemasangan Baja DN 2600 mm, Jarak 5.0 km","satuan":"m","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.3.2.l.5","nama":"Pengangkutan Pipa dan Pemasangan Baja DN 2600 mm, Jarak 10 km","satuan":"m","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.3.2.l.6","nama":"Pengangkutan Pipa dan Pemasangan Baja DN 2600 mm, Jarak 15 km","satuan":"m","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.3.3.a.1","nama":"Pengadaan Mitrebend 90° DN 2000","satuan":"m","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.3.3.a.10","nama":"Pengadaan Mitrebend 30° DN 1800","satuan":"m","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.3.3.a.11","nama":"Pengadaan Mitrebend 22,5° DN 1800","satuan":"m","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.3.3.a.12","nama":"Pengadaan Mitrebend 11,25° DN 1800","satuan":"m","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.3.3.a.13","nama":"Pengadaan Mitrebend 45° DN 1400","satuan":"m","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.3.3.a.14","nama":"Pengadaan Mitrebend 45° DN 1200","satuan":"m","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.3.3.a.15","nama":"Pengadaan Mitrebend 45° DN 900","satuan":"m","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.3.3.a.16","nama":"Pengadaan Mitrebend 45° DN 800","satuan":"m","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.3.3.a.17","nama":"Pengadaan Mitrebend 45° DN 600","satuan":"m","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.3.3.a.18","nama":"Pengadaan Mitrebend 45° DN 500","satuan":"m","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.3.3.a.19","nama":"Pengadaan Mitrebend 45° DN 400","satuan":"m","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.3.3.a.2","nama":"Pengadaan Mitrebend 67,5° DN 2000","satuan":"m","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.3.3.a.20","nama":"Pengadaan Mitrebend 45° DN 300","satuan":"m","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.3.3.a.3","nama":"Pengadaan Mitrebend 45° DN 2000","satuan":"m","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.3.3.a.4","nama":"Pengadaan Mitrebend 30° DN 2000","satuan":"m","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.3.3.a.5","nama":"Pengadaan Mitrebend 22,5° DN 2000","satuan":"m","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.3.3.a.6","nama":"Pengadaan Mitrebend 11,25° DN 2000","satuan":"m","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.3.3.a.7","nama":"Pengadaan Mitrebend 90° DN 1800","satuan":"m","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.3.3.a.8","nama":"Pengadaan Mitrebend 67,5° DN 1800","satuan":"m","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.3.3.a.9","nama":"Pengadaan Mitrebend 45° DN 1800","satuan":"m","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.3.3.b.1","nama":"Pengadaan Reducer 2600 x 2400","satuan":"m","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.3.3.b.10","nama":"Pengadaan Reducer 1200 x 800","satuan":"m","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.3.3.b.11","nama":"Pengadaan Reducer 900 x 600","satuan":"m","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.3.3.b.12","nama":"Pengadaan Reducer 800 x 500","satuan":"m","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.3.3.b.2","nama":"Pengadaan Reducer 2600 x 2000","satuan":"m","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.3.3.b.3","nama":"Pengadaan Reducer 2400 x 2000","satuan":"m","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.3.3.b.4","nama":"Pengadaan Reducer 2000 x 1800","satuan":"m","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.3.3.b.5","nama":"Pengadaan Reducer 2000 x 1600","satuan":"m","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.3.3.b.6","nama":"Pengadaan Reducer 2000 x 1400","satuan":"m","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.3.3.b.7","nama":"Pengadaan Reducer 1800 x 1600","satuan":"m","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.3.3.b.8","nama":"Pengadaan Reducer 1600 x 1200","satuan":"m","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.3.3.b.9","nama":"Pengadaan Reducer 1400 x 900","satuan":"m","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.3.4.a.1.a","nama":"Pengangkutan dan Pemasangan Mitrebend 90° DN 2000 (jarak 1,0 km)","satuan":"m","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.3.4.a.1.b","nama":"Pengangkutan dan Pemasangan Mitrebend 90° DN 2000 (jarak 2,0 km)","satuan":"m","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.3.4.a.1.c","nama":"Pengangkutan dan Pemasangan Mitrebend 90° DN 2000 (jarak 2,5 km)","satuan":"m","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.3.4.a.1.d","nama":"Pengangkutan dan Pemasangan Mitrebend 90° DN 2000 (jarak 5,0 km)","satuan":"m","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.3.4.a.1.e","nama":"Pengangkutan dan Pemasangan Mitrebend 90° DN 2000 (jarak 10,0 km)","satuan":"m","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.3.4.a.1.f","nama":"Pengangkutan dan Pemasangan Mitrebend 90° DN 2000 (jarak 15,0 km)","satuan":"m","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.3.4.a.10.a","nama":"Pengangkutan dan Pemasangan Mitrebend 30° DN 1800 (jarak 1,0 km)","satuan":"m","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.3.4.a.10.b","nama":"Pengangkutan dan Pemasangan Mitrebend 30° DN 1800 (jarak 2,0 km)","satuan":"m","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.3.4.a.10.c","nama":"Pengangkutan dan Pemasangan Mitrebend 30° DN 1800 (jarak 2.5 km)","satuan":"m","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.3.4.a.10.d","nama":"Pengangkutan dan Pemasangan Mitrebend 30° DN 1800 (jarak 3,0 km)","satuan":"m","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.3.4.a.10.e","nama":"Pengangkutan dan Pemasangan Mitrebend 30° DN 1800 (jarak 5,0 km)","satuan":"m","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.3.4.a.10.f","nama":"Pengangkutan dan Pemasangan Mitrebend 30° DN 1800 (jarak 7,0 km)","satuan":"m","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.3.4.a.10.g","nama":"Pengangkutan dan Pemasangan Mitrebend 30° DN 1800 (jarak 10,0 km)","satuan":"m","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.3.4.a.10.h","nama":"Pengangkutan dan Pemasangan Mitrebend 30° DN 1800 (jarak 11,0 km)","satuan":"m","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.3.4.a.10.i","nama":"Pengangkutan dan Pemasangan Mitrebend 30° DN 1800 (jarak 15,0 km)","satuan":"m","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.3.4.a.11.a","nama":"Pengangkutan dan Pemasangan Mitrebend 22.5° DN 1800 (jarak 1,0 km)","satuan":"m","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.3.4.a.11.b","nama":"Pengangkutan dan Pemasangan Mitrebend 22.5° DN 1800 (jarak 2,0 km)","satuan":"m","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.3.4.a.11.c","nama":"Pengangkutan dan Pemasangan Mitrebend 22.5° DN 1800 (jarak 2,5 km)","satuan":"m","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.3.4.a.11.d","nama":"Pengangkutan dan Pemasangan Mitrebend 22.5° DN 1800 (jarak 3,0 km)","satuan":"m","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.3.4.a.11.e","nama":"Pengangkutan dan Pemasangan Mitrebend 22.5° DN 1800 (jarak 5,0 km)","satuan":"m","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.3.4.a.11.f","nama":"Pengangkutan dan Pemasangan Mitrebend 22.5° DN 1800 (jarak 7,0 km)","satuan":"m","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.3.4.a.11.g","nama":"Pengangkutan dan Pemasangan Mitrebend 22.5° DN 1800 (jarak 10,0 km)","satuan":"m","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.3.4.a.11.h","nama":"Pengangkutan dan Pemasangan Mitrebend 22.5° DN 1800 (jarak 11,0 km)","satuan":"m","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.3.4.a.11.i","nama":"Pengangkutan dan Pemasangan Mitrebend 22.5° DN 1800 (jarak 15,0 km)","satuan":"m","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.3.4.a.12.a","nama":"Pengangkutan dan Pemasangan Mitrebend 11.25° DN 1800 (jarak 1,0 km)","satuan":"m","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.3.4.a.12.b","nama":"Pengangkutan dan Pemasangan Mitrebend 11.25° DN 1800 (jarak 2,0 km)","satuan":"m","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.3.4.a.12.c","nama":"Pengangkutan dan Pemasangan Mitrebend 11.25° DN 1800 (jarak 2,5 km)","satuan":"m","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.3.4.a.12.d","nama":"Pengangkutan dan Pemasangan Mitrebend 11.25° DN 1800 (jarak 3,0 km)","satuan":"m","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.3.4.a.12.e","nama":"Pengangkutan dan Pemasangan Mitrebend 11.25° DN 1800 (jarak 5,0 km)","satuan":"m","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.3.4.a.12.f","nama":"Pengangkutan dan Pemasangan Mitrebend 11.25° DN 1800 (jarak 7,0 km)","satuan":"m","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.3.4.a.12.g","nama":"Pengangkutan dan Pemasangan Mitrebend 11.25° DN 1800 (jarak 10,0 km)","satuan":"m","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.3.4.a.12.h","nama":"Pengangkutan dan Pemasangan Mitrebend 11.25° DN 1800 (jarak 11,0 km)","satuan":"m","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.3.4.a.12.i","nama":"Pengangkutan dan Pemasangan Mitrebend 11.25° DN 1800 (jarak 15,0 km)","satuan":"m","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.3.4.a.13.a","nama":"Pengangkutan dan Pemasangan Mitrebend 45° DN 1400 (jarak 1,0 km)","satuan":"m","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.3.4.a.13.b","nama":"Pengangkutan dan Pemasangan Mitrebend 45° DN 1400 (jarak 2,0 km)","satuan":"m","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.3.4.a.13.c","nama":"Pengangkutan dan Pemasangan Mitrebend 45° DN 1400 (jarak 2,5 km)","satuan":"m","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.3.4.a.13.d","nama":"Pengangkutan dan Pemasangan Mitrebend 45° DN 1400 (jarak 5,0 km)","satuan":"m","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.3.4.a.13.e","nama":"Pengangkutan dan Pemasangan Mitrebend 45° DN 1400 (jarak 10,0 km)","satuan":"m","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.3.4.a.13.f","nama":"Pengangkutan dan Pemasangan Mitrebend 45° DN 1400 (jarak 15,0 km)","satuan":"m","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
+{"kode":"SDA25.A.3.08.3.4.a.14.a","nama":"Pengangkutan dan Pemasangan Mitrebend 45° DN 1200 (jarak 1,0 km)","satuan":"m","sumber_id":"1","sumber_nama":"SE Dirjen Bina Konstruksi Nomor 30 Tahun 2025"}
