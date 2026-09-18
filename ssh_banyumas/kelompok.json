@@ -1,0 +1,2052 @@
+[
+    {
+        "kode":  "111201050001",
+        "deskripsi":  "Persediaan untuk Dijual/Diserahkan Kepada Masyarakat",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "810202020013",
+        "deskripsi":  "Beban Iuran Jaminan Kematian Kerja bagi Pekerja Rentan",
+        "kategori":  ""
+    },
+    {
+        "kode":  "810202040137",
+        "deskripsi":  "Beban Sewa Alat Studio Lainnya",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810501020001",
+        "deskripsi":  "Beban Hibah Barang Kepada Pemerintah Pusat",
+        "kategori":  "ASB"
+    },
+    {
+        "kode":  "810202090028",
+        "deskripsi":  "Beban Jasa Konsultansi Spesialis-Jasa Pengujian dan Analisa Komposisi dan Tingkat Kemurnian",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810202050009",
+        "deskripsi":  "Beban Sewa Bangunan Gedung Tempat Pertemuan",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810203020009",
+        "deskripsi":  "Beban Pemeliharaan Alat Besar-Alat Besar Darat-Loader",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810202050001",
+        "deskripsi":  "Beban Sewa Bangunan Gedung Kantor",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "130502020004",
+        "deskripsi":  "Alat Bercorak Kebudayaan Lainnya",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "810202040003",
+        "deskripsi":  "Beban Sewa Excavator",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810103070002",
+        "deskripsi":  "Beban Honorarium Pengadaan Barang/Jasa",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810202050002",
+        "deskripsi":  "Beban Sewa Bangunan Gudang",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810201010068",
+        "deskripsi":  "Beban Pakaian Siaga",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810202040004",
+        "deskripsi":  "Beban Sewa Pile Driver",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810202040006",
+        "deskripsi":  "Beban Sewa Asphalt Equipment",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810202040009",
+        "deskripsi":  "Beban Sewa Loader",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810202010055",
+        "deskripsi":  "Beban Jasa Iklan/Reklame, Film, dan Pemotretan",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810202020008",
+        "deskripsi":  "Beban Asuransi Barang Milik Daerah",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810202040034",
+        "deskripsi":  "Beban Sewa Alat Bantu Lainnya",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810202040036",
+        "deskripsi":  "Beban Sewa Kendaraan Bermotor Penumpang",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810202040143",
+        "deskripsi":  "Beban Sewa Alat Komunikasi Sosial",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810202040117",
+        "deskripsi":  "Beban Sewa Alat Kantor Lainnya",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810202040410",
+        "deskripsi":  "Beban Sewa Peralatan Jaringan",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810202050050",
+        "deskripsi":  "Beban Sewa Bangunan Gedung Tempat Tinggal Lainnya",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810202050043",
+        "deskripsi":  "Beban Sewa Hotel",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810202050036",
+        "deskripsi":  "Beban Sewa Taman",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810202050025",
+        "deskripsi":  "Beban Sewa Bangunan Terbuka",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810202070031",
+        "deskripsi":  "Beban Sewa Barang Bercorak Kesenian Lainnya",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810202090027",
+        "deskripsi":  "Beban Jasa Konsultansi Spesialis-Jasa Pembuatan Peta",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810202090013",
+        "deskripsi":  "Beban Jasa Konsultansi Perencanaan Rekayasa-Jasa Desain Rekayasa Lainnya",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810202110008",
+        "deskripsi":  "Beban Jasa Ketersediaan Layanan (Availibility Payment) Infrastruktur Telekomunikasi dan Informatika",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810202090033",
+        "deskripsi":  "Beban Jasa Konsultansi Lainnya-Jasa Konsultansi Estimasi Nilai Lahan dan Bangunan",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810202100002",
+        "deskripsi":  "Beban Jasa Konsultansi Berorientasi Bidang-Transportasi",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810202090040",
+        "deskripsi":  "Beban Jasa Konsultansi Lainnya-Jasa Rekayasa (Engineering) Terpadu",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810202040035",
+        "deskripsi":  "Beban Sewa Kendaraan Dinas Bermotor Perorangan",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810202130003",
+        "deskripsi":  "Beban Bimbingan Teknis",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810202130001",
+        "deskripsi":  "Beban Kursus Singkat/Pelatihan",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810202120003",
+        "deskripsi":  "Beban Beasiswa Tugas Belajar S3",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810202130004",
+        "deskripsi":  "Beban Diklat Kepemimpinan",
+        "kategori":  "ASB"
+    },
+    {
+        "kode":  "130213010002",
+        "deskripsi":  "Sumur Pemboran",
+        "kategori":  "ASB"
+    },
+    {
+        "kode":  "810203020038",
+        "deskripsi":  "Beban Pemeliharaan Alat Angkutan-Alat Angkutan Darat Bermotor-Kendaraan Bermotor Beroda Dua",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810201010073",
+        "deskripsi":  "Beban Pakaian KORPRI",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810202010031",
+        "deskripsi":  "Beban Jasa Tenaga Keamanan",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810202040040",
+        "deskripsi":  "Beban Sewa Kendaraan Bermotor Khusus",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810203030006",
+        "deskripsi":  "Beban Pemeliharaan Bangunan Gedung-Bangunan Gedung Tempat Kerja-Bangunan Kesehatan",
+        "kategori":  "HSPK"
+    },
+    {
+        "kode":  "810202050041",
+        "deskripsi":  "Beban Sewa Mess/Wisma/Bungalow/Tempat Peristirahatan",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810203030029",
+        "deskripsi":  "Beban Pemeliharaan Bangunan Gedung-Bangunan Gedung Tempat Kerja- Bangunan Peternakan/Perikanan",
+        "kategori":  "HSPK"
+    },
+    {
+        "kode":  "810202050049",
+        "deskripsi":  "Beban Sewa Rumah Tidak Bersusun",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810202040237",
+        "deskripsi":  "Beban Sewa Alat Kesehatan Umum Lainnya",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810202040045",
+        "deskripsi":  "Beban Sewa Kendaraan Tak Bermotor Penumpang",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810202040008",
+        "deskripsi":  "Beban Sewa Aggregate and Concrete Equipment",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "130507010001",
+        "deskripsi":  "Aset Tetap Dalam Renovasi",
+        "kategori":  "ASB"
+    },
+    {
+        "kode":  "810202040407",
+        "deskripsi":  "Beban Sewa Peralatan Mainframe",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "130218010003",
+        "deskripsi":  "Rambu-Rambu Lalu Lintas Darat Lainnya",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "111201010001",
+        "deskripsi":  "Bahan Bangunan dan Konstruksi",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "810103070003",
+        "deskripsi":  "Beban Honorarium Perangkat Unit Kerja Pengadaan Barang dan Jasa (UKPBJ)",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810202040123",
+        "deskripsi":  "Beban Sewa Alat Rumah Tangga Lainnya (Home Use)",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810290010001",
+        "deskripsi":  "Beban Barang dan Jasa BOK Puskesmas",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810202010008",
+        "deskripsi":  "Beban Honorarium Tim Penyusunan Jurnal, Buletin, Majalah, Pengelola Teknologi Informasi dan Pengelola Website",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810202010016",
+        "deskripsi":  "Beban Jasa Tenaga Penanganan Prasarana dan Sarana Umum",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810202010017",
+        "deskripsi":  "Beban Jasa Tenaga Ketenteraman, Ketertiban Umum, dan Perlindungan Masyarakat",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810202010025",
+        "deskripsi":  "Beban Jasa Tenaga Kesenian dan Kebudayaan",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810202010028",
+        "deskripsi":  "Beban Jasa Tenaga Pelayanan Umum",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810202010034",
+        "deskripsi":  "Beban Jasa Tenaga Juru Masak",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810202010036",
+        "deskripsi":  "Beban Jasa Audit/Surveillance ISO",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810202010041",
+        "deskripsi":  "Beban Jasa Pemasangan Instalasi Telepon, Air, dan Listrik",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810202010046",
+        "deskripsi":  "Beban Jasa Konversi Aplikasi/Sistem Informasi",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810202010049",
+        "deskripsi":  "Beban Jasa Pencucian Pakaian, Alat Kesenian dan Kebudayaan, serta Alat Rumah Tangga",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810205020002",
+        "deskripsi":  "Beban Jasa yang Diberikan kepada Masyarakat",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810202010062",
+        "deskripsi":  "Beban Langganan Jurnal/Surat Kabar/Majalah",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810202010067",
+        "deskripsi":  "Beban Pembayaran Pajak, Bea, dan Perizinan",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810202090032",
+        "deskripsi":  "Beban Jasa Konsultansi Lainnya-Jasa Konsultansi Lingkungan",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810202020012",
+        "deskripsi":  "Beban Iuran Jaminan Kecelakaan Kerja bagi Pekerja Rentan",
+        "kategori":  ""
+    },
+    {
+        "kode":  "810203040048",
+        "deskripsi":  "Beban Pemeliharaan Bangunan Air-Bangunan Pengaman Sungai/Pantai dan Penanggulangan Bencana Alam-Bangunan Pengaman Sungai/Pantai dan Penanggulangan Bencana Alam",
+        "kategori":  "HSPK"
+    },
+    {
+        "kode":  "111201030006",
+        "deskripsi":  "Bahan Komputer",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "111201040002",
+        "deskripsi":  "Obat-obatan Lainnya",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "111201030008",
+        "deskripsi":  "Alat Listrik",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "111201040001",
+        "deskripsi":  "Obat",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "111201010005",
+        "deskripsi":  "Bahan Baku",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "111201010012",
+        "deskripsi":  "Bahan Lainnya",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "111201070002",
+        "deskripsi":  "Pakan",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "111201030003",
+        "deskripsi":  "Bahan Cetak",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "111201030009",
+        "deskripsi":  "Perlengkapan Dinas",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "111201070001",
+        "deskripsi":  "Natura",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "111202010003",
+        "deskripsi":  "Komponen Peralatan",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "111202010006",
+        "deskripsi":  "Komponen Lainnya",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "111202020003",
+        "deskripsi":  "Pipa Baja",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "111202020006",
+        "deskripsi":  "Pipa Plastik PVC (UPVC)",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "810203040079",
+        "deskripsi":  "Beban Pemeliharaan Instalasi-Instalasi Air Bersih/Air Baku-Instalasi Air Bersih/Air Baku Lainnya",
+        "kategori":  "HSPK"
+    },
+    {
+        "kode":  "111201030004",
+        "deskripsi":  "Benda Pos",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "130201010003",
+        "deskripsi":  "Excavator",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "111201030011",
+        "deskripsi":  "Perlengkapan Pendukung Olahraga",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "130201030005",
+        "deskripsi":  "Pompa",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "130201030016",
+        "deskripsi":  "Alat Bantu Lainnya",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "130202010002",
+        "deskripsi":  "Kendaraan Bermotor Penumpang",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "130202010004",
+        "deskripsi":  "Kendaraan Bermotor Beroda Dua",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "130202010005",
+        "deskripsi":  "Kendaraan Bermotor Beroda Tiga",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "130202020001",
+        "deskripsi":  "Kendaraan Tak Bermotor Angkutan Barang",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "130202020004",
+        "deskripsi":  "Alat Angkutan Darat Tak Bermotor Lainnya",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "130203010003",
+        "deskripsi":  "Perkakas Bengkel Listrik",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "130203010006",
+        "deskripsi":  "Perkakas Bengkel Kayu",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "130203010007",
+        "deskripsi":  "Perkakas Bengkel Khusus",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "130203010008",
+        "deskripsi":  "Peralatan Las",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "130203020006",
+        "deskripsi":  "Perkakas Khusus (Special Tools)",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "130203030009",
+        "deskripsi":  "Alat Ukur Lain-Lain",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "130203030010",
+        "deskripsi":  "Alat Timbangan/Biara",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "130203030016",
+        "deskripsi":  "Specific Set",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "130204010005",
+        "deskripsi":  "Alat Laboratorium Pertanian",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "130204010006",
+        "deskripsi":  "Alat Processing",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "130204010008",
+        "deskripsi":  "Alat Produksi Perikanan",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "130205010001",
+        "deskripsi":  "Mesin Ketik",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "130205010005",
+        "deskripsi":  "Alat Kantor Lainnya",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "130205020001",
+        "deskripsi":  "Mebel",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "130205020003",
+        "deskripsi":  "Alat Pembersih",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "130205030006",
+        "deskripsi":  "Kursi Tamu di Ruangan Pejabat",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "130205030007",
+        "deskripsi":  "Lemari dan Arsip Pejabat",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "130206010004",
+        "deskripsi":  "Peralatan Cetak",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "130206010006",
+        "deskripsi":  "Peralatan Komputer Lainnya",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "130206020001",
+        "deskripsi":  "Alat Komunikasi Telephone",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "130206020003",
+        "deskripsi":  "Alat Komunikasi Radio HF/FM",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "130206020007",
+        "deskripsi":  "Alat-Alat Sandi",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "130206020010",
+        "deskripsi":  "Alat Komunikasi Satelit",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "130206020011",
+        "deskripsi":  "Alat Komunikasi Lainnya",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "130206030004",
+        "deskripsi":  "Peralatan Pemancar UHF",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "130206030006",
+        "deskripsi":  "Peralatan Antena MF/MW",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "130206030007",
+        "deskripsi":  "Peralatan Antena HF/SW",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "130206030009",
+        "deskripsi":  "Peralatan Antena UHF",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "130206030034",
+        "deskripsi":  "Peralatan Pemancar dan Penerima UHF",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "130206030045",
+        "deskripsi":  "Peralatan Penerima dan Pengirim Gambar ke Permukaan",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "130206030047",
+        "deskripsi":  "Sumber Tenaga",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "130207010001",
+        "deskripsi":  "Alat Kedokteran Umum",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "130207010002",
+        "deskripsi":  "Alat Kedokteran Gigi",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "130207010006",
+        "deskripsi":  "Alat Kedokteran THT",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "130207010007",
+        "deskripsi":  "Alat Kedokteran Mata",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "130207010010",
+        "deskripsi":  "Alat Kedokteran Anak",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "130207010014",
+        "deskripsi":  "Alat Kedokteran Jantung",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "130207010016",
+        "deskripsi":  "Alat Kedokteran Patalogi Anatomy",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "130207010017",
+        "deskripsi":  "Alat Kedokteran Transfusi Darah",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "130207010019",
+        "deskripsi":  "Alat Kedokteran Nuklir",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "130207010021",
+        "deskripsi":  "Alat Kedokteran Gawat Darurat",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "130207010022",
+        "deskripsi":  "Alat Kedokteran Jiwa",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "130207010024",
+        "deskripsi":  "Alat Kedokteran ICU",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "130207010025",
+        "deskripsi":  "Alat Kedokteran ICCU",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "130207010029",
+        "deskripsi":  "Alat Kedokteran Lainnya",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "130207020005",
+        "deskripsi":  "Alat Kesehatan Umum Lainnya",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "130208010004",
+        "deskripsi":  "Alat Laboratorium Model Hidrolika",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "130208010007",
+        "deskripsi":  "Alat Laboratorium Aspal, Cat, dan Kimia",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "130208010011",
+        "deskripsi":  "Alat Laboratorium Umum",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "130208010012",
+        "deskripsi":  "Alat Laboratorium Mikrobiologi",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "130208010013",
+        "deskripsi":  "Alat Laboratorium Kimia",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "130208010033",
+        "deskripsi":  "Alat Laboratorium Proses Pengolahan Panas",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "130208010051",
+        "deskripsi":  "Alat Laboratorium Proses/Teknik Kimia",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "130208010053",
+        "deskripsi":  "Alat Laboratorium Kesehatan Kerja",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "130208030002",
+        "deskripsi":  "Alat Peraga Praktik Sekolah Bidang Studi:Matematika",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "130208040005",
+        "deskripsi":  "System/Power Supply",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "130208050004",
+        "deskripsi":  "Meteorological Equipment",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "130208090001",
+        "deskripsi":  "Alat Laboratorium Kalibrasi Elektromedik dan Biomedik",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "130208090005",
+        "deskripsi":  "Alat Laboratorium Tekanan dan Suhu",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "130210010001",
+        "deskripsi":  "Komputer Jaringan",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "130210010002",
+        "deskripsi":  "Personal Computer",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "130210020002",
+        "deskripsi":  "Peralatan Mini Computer",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "130210020004",
+        "deskripsi":  "Peralatan Jaringan",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "130215020005",
+        "deskripsi":  "Sepatu Lapangan",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "130215030001",
+        "deskripsi":  "Alat Penolong",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "130218010002",
+        "deskripsi":  "Rambu Tidak Bersuar",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "130219010002",
+        "deskripsi":  "Peralatan Permainan",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "130301010001",
+        "deskripsi":  "Bangunan Gedung Kantor",
+        "kategori":  "ASB"
+    },
+    {
+        "kode":  "130301010006",
+        "deskripsi":  "Bangunan Kesehatan",
+        "kategori":  "ASB"
+    },
+    {
+        "kode":  "130301010008",
+        "deskripsi":  "Bangunan Gedung Tempat Ibadah",
+        "kategori":  "ASB"
+    },
+    {
+        "kode":  "130301010010",
+        "deskripsi":  "Bangunan Gedung Tempat Pendidikan",
+        "kategori":  "ASB"
+    },
+    {
+        "kode":  "130301010011",
+        "deskripsi":  "Bangunan Gedung Tempat Olahraga",
+        "kategori":  "ASB"
+    },
+    {
+        "kode":  "130301010013",
+        "deskripsi":  "Bangunan Gedung untuk Pos Jaga",
+        "kategori":  "ASB"
+    },
+    {
+        "kode":  "130301010032",
+        "deskripsi":  "Bangunan Fasilitas Umum",
+        "kategori":  "ASB"
+    },
+    {
+        "kode":  "130301010033",
+        "deskripsi":  "Bangunan Parkir",
+        "kategori":  "ASB"
+    },
+    {
+        "kode":  "130301010036",
+        "deskripsi":  "Taman",
+        "kategori":  "ASB"
+    },
+    {
+        "kode":  "130301020001",
+        "deskripsi":  "Rumah Negara Golongan I",
+        "kategori":  "ASB"
+    },
+    {
+        "kode":  "130301020003",
+        "deskripsi":  "Rumah Negara Golongan III",
+        "kategori":  "ASB"
+    },
+    {
+        "kode":  "130304010003",
+        "deskripsi":  "Pilar/Tugu/Tanda Lainnya",
+        "kategori":  "ASB"
+    },
+    {
+        "kode":  "130304010004",
+        "deskripsi":  "Pagar",
+        "kategori":  "ASB"
+    },
+    {
+        "kode":  "130401010003",
+        "deskripsi":  "Jalan Kabupaten",
+        "kategori":  "ASB"
+    },
+    {
+        "kode":  "130401010005",
+        "deskripsi":  "Jalan Desa",
+        "kategori":  "ASB"
+    },
+    {
+        "kode":  "130401020010",
+        "deskripsi":  "Jembatan Penyeberangan",
+        "kategori":  "ASB"
+    },
+    {
+        "kode":  "130401020013",
+        "deskripsi":  "Jembatan Lainnya",
+        "kategori":  "ASB"
+    },
+    {
+        "kode":  "130402010003",
+        "deskripsi":  "Bangunan Pembawa Irigasi",
+        "kategori":  "ASB"
+    },
+    {
+        "kode":  "130402060002",
+        "deskripsi":  "Bangunan Pengambilan Air Bersih/Air Baku",
+        "kategori":  "ASB"
+    },
+    {
+        "kode":  "130402070003",
+        "deskripsi":  "Bangunan Pembuang Air Kotor",
+        "kategori":  "ASB"
+    },
+    {
+        "kode":  "130403030003",
+        "deskripsi":  "Bangunan Penampung Sampah",
+        "kategori":  "ASB"
+    },
+    {
+        "kode":  "130403050012",
+        "deskripsi":  "Instalasi Pembangkit Listrik Lainnya",
+        "kategori":  "ASB"
+    },
+    {
+        "kode":  "130404010005",
+        "deskripsi":  "Jaringan Air Minum Lainnya",
+        "kategori":  "ASB"
+    },
+    {
+        "kode":  "130404020003",
+        "deskripsi":  "Jaringan Listrik Lainnya",
+        "kategori":  "ASB"
+    },
+    {
+        "kode":  "130501010007",
+        "deskripsi":  "Buku Ilmu Pengetahuan Praktis",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "130501010011",
+        "deskripsi":  "Buku Laporan",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "130502020003",
+        "deskripsi":  "Barang Kerajinan",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "130503010003",
+        "deskripsi":  "Hewan Kebun Binatang",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "130503020001",
+        "deskripsi":  "Ternak Potong",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "810201010056",
+        "deskripsi":  "Beban Makanan dan Minuman pada Fasilitas Pelayanan Urusan Kesehatan",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810201010059",
+        "deskripsi":  "Beban Pakaian Dinas KDH dan WKDH",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810201010061",
+        "deskripsi":  "Beban Pakaian Sipil Harian (PSH)",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810201010062",
+        "deskripsi":  "Beban Pakaian Sipil Lengkap (PSL)",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810201010063",
+        "deskripsi":  "Beban Pakaian Dinas Harian (PDH)",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810201010064",
+        "deskripsi":  "Beban Pakaian Dinas Lapangan (PDL)",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810201010066",
+        "deskripsi":  "Beban Pakaian Dinas Upacara (PDU)",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810201010074",
+        "deskripsi":  "Beban Pakaian Adat Daerah",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810201010076",
+        "deskripsi":  "Beban Pakaian Olahraga",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810201010077",
+        "deskripsi":  "Beban Pakaian Paskibraka",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810202010004",
+        "deskripsi":  "Beban Honorarium Tim Pelaksana Kegiatan dan Sekretariat Tim Pelaksana Kegiatan",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810202010006",
+        "deskripsi":  "Beban Honorarium Penyuluhan atau Pendampingan",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810202010007",
+        "deskripsi":  "Beban Honorarium Rohaniwan",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810202010009",
+        "deskripsi":  "Beban Honorarium Penyelenggara Ujian",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810202010010",
+        "deskripsi":  "Beban Honorarium Penulisan Butir Soal Tingkat Provinsi, Kabupaten atau Kota",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810202010011",
+        "deskripsi":  "Beban Honorarium Penyelenggaraan Kegiatan Pendidikan dan Pelatihan",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810202010013",
+        "deskripsi":  "Beban Jasa Tenaga Pendidikan",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810202010014",
+        "deskripsi":  "Beban Jasa Tenaga Kesehatan",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810202010015",
+        "deskripsi":  "Beban Jasa Tenaga Laboratorium",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810202010019",
+        "deskripsi":  "Beban Jasa Tenaga Penanganan Bencana",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810202010020",
+        "deskripsi":  "Beban Jasa Tenaga Penanganan Sosial",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810202010022",
+        "deskripsi":  "Beban Jasa Tenaga Perhubungan",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810202010023",
+        "deskripsi":  "Beban Jasa Tenaga Teknis Pertanian dan Pangan",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810202010026",
+        "deskripsi":  "Beban Jasa Tenaga Administrasi",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810202010029",
+        "deskripsi":  "Beban Jasa Tenaga Ahli",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810202010030",
+        "deskripsi":  "Beban Jasa Tenaga Kebersihan",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810202010032",
+        "deskripsi":  "Beban Jasa Tenaga Caraka",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810202010033",
+        "deskripsi":  "Beban Jasa Tenaga Supir",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810202010035",
+        "deskripsi":  "Beban Jasa Tenaga Teknisi Mekanik dan Listrik",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810202010037",
+        "deskripsi":  "Beban Jasa Juri Perlombaan/Pertandingan",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810202010038",
+        "deskripsi":  "Beban Jasa Tata Rias",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810202010044",
+        "deskripsi":  "Beban Jasa Pelayanan Perpustakaan",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810202010047",
+        "deskripsi":  "Beban Jasa Penyelenggaraan Acara",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810202010048",
+        "deskripsi":  "Beban Jasa Kontribusi Asosiasi",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810202010050",
+        "deskripsi":  "Beban Jasa Kalibrasi",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810202010051",
+        "deskripsi":  "Beban Jasa Pengolahan Sampah",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810202010061",
+        "deskripsi":  "Beban Tagihan Listrik",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810202010059",
+        "deskripsi":  "Beban Tagihan Telepon",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810202010060",
+        "deskripsi":  "Beban Tagihan Air",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810202010064",
+        "deskripsi":  "Beban Paket/Pengiriman",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810202010065",
+        "deskripsi":  "Beban Penambahan Daya",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810202010068",
+        "deskripsi":  "Beban Rekening Penerangan Jalan Umum",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810202010071",
+        "deskripsi":  "Beban Lembur",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810202020003",
+        "deskripsi":  "Beban Iuran Jaminan Kesehatan bagi Peserta PBPU dan BP Kelas 3",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810202020006",
+        "deskripsi":  "Beban Iuran Jaminan Kecelakaan Kerja bagi Non ASN",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810202020007",
+        "deskripsi":  "Beban Iuran Jaminan Kematian bagi Non ASN",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810202090008",
+        "deskripsi":  "Beban Jasa Konsultansi Perencanaan Rekayasa-Jasa Desain Rekayasa untuk Pekerjaan Teknik Sipil Air",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810202090016",
+        "deskripsi":  "Beban Jasa Konsultansi Perencanaan Penataan Ruang-Jasa Perencanaan dan Perancangan Lingkungan Bangunan dan Landscape",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810202090017",
+        "deskripsi":  "Beban Jasa Konsultansi Perencanaan Penataan Ruang-Pengembangan Pemanfaatan Ruang",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810202090020",
+        "deskripsi":  "Beban Jasa Konsultansi Pengawasan Rekayasa-Jasa Pengawas Pekerjaan Konstruksi Teknik Sipil Transportasi",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810202080002",
+        "deskripsi":  "Beban Sewa Aset Tidak Berwujud-Lisensi dan Franchise",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810202100007",
+        "deskripsi":  "Beban Jasa Konsultansi Berorientasi Bidang-Pendidikan",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810202100008",
+        "deskripsi":  "Beban Jasa Konsultansi Berorientasi Bidang-Kesehatan",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810202100010",
+        "deskripsi":  "Beban Jasa Konsultansi Berorientasi Bidang-Rekayasa Industri",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810202100012",
+        "deskripsi":  "Beban Jasa Konsultansi Berorientasi Layanan-Jasa Studi Penelitian dan Bantuan Teknik",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810202100015",
+        "deskripsi":  "Beban Jasa Konsultansi Bidang Kepariwisataan-Jasa Konsultansi Destinasi Pariwisata",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810202120001",
+        "deskripsi":  "Beban Beasiswa Tugas Belajar S1",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810202100001",
+        "deskripsi":  "Beban Jasa Konsultansi Berorientasi Bidang-Pengembangan Pertanian dan Perdesaan",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810202130002",
+        "deskripsi":  "Beban Sosialisasi",
+        "kategori":  "ASB"
+    },
+    {
+        "kode":  "810203020003",
+        "deskripsi":  "Beban Pemeliharaan Alat Besar-Alat Besar Darat-Excavator",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810203020012",
+        "deskripsi":  "Beban Pemeliharaan Alat Besar-Alat Besar Darat-Alat Besar Darat Lainnya",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810203020040",
+        "deskripsi":  "Beban Pemeliharaan Alat Angkutan-Alat Angkutan Darat Bermotor-Kendaraan Bermotor Khusus",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810203020118",
+        "deskripsi":  "Beban Pemeliharaan Alat Kantor dan Rumah Tangga-Alat Rumah Tangga-Mebel",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810203020068",
+        "deskripsi":  "Beban Pemeliharaan Alat Bengkel dan Alat Ukur-Alat Bengkel Bermesin-Alat Bengkel Bermesin Lainnya",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810203030036",
+        "deskripsi":  "Beban Pemeliharaan Bangunan Gedung-Bangunan Gedung Tempat Kerja-Taman",
+        "kategori":  "HSPK"
+    },
+    {
+        "kode":  "111202020007",
+        "deskripsi":  "Pipa Lainnya",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "111201030013",
+        "deskripsi":  "Alat/Bahan untuk Kegiatan Kantor Lainnya",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "111202010004",
+        "deskripsi":  "Komponen Rambu-Rambu",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "810204010001",
+        "deskripsi":  "Beban Perjalanan Dinas Biasa",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810204010003",
+        "deskripsi":  "Beban Perjalanan Dinas Dalam Kota",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810205010001",
+        "deskripsi":  "Beban Hadiah yang Bersifat Perlombaan",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810205010002",
+        "deskripsi":  "Beban Penghargaan atas Suatu Prestasi",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810205010005",
+        "deskripsi":  "Beban Transfer Keuangan Daerah dan Desa (TKDD)",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "130201030003",
+        "deskripsi":  "Compressor",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "130201030009",
+        "deskripsi":  "Pembangkit Uap Air Panas/Steam Generator",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "130201030012",
+        "deskripsi":  "Perlengkapan Kebakaran Hutan",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "130202010001",
+        "deskripsi":  "Kendaraan Dinas Bermotor Perorangan",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "130202010003",
+        "deskripsi":  "Kendaraan Bermotor Angkutan Barang",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "130202010006",
+        "deskripsi":  "Kendaraan Bermotor Khusus",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "130202040003",
+        "deskripsi":  "Alat Angkutan Apung Tak Bermotor Khusus",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "130203020012",
+        "deskripsi":  "Peralatan Bengkel Khusus Peladam",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "130203030001",
+        "deskripsi":  "Alat Ukur Universal",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "130203030008",
+        "deskripsi":  "Alat Ukur/Pembanding",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "130203030011",
+        "deskripsi":  "Anak Timbangan/Biara",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "130203030015",
+        "deskripsi":  "Alat Penguji Kendaraan Bermotor",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "130204010004",
+        "deskripsi":  "Alat Penyimpan Hasil Percobaan Pertanian",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "130204010007",
+        "deskripsi":  "Alat Pasca Panen",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "130204010009",
+        "deskripsi":  "Alat-Alat Peternakan",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "130205020002",
+        "deskripsi":  "Alat Pengukur Waktu",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "130205020004",
+        "deskripsi":  "Alat Pendingin",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "130205020005",
+        "deskripsi":  "Alat Dapur",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "130205020006",
+        "deskripsi":  "Alat Rumah Tangga Lainnya (Home Use)",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "130205020007",
+        "deskripsi":  "Alat Pemadam Kebakaran",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "130205030003",
+        "deskripsi":  "Kursi Kerja Pejabat",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "130206010001",
+        "deskripsi":  "Peralatan Studio Audio",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "130206010002",
+        "deskripsi":  "Peralatan Studio Video dan Film",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "130206010005",
+        "deskripsi":  "Peralatan Studio Pemetaan/Peralatan Ukur Tanah",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "130206020002",
+        "deskripsi":  "Alat Komunikasi Radio SSB",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "130206020006",
+        "deskripsi":  "Alat Komunikasi Sosial",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "130206030003",
+        "deskripsi":  "Peralatan Pemancar VHF/FM",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "130206030008",
+        "deskripsi":  "Peralatan Antena VHF/FM",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "130206030010",
+        "deskripsi":  "Peralatan Antena SHF/Parabola",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "130206030040",
+        "deskripsi":  "Peralatan Antena Pemancar dan Penerima VHF",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "130206030048",
+        "deskripsi":  "Peralatan Pemancar Lainnya",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "130207010003",
+        "deskripsi":  "Alat Kedokteran Keluarga Berencana",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "130207010004",
+        "deskripsi":  "Alat Kedokteran Bedah",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "130207010005",
+        "deskripsi":  "Alat Kesehatan Kebidanan dan Penyakit Kandungan",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "130207010008",
+        "deskripsi":  "Alat Kedokteran Bagian Penyakit Dalam",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "130207010011",
+        "deskripsi":  "Alat Kedokteran Poliklinik",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "130207010013",
+        "deskripsi":  "Alat Kedokteran Neurologi (Saraf)",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "130207010015",
+        "deskripsi":  "Alat Kedokteran Radiodiagnostic",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "130207010023",
+        "deskripsi":  "Alat Kedokteran Bedah Ortopedi",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "130207010028",
+        "deskripsi":  "Alat Kedokteran Anestesi",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "130208010001",
+        "deskripsi":  "Alat Laboratorium Kimia Air Teknik Penyehatan",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "130208010014",
+        "deskripsi":  "Alat Laboratorium Patologi",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "130208010016",
+        "deskripsi":  "Alat Laboratorium Hematologi",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "130208010018",
+        "deskripsi":  "Alat Laboratorium Makanan",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "130208010034",
+        "deskripsi":  "Alat Laboratorium Proses Teknologi Tekstil",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "130208010041",
+        "deskripsi":  "Alat Laboratorium Pertanian",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "130208010046",
+        "deskripsi":  "Alat Laboratorium Lingkungan Perairan",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "130208010055",
+        "deskripsi":  "Laboratorium Hematologi dan Urinalisis",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "130208030016",
+        "deskripsi":  "Alat Peraga Praktik Sekolah Lainnya",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "130208040010",
+        "deskripsi":  "Alat Laboratorium Fisika Nuklir/Elektronika Lainnya",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "130210020001",
+        "deskripsi":  "Peralatan Mainframe",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "130210020003",
+        "deskripsi":  "Peralatan Personal Computer",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "130210020005",
+        "deskripsi":  "Peralatan Komputer Lainnya",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "130215020001",
+        "deskripsi":  "Baju Pengaman",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "130215020006",
+        "deskripsi":  "Alat Pelindung Lainnya",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "130216010003",
+        "deskripsi":  "Alat Peraga Pelatihan dan Percontohan Lainnya",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "130219010001",
+        "deskripsi":  "Peralatan Olahraga Atletik",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "130219010004",
+        "deskripsi":  "Peralatan Olahraga Air",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "130219010006",
+        "deskripsi":  "Peralatan Olahraga Lainnya",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "130301010009",
+        "deskripsi":  "Bangunan Gedung Tempat Pertemuan",
+        "kategori":  "ASB"
+    },
+    {
+        "kode":  "130301010018",
+        "deskripsi":  "Bangunan Gedung Terminal/Pelabuhan/Bandara",
+        "kategori":  "ASB"
+    },
+    {
+        "kode":  "130301010025",
+        "deskripsi":  "Bangunan Terbuka",
+        "kategori":  "ASB"
+    },
+    {
+        "kode":  "130301010029",
+        "deskripsi":  "Bangunan Peternakan/Perikanan",
+        "kategori":  "ASB"
+    },
+    {
+        "kode":  "111201020003",
+        "deskripsi":  "Suku Cadang Alat Kedokteran",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "111201010010",
+        "deskripsi":  "Isi Tabung Gas",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "111201050002",
+        "deskripsi":  "Persediaan Untuk Dijual/Diserahkan Lainnya",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "111201010004",
+        "deskripsi":  "Bahan Bakar dan Pelumas",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "111201010009",
+        "deskripsi":  "Isi Tabung Pemadam Kebakaran",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "111201010008",
+        "deskripsi":  "Bahan/Bibit Tanaman",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "111201010011",
+        "deskripsi":  "Bahan/Bibit Ternak/Bibit Ikan",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "111201030001",
+        "deskripsi":  "Alat Tulis Kantor",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "111201020008",
+        "deskripsi":  "Suku Cadang Alat Bengkel",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "111201020007",
+        "deskripsi":  "Suku Cadang Alat Pertanian",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "111201020005",
+        "deskripsi":  "Suku Cadang Alat Pemancar",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "111201020004",
+        "deskripsi":  "Suku Cadang Alat Laboratorium",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "111201030002",
+        "deskripsi":  "Kertas dan Cover",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "111201030012",
+        "deskripsi":  "Suvenir/Cendera Mata",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "130301010030",
+        "deskripsi":  "Bangunan Gedung Tempat Kerja Lainnya",
+        "kategori":  "ASB"
+    },
+    {
+        "kode":  "130301010037",
+        "deskripsi":  "Bangunan Gedung Tempat Kerja Lainnya",
+        "kategori":  "ASB"
+    },
+    {
+        "kode":  "130301020002",
+        "deskripsi":  "Rumah Negara Golongan II",
+        "kategori":  "ASB"
+    },
+    {
+        "kode":  "810201010052",
+        "deskripsi":  "Beban Makanan dan Minuman Rapat",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "130402040001",
+        "deskripsi":  "Bangunan Pengaman Sungai/Pantai dan Penanggulangan Bencana Alam",
+        "kategori":  "ASB"
+    },
+    {
+        "kode":  "130403090001",
+        "deskripsi":  "Instalasi Pengaman Penangkal Petir",
+        "kategori":  "ASB"
+    },
+    {
+        "kode":  "130501010012",
+        "deskripsi":  "Bahan Perpustakaan Tercetak Lainnya",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "111201010002",
+        "deskripsi":  "Bahan Kimia",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "810202010063",
+        "deskripsi":  "Beban Kawat/Faksimili/Internet/TV Berlangganan",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810202020004",
+        "deskripsi":  "Beban Bantuan Iuran Jaminan Kesehatan bagi Peserta PBPU dan BP Kelas 3",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810201010053",
+        "deskripsi":  "Beban Makanan dan Minuman Jamuan Tamu",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810202010039",
+        "deskripsi":  "Beban Jasa Tenaga Informasi dan Teknologi",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810201010058",
+        "deskripsi":  "Beban Makanan dan Minuman Aktivitas Lapangan",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810201010060",
+        "deskripsi":  "Beban Pakaian Dinas dan Atribut Pimpinan dan Anggota DPRD",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810201010065",
+        "deskripsi":  "Beban Pakaian Sipil Resmi (PSR)",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810201010075",
+        "deskripsi":  "Beban Pakaian Batik Tradisional",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810202010005",
+        "deskripsi":  "Beban Honorarium Pemberi Keterangan Ahli, Saksi Ahli, dan Beracara",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810202010012",
+        "deskripsi":  "Beban Honorarium Tim Anggaran Pemerintah Daerah",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810202010073",
+        "deskripsi":  "Beban Medical Check Up",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810202020001",
+        "deskripsi":  "Beban Iuran Jaminan Kesehatan bagi Kepala Desa dan Perangkat Desa",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810202090003",
+        "deskripsi":  "Beban Jasa Konsultansi Perencanaan Arsitektur-Jasa Penilai Perawatan dan Kelayakan Bangunan Gedung",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810202090005",
+        "deskripsi":  "Beban Jasa Konsultansi Perencanaan Arsitektur-Jasa Arsitektur Lainnya",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810202090009",
+        "deskripsi":  "Beban Jasa Konsultansi Perencanaan Rekayasa-Jasa Desain Rekayasa untuk Pekerjaan Teknik Sipil Transportasi",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810202090014",
+        "deskripsi":  "Beban Jasa Konsultansi Perencanaan Penataan Ruang-jasa Perencanaan dan Perancangan Perkotaan",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810202090019",
+        "deskripsi":  "Beban Jasa Konsultansi Pengawasan Rekayasa-Jasa Pengawas Pekerjaan Konstruksi Bangunan Gedung",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810202090021",
+        "deskripsi":  "Beban Jasa Konsultansi Pengawasan Rekayasa-Jasa Pengawas Pekerjaan Konstruksi Teknik Sipil Air",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810202100003",
+        "deskripsi":  "Beban Jasa Konsultansi Berorientasi Bidang-Telematika",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810202100004",
+        "deskripsi":  "Beban Jasa Konsultansi Berorientasi Bidang-Perindustrian dan Perdagangan",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810202100009",
+        "deskripsi":  "Beban Jasa Konsultansi Berorientasi Bidang-Kependudukan",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810202100011",
+        "deskripsi":  "Beban Jasa Konsultansi Berorientasi Layanan-Jasa Survei",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810202100014",
+        "deskripsi":  "Beban Jasa Konsultansi Berorientasi Layanan-Jasa Khusus",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810202100020",
+        "deskripsi":  "Beban Jasa Konsultansi Layanan Kepariwisataan-Jasa Konsultansi Perencanaan Kepariwisataan",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810202120002",
+        "deskripsi":  "Beban Beasiswa Tugas Belajar S2",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810202150002",
+        "deskripsi":  "Beban Insentif bagi Pegawai Non ASN atas Pemungutan Retribusi Jasa Umum-Pelayanan Persampahan/Kebersihan",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810203010029",
+        "deskripsi":  "Beban Pemeliharaan Tanah-Lapangan-Tanah untuk Taman",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810203020035",
+        "deskripsi":  "Beban Pemeliharaan Alat Angkutan-Alat Angkutan Darat Bermotor-Kendaraan Dinas Bermotor Perorangan",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810203020036",
+        "deskripsi":  "Beban Pemeliharaan Alat Angkutan-Alat Angkutan Darat Bermotor-Kendaraan Bermotor Penumpang",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810203020039",
+        "deskripsi":  "Beban Pemeliharaan Alat Angkutan-Alat Angkutan Darat Bermotor-Kendaraan Bermotor Beroda Tiga",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810203020043",
+        "deskripsi":  "Beban Pemeliharaan Alat Angkutan-Alat Angkutan Darat Bermotor-Alat Angkutan Darat Bermotor Lainnya",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810203020086",
+        "deskripsi":  "Beban Pemeliharaan Alat Bengkel dan Alat Ukur-Alat Ukur-Alat Kalibrasi",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810203020117",
+        "deskripsi":  "Beban Pemeliharaan Alat Kantor dan Rumah Tangga-Alat Kantor-Alat Kantor Lainnya",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810204020001",
+        "deskripsi":  "Beban Perjalanan Dinas Biasa–Luar Negeri",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810203020140",
+        "deskripsi":  "Beban Pemeliharaan Alat Studio, Komunikasi, dan Pemancar-Alat Komunikasi-Alat Komunikasi Radio HF/FM",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810203020143",
+        "deskripsi":  "Beban Pemeliharaan Alat Studio, Komunikasi, dan Pemancar-Alat Komunikasi-Alat Komunikasi Sosial",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810203020204",
+        "deskripsi":  "Beban Pemeliharaan Alat Kedokteran dan Kesehatan-Alat Kedokteran-Alat Kedokteran Umum",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810203020232",
+        "deskripsi":  "Beban Pemeliharaan Alat Kedokteran dan Kesehatan-Alat Kedokteran-Alat Kedokteran Lainnya",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810204010004",
+        "deskripsi":  "Beban Perjalanan Dinas Paket Meeting Dalam Kota",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810205010003",
+        "deskripsi":  "Beban Beasiswa",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810205020001",
+        "deskripsi":  "Beban Jasa yang Diberikan kepada Pihak Ketiga/Pihak Lain",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810203030001",
+        "deskripsi":  "Beban Pemeliharaan Bangunan Gedung-Bangunan Gedung Tempat Kerja-Bangunan Gedung Kantor",
+        "kategori":  "HSPK"
+    },
+    {
+        "kode":  "810203030030",
+        "deskripsi":  "Beban Pemeliharaan Bangunan Gedung-Bangunan Gedung Tempat Kerja-Bangunan Gedung Tempat Kerja Lainnya",
+        "kategori":  "HSPK"
+    },
+    {
+        "kode":  "810203040010",
+        "deskripsi":  "Beban Pemeliharaan Jalan dan Jembatan-Jalan-Jalan Lainnya",
+        "kategori":  "HSPK"
+    },
+    {
+        "kode":  "810203040026",
+        "deskripsi":  "Beban Pemeliharaan Bangunan Air-Bangunan Air Irigasi-Bangunan Pembawa Irigasi",
+        "kategori":  "HSPK"
+    },
+    {
+        "kode":  "111201030007",
+        "deskripsi":  "Perabot Kantor",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "130502010001",
+        "deskripsi":  "Alat Musik",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "130502010004",
+        "deskripsi":  "Barang Bercorak Kesenian Lainnya",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "130502030002",
+        "deskripsi":  "Tanda Penghargaan Bidang Lainnya",
+        "kategori":  "SSH"
+    },
+    {
+        "kode":  "134010203005",
+        "deskripsi":  "Jembatan Pada Jalan Kabupaten Lainnya",
+        "kategori":  "ASB"
+    },
+    {
+        "kode":  "810204010005",
+        "deskripsi":  "Beban Perjalanan Dinas Paket Meeting Luar Kota",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810202010074",
+        "deskripsi":  "Beban Insentif Tenaga Kesehatan Vaksinator",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810203020050",
+        "deskripsi":  "Beban Pemeliharaan Alat Angkutan-Alat Angkutan Apung Bermotor-Alat Angkutan Apung Bermotor Khusus",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810103070001",
+        "deskripsi":  "Beban Honorarium Penanggungjawaban Pengelola Keuangan",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810202010003",
+        "deskripsi":  "Beban Honorarium Narasumber atau Pembahas, Moderator, Pembawa Acara, dan Panitia",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810202010001",
+        "deskripsi":  "Beban Jasa Pengelolaan BMD yang Tidak Menghasilkan Pendapatan",
+        "kategori":  "SBU"
+    },
+    {
+        "kode":  "810103060001",
+        "deskripsi":  "Beban Jasa Pelayanan Kesehatan bagi ASN",
+        "kategori":  "SBU"
+    }
+]
